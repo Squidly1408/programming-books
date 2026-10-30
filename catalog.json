@@ -3205,7 +3205,7 @@
   "author": "Gary L. Cutler",
   "url": "https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf",
   "notes": "- Gary L. Cutler (PDF)",
-  "asset": "GNU.COBOL.Programmers.Guide.-.Gary.L..Cutler.pdf"
+  "file": "books/languages/COBOL/GNU.COBOL.Programmers.Guide.-.Gary.L..Cutler.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3218,7 +3218,7 @@
   "author": "",
   "url": "https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf",
   "notes": "(PDF)",
-  "asset": "ILE.COBOL.Programmer.s.Guide.pdf"
+  "file": "books/languages/COBOL/ILE.COBOL.Programmer.s.Guide.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3255,7 +3255,7 @@
   "author": "Paul Kelly",
   "url": "https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf",
   "notes": "- Paul Kelly (PDF)",
-  "asset": "Visual.COBOL.A.Developer.s.Guide.to.Modern.COBOL.-.Paul.Kelly.pdf"
+  "file": "books/languages/COBOL/Visual.COBOL.A.Developer.s.Guide.to.Modern.COBOL.-.Paul.Kelly.pdf"
  },
  {
   "list": "By Programming Language",
