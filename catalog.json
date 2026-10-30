@@ -12230,7 +12230,7 @@
   "author": "",
   "url": "http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf",
   "notes": "(PDF)",
-  "asset": "OpenMP.Application.Programming.Interface.Standard.Version.4.0.pdf"
+  "file": "books/languages/OpenMP/OpenMP.Application.Programming.Interface.Standard.Version.4.0.pdf"
  },
  {
   "list": "By Programming Language",
@@ -12243,7 +12243,7 @@
   "author": "",
   "url": "https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf",
   "notes": "(PDF)",
-  "asset": "OpenMP.Application.Programming.Interface.Standard.Version.5.0.pdf"
+  "file": "books/languages/OpenMP/OpenMP.Application.Programming.Interface.Standard.Version.5.0.pdf"
  },
  {
   "list": "By Programming Language",
