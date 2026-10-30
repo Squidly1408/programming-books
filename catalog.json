@@ -2364,7 +2364,7 @@
   "author": "Darren Yao",
   "url": "https://darrenyao.com/usacobook/cpp.pdf",
   "notes": "- Darren Yao (PDF)",
-  "asset": "An.Introduction.to.the.USA.Computing.Olympiad.C++.Edition.-.Darren.Yao.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/An.Introduction.to.the.USA.Computing.Olympiad.C++.Edition.-.Darren.Yao.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2413,7 +2413,7 @@
   "author": "JT Kalnay",
   "url": "https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf",
   "notes": "- JT Kalnay (PDF)",
-  "asset": "C++.For.Programmers.-.JT.Kalnay.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/C++.For.Programmers.-.JT.Kalnay.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2438,7 +2438,7 @@
   "author": "Jasmin Blanchette, Mark Summerfield",
   "url": "https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf",
   "notes": "- Jasmin Blanchette, Mark Summerfield (PDF)",
-  "asset": "C++.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/C++.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2583,7 +2583,7 @@
   "author": "Richard L. Halterman",
   "url": "https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf",
   "notes": "- Richard L. Halterman (PDF) *( :card_file_box: archived)*",
-  "asset": "Fundamentals.of.C++.Programming.-.Richard.L..Halterman.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Fundamentals.of.C++.Programming.-.Richard.L..Halterman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2656,7 +2656,7 @@
   "author": "Alan Ezust, Paul Ezust",
   "url": "http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf",
   "notes": "- Alan Ezust, Paul Ezust (PDF)",
-  "asset": "Introduction.to.Design.Patterns.in.C++.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Introduction.to.Design.Patterns.in.C++.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2669,7 +2669,7 @@
   "author": "Bjarne Stroustrup",
   "url": "http://www.stroustrup.com/JSF-AV-rules.pdf",
   "notes": "- Bjarne Stroustrup (PDF)",
-  "asset": "Joint.Strike.Fighter.C++.Coding.Standards.-.Bjarne.Stroustrup.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Joint.Strike.Fighter.C++.Coding.Standards.-.Bjarne.Stroustrup.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2706,7 +2706,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/cplusplus.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF) (CC BY-SA)",
-  "asset": "Learning.C++.eBook.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Learning.C++.eBook.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2719,7 +2719,7 @@
   "author": "Jorg Arndt",
   "url": "http://www.jjj.de/fxt/fxtbook.pdf",
   "notes": "- Jorg Arndt (PDF)",
-  "asset": "Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2732,7 +2732,7 @@
   "author": "Changkun Ou",
   "url": "https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf",
   "notes": "- Changkun Ou (PDF) (CC BY-NC-ND)",
-  "asset": "Modern.C++.Tutorial.C++11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Modern.C++.Tutorial.C++11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2757,7 +2757,7 @@
   "author": "Pat Morin",
   "url": "http://opendatastructures.org/ods-cpp.pdf",
   "notes": "- Pat Morin (PDF) (CC BY)",
-  "asset": "Open.Data.Structures.In.C++.-.Pat.Morin.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Open.Data.Structures.In.C++.-.Pat.Morin.pdf"
  },
  {
   "list": "By Programming Language",
@@ -2866,7 +2866,7 @@
   "author": "Thomas K\u00f6ppe",
   "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf",
   "notes": "- Thomas K\u00f6ppe (PDF) *( :construction: in process)*",
-  "asset": "Working.Draft.Standard.for.Programming.Language.C++.2021.Revision.-.Thomas.K.ppe.pdf"
+  "file": "books/languages/a id=-cpp-a-C++/Working.Draft.Standard.for.Programming.Language.C++.2021.Revision.-.Thomas.K.ppe.pdf"
  },
  {
   "list": "By Programming Language",
