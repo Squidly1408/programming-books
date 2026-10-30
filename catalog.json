@@ -16688,7 +16688,7 @@
   "author": "Andrew Shitov",
   "url": "https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf",
   "notes": "- Andrew Shitov (PDF)",
-  "asset": "Perl.6.at.a.Glance.-.Andrew.Shitov.pdf"
+  "file": "books/languages/Raku/Perl.6.at.a.Glance.-.Andrew.Shitov.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16725,7 +16725,7 @@
   "author": "Andrew Shitov",
   "url": "https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf",
   "notes": "- Andrew Shitov (PDF)",
-  "asset": "Raku.One-Liners.-.Andrew.Shitov.pdf"
+  "file": "books/languages/Raku/Raku.One-Liners.-.Andrew.Shitov.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16750,7 +16750,7 @@
   "author": "Laurent Rosenfeld, Allen B. Downey",
   "url": "https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf",
   "notes": "- Laurent Rosenfeld, Allen B. Downey (PDF)",
-  "asset": "Think.Raku.-.Laurent.Rosenfeld.Allen.B..Downey.pdf"
+  "file": "books/languages/Raku/Think.Raku.-.Laurent.Rosenfeld.Allen.B..Downey.pdf"
  },
  {
   "list": "By Programming Language",
