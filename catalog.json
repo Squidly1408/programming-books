@@ -23106,7 +23106,8 @@
   "title": "Discovering the STM32 Microcontroller",
   "author": "",
   "url": "https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf",
-  "notes": "(PDF) (CC BY-NC-SA)"
+  "notes": "(PDF) (CC BY-NC-SA)",
+  "file": "books/subjects/Embedded Systems/Discovering.the.STM32.Microcontroller.pdf"
  },
  {
   "list": "By Subject",
@@ -23119,7 +23120,7 @@
   "author": "Byte Craft Limited",
   "url": "https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf",
   "notes": "- Byte Craft Limited (PDF)",
-  "asset": "First.Steps.with.Embedded.Systems.-.Byte.Craft.Limited.pdf"
+  "file": "books/subjects/Embedded Systems/First.Steps.with.Embedded.Systems.-.Byte.Craft.Limited.pdf"
  },
  {
   "list": "By Subject",
@@ -23132,7 +23133,7 @@
   "author": "Edward Ashford Lee, Sanjit Arunkumar Seshia",
   "url": "https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf",
   "notes": "- Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)",
-  "asset": "Introduction.to.Embedded.Systems.Second.Edition.-.Edward.Ashford.Lee.Sanjit.Arunkumar.Seshia.pdf"
+  "file": "books/subjects/Embedded Systems/Introduction.to.Embedded.Systems.Second.Edition.-.Edward.Ashford.Lee.Sanjit.Arunkumar.Seshia.pdf"
  },
  {
   "list": "By Subject",
@@ -23157,7 +23158,7 @@
   "author": "freertos.org",
   "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf",
   "notes": "- freertos.org (PDF)",
-  "asset": "Mastering.the.FreeRTOS.Real.Time.Kernel.-.a.Hands.On.Tutorial.Guide.-.freertos.org.pdf"
+  "file": "books/subjects/Embedded Systems/Mastering.the.FreeRTOS.Real.Time.Kernel.-.a.Hands.On.Tutorial.Guide.-.freertos.org.pdf"
  },
  {
   "list": "By Subject",
