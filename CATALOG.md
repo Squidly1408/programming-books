@@ -3803,7 +3803,7 @@
 | Git From The Bottom Up | J. Wiegley |  | [link](https://jwiegley.github.io/git-from-the-bottom-up/) |
 | Git Immersion | Jim Weirich |  | [link](https://gitimmersion.com) |
 | Git In The Trenches | Peter Savage |  | [link](https://cbx33.github.io/gitt/index.html) |
-| Git internals | Scott Chacon | [PDF](books/subjects/a%20id%3D-version-control-systems-a-a%20id%3D-git-a-a%20id%3D-svn-a-a%20id%3D-subversion-a-a%20id%3D-mercurial-a-Version%20Control%20Systems/Git.internals.-.Scott.Chacon.pdf) | [link](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) |
+| Git internals | Scott Chacon | [PDF](books/subjects/Version%20Control%20Systems/Git.internals.-.Scott.Chacon.pdf) | [link](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) |
 | Git Magic | Ben Lynn, et al. |  | [link](http://www-cs-students.stanford.edu/~blynn/gitmagic/) |
 | Git Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/GitBook) |
 | Git Pocket Guide | Richard E. Silverman |  | [link](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) |
@@ -3824,7 +3824,7 @@
 | Pro Git | Scott Chacon, Ben Straub |  | [link](https://git-scm.com/book/en/) |
 | Pro Git Reedited | Jon Forrest |  | [link](https://leanpub.com/progitreedited/read) |
 | Ry's Git Tutorial | Ryan Hodson |  | [link](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) |
-| Subversion Version Control | William Nagel | [PDF](books/subjects/a%20id%3D-version-control-systems-a-a%20id%3D-git-a-a%20id%3D-svn-a-a%20id%3D-subversion-a-a%20id%3D-mercurial-a-Version%20Control%20Systems/Subversion.Version.Control.-.William.Nagel.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) |
+| Subversion Version Control | William Nagel | [PDF](books/subjects/Version%20Control%20Systems/Subversion.Version.Control.-.William.Nagel.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) |
 | Think Like (a) Git: A Guide for the Perplexed | Sam Livingston-Gray |  | [link](https://think-like-a-git.net) |
 | Version Control with Subversion | Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato |  | [link](https://svnbook.red-bean.com/index.en.html) |
 
