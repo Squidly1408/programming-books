@@ -12316,7 +12316,7 @@
   "author": "",
   "url": "https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf",
   "notes": "(PDF)",
-  "asset": "Pascal.Language.Reference.pdf"
+  "file": "books/languages/Pascal/Pascal.Language.Reference.pdf"
  },
  {
   "list": "By Programming Language",
@@ -12365,7 +12365,7 @@
   "author": "Borland International",
   "url": "http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf",
   "notes": "- Borland International (PDF)",
-  "asset": "Turbo.Pascal.Reference.Guide.1989.-.Borland.International.pdf"
+  "file": "books/languages/Pascal/Turbo.Pascal.Reference.Guide.1989.-.Borland.International.pdf"
  },
  {
   "list": "By Programming Language",
@@ -12401,7 +12401,8 @@
   "title": "VSI Pascal for OpenVMS Reference Manual",
   "author": "VMS Software",
   "url": "https://web.archive.org/web/20230207090951/https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf",
-  "notes": "- VMS Software (PDF) *( :card_file_box: archived)*"
+  "notes": "- VMS Software (PDF) *( :card_file_box: archived)*",
+  "file": "books/languages/Pascal/VSI.Pascal.for.OpenVMS.Reference.Manual.-.VMS.Software.pdf"
  },
  {
   "list": "By Programming Language",
