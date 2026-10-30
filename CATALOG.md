@@ -1,6 +1,6 @@
 # Catalog
 
-2496 English books listed, **370 saved as files** in [`books/`](books). Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
+2496 English books listed, **377 saved as files** in [`books/`](books). Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
 
 
 ## By Programming Language
@@ -272,14 +272,14 @@
 | The Basics of C Programming | Marshall Brain | [PDF](books/languages/C/The.Basics.of.C.Programming.-.Marshall.Brain.pdf) | [link](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) |
 | The C book | Mike Banahan, Declan Brady, Mark Doran |  | [link](https://publications.gbdirect.co.uk/c_book/) |
 | The C Programming Language Handbook | Flavio Copes |  | [link](https://flaviocopes.com/page/c-handbook/) |
-| The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft | Open Standards Org - www.open-std.org |  | [link](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) |
+| The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft | Open Standards Org - www.open-std.org | [PDF](books/languages/C/The.Current.C.Programming.Language.Standard.ISO.IEC.9899.2018.C17.C18.Draft.-.Open.Standards.Org.-.www.open-std.org.pdf) | [link](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) |
 | The GNU C Programming Tutorial | Mark Burgess, Ron Hale-Evans | [PDF](books/languages/C/The.GNU.C.Programming.Tutorial.-.Mark.Burgess.Ron.Hale-Evans.pdf) | [link](http://www.crasseux.com/books/ctut.pdf) |
 | The GNU C Reference Manual | Trevis Rothwell, James Youngman |  | [link](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) |
 | The little book about OS development | Erik Helin, Adam Renberg |  | [link](https://littleosbook.github.io) |
 | The New C Standard - An Economic and Cultural commentary (2009) | Derek M. Jones |  | [link](http://www.knosof.co.uk/cbook/cbook.html) |
 | TONC GBA Programming - Game Boy Advance Development |  |  | [link](https://www.coranac.com/tonc/text/toc.htm) |
 
-### <a id="csharp"></a>C\#
+### C#
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
@@ -287,10 +287,10 @@
 | C# Features Succinctly | Dirk Strauss |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) |
 | C# Notes for Professionals | Compiled from StackOverflow documentation |  | [link](http://goalkicker.com/CSharpBook/) |
 | C# Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/C_Sharp_Programming) |
-| C# Programming Yellow Book | Rob Miles | [PDF](books/languages/a%20id%3D-csharp-a-C-%23/C.Programming.Yellow.Book.-.Rob.Miles.pdf) | [link](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) |
+| C# Programming Yellow Book | Rob Miles | [PDF](books/languages/C%23/C.Programming.Yellow.Book.-.Rob.Miles.pdf) | [link](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) |
 | C# Smorgasbord | Filip Ekberg |  | [link](https://www.filipekberg.se) |
 | Creating Mobile Apps with Xamarin.Forms C# | Charles Petzold |  | [link](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) |
-| Daily Design Patterns | Matthew P Jones |  | [link](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) |
+| Daily Design Patterns | Matthew P Jones | [PDF](books/languages/C%23/Daily.Design.Patterns.-.Matthew.P.Jones.pdf) | [link](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) |
 | Data Structures and Algorithms with Object-Oriented Design Patterns in C# | Bruno Preiss |  | [link](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) |
 | Dissecting a C# Application | Christian Holm, Bernhard Spuida, Mike Kruger |  | [link](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) |
 | Essential C# | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/csharp/) |
@@ -298,7 +298,7 @@
 | High level asynchronous programming with Reactive Extensions | Emil Petro |  | [link](https://github.com/petroemil/Rx.Book) |
 | Introduction to Rx |  |  | [link](http://www.introtorx.com) |
 | Learn C# in Y Minutes |  |  | [link](https://learnxinyminutes.com/docs/csharp/) |
-| Learning C# Language | Compiled from StackOverflow Documentation | [PDF](books/languages/a%20id%3D-csharp-a-C-%23/Learning.C.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/csharp-language.pdf) |
+| Learning C# Language | Compiled from StackOverflow Documentation | [PDF](books/languages/C%23/Learning.C.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/csharp-language.pdf) |
 | Mastering Xamarin UI Development, Second Edition | Steven F. Daniel |  | [link](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) |
 | Modernize existing .NET applications with Azure cloud and Windows Containers | Cesar de la Torre |  | [link](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) |
 | Modernizing Desktop Apps on Windows with .NET 6 | Olia Gavrysh, Miguel Angel Castejón Dominguez |  | [link](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) |
@@ -312,19 +312,19 @@
 | Xamarin.Forms Notes for professionals | Compiled from StackOverflow documentation |  | [link](https://books.goalkicker.com/XamarinFormsBook/) |
 | Xamarin.Forms Succinctly | Alessandro Del Sole |  | [link](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) |
 
-### <a id="cpp"></a>C++
+### C++
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Complete Guide to Standard C++ Algorithms | Šimon Tóth |  | [link](https://github.com/HappyCerberus/book-cpp-algorithms) |
 | A Modular Structured Approach using C++ | Kenneth Leroy Busbee |  | [link](https://open.umn.edu/opentextbooks/textbooks/144) |
-| An Introduction to the USA Computing Olympiad, C++ Edition | Darren Yao | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/An.Introduction.to.the.USA.Computing.Olympiad.C%2B%2B.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/cpp.pdf) |
+| An Introduction to the USA Computing Olympiad, C++ Edition | Darren Yao | [PDF](books/languages/C%2B%2B/An.Introduction.to.the.USA.Computing.Olympiad.C%2B%2B.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/cpp.pdf) |
 | C++ Annotations | Frank B. Brokken |  | [link](https://fbb-git.gitlab.io/cppannotations/) |
 | C++ Coding Standard | Todd Hoff |  | [link](https://possibility.com/Cpp/CppCodingStandard.html) |
 | C++ Core Guidelines | `edt.:` Bjarne Stroustrup, Herb Sutter |  | [link](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) |
-| C++ For Programmers | JT Kalnay | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/C%2B%2B.For.Programmers.-.JT.Kalnay.pdf) | [link](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) |
+| C++ For Programmers | JT Kalnay | [PDF](books/languages/C%2B%2B/C%2B%2B.For.Programmers.-.JT.Kalnay.pdf) | [link](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) |
 | C++ Fundamentals for Robotics | Automatic Addison |  | [link](https://automaticaddison.com/cpp-fundamentals-for-robotics) |
-| C++ GUI Programming With Qt 3 | Jasmin Blanchette, Mark Summerfield | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/C%2B%2B.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) |
+| C++ GUI Programming With Qt 3 | Jasmin Blanchette, Mark Summerfield | [PDF](books/languages/C%2B%2B/C%2B%2B.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) |
 | C++ Language |  |  | [link](http://www.cplusplus.com/doc/tutorial/) |
 | C++ Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/CPlusPlusBook) |
 | C++ Programming | Panic, et al. |  | [link](https://en.wikibooks.org/wiki/C%2B%2B_Programming) |
@@ -336,21 +336,21 @@
 | Elements of Programming | Alexander Stepanov, Paul McJones |  | [link](http://elementsofprogramming.com) |
 | Essential C++ | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/cpp/) |
 | Financial Numerical Recipes in C++ | Bernt Arne Ødegaard |  | [link](https://ba-odegaard.no/gcc_prog/recipes/) |
-| Fundamentals of C++ Programming | Richard L. Halterman | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Fundamentals.of.C%2B%2B.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) |
+| Fundamentals of C++ Programming | Richard L. Halterman | [PDF](books/languages/C%2B%2B/Fundamentals.of.C%2B%2B.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) |
 | Game Programming Patterns |  |  | [link](http://gameprogrammingpatterns.com/contents.html) |
 | Google's C++ Style Guide |  |  | [link](https://google.github.io/styleguide/cppguide.html) |
 | Hands-On System Programming with C++ | Rian Quinn |  | [link](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) |
 | How to make an Operating System | Samy Pesse |  | [link](https://samypesse.gitbook.io/how-to-create-an-operating-system/) |
 | How To Think Like a Computer Scientist: C++ Version | Allen B. Downey |  | [link](http://greenteapress.com/thinkcpp/index.html) |
-| Introduction to Design Patterns in C++ with Qt 4 | Alan Ezust, Paul Ezust | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Introduction.to.Design.Patterns.in.C%2B%2B.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) |
-| Joint Strike Fighter, C++ Coding Standards | Bjarne Stroustrup | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Joint.Strike.Fighter.C%2B%2B.Coding.Standards.-.Bjarne.Stroustrup.pdf) | [link](http://www.stroustrup.com/JSF-AV-rules.pdf) |
+| Introduction to Design Patterns in C++ with Qt 4 | Alan Ezust, Paul Ezust | [PDF](books/languages/C%2B%2B/Introduction.to.Design.Patterns.in.C%2B%2B.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) |
+| Joint Strike Fighter, C++ Coding Standards | Bjarne Stroustrup | [PDF](books/languages/C%2B%2B/Joint.Strike.Fighter.C%2B%2B.Coding.Standards.-.Bjarne.Stroustrup.pdf) | [link](http://www.stroustrup.com/JSF-AV-rules.pdf) |
 | Learn C++ Programming Language | Tutorials Point |  | [link](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) |
 | LearnCpp.com |  |  | [link](https://www.learncpp.com) |
-| Learning C++ eBook | Compiled from StackOverflow Documentation | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Learning.C%2B%2B.eBook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/cplusplus.pdf) |
-| Matters Computational: Ideas, Algorithms, Source Code | Jorg Arndt | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf) | [link](http://www.jjj.de/fxt/fxtbook.pdf) |
-| Modern C++ Tutorial: C++11/14/17/20 On the Fly | Changkun Ou | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Modern.C%2B%2B.Tutorial.C%2B%2B11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf) | [link](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) |
+| Learning C++ eBook | Compiled from StackOverflow Documentation | [PDF](books/languages/C%2B%2B/Learning.C%2B%2B.eBook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/cplusplus.pdf) |
+| Matters Computational: Ideas, Algorithms, Source Code | Jorg Arndt | [PDF](books/languages/C%2B%2B/Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf) | [link](http://www.jjj.de/fxt/fxtbook.pdf) |
+| Modern C++ Tutorial: C++11/14/17/20 On the Fly | Changkun Ou | [PDF](books/languages/C%2B%2B/Modern.C%2B%2B.Tutorial.C%2B%2B11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf) | [link](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) |
 | More C++ Idioms | Sumant Tambe, et al. |  | [link](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) |
-| Open Data Structures (In C++) | Pat Morin | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Open.Data.Structures.In.C%2B%2B.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-cpp.pdf) |
+| Open Data Structures (In C++) | Pat Morin | [PDF](books/languages/C%2B%2B/Open.Data.Structures.In.C%2B%2B.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-cpp.pdf) |
 | Programming Fundamentals - A Modular Structured Approach using C++ | Kenneth Leroy Busbee |  | [link](https://archive.org/details/cnx-org-col10621/mode/1up) |
 | Software Design Using C++ | Br. David Carlson, Br. Isidore Minerd |  | [link](http://cis.stvincent.edu/html/tutorials/swd/) |
 | Software optimization resources | Agner Fog |  | [link](http://www.agner.org/optimize/) |
@@ -359,7 +359,7 @@
 | The Ultimate Question of Programming, Refactoring, and Everything |  |  | [link](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details) |
 | Think C++: How To Think Like a Computer Scientist | Allen B. Downey |  | [link](https://greenteapress.com/wp/think-c/) |
 | Thinking in C++, Second Edition, Vol. 1. | Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo) |  | [link](https://archive.org/details/TICPP2ndEdVolOne) |
-| Working Draft, Standard for Programming Language C++, 2021 Revision | Thomas Köppe | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Working.Draft.Standard.for.Programming.Language.C%2B%2B.2021.Revision.-.Thomas.K.ppe.pdf) | [link](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) |
+| Working Draft, Standard for Programming Language C++, 2021 Revision | Thomas Köppe | [PDF](books/languages/C%2B%2B/Working.Draft.Standard.for.Programming.Language.C%2B%2B.2021.Revision.-.Thomas.K.ppe.pdf) | [link](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) |
 
 ### Carbon
 
@@ -907,7 +907,7 @@
 | Building Back-End Web Apps with Java, JPA and JSF | Mircea Diaconescu, Gerd Wagner |  | [link](https://web-engineering.info/tech/JavaJpaJsf/book/) |
 | Category wise tutorials - J2EE | Yong Mook Kim |  | [link](https://www.mkyong.com/all-tutorials-on-mkyong-com/) |
 | Core Servlets and JavaServer Pages, 2nd Ed. (2003) | Marty Hall, Larry Brown |  | [link](https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/) |
-| Data Structures in Java for the Principled Programmer (2007) | Duane A. Bailey |  | [link](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) |
+| Data Structures in Java for the Principled Programmer (2007) | Duane A. Bailey | [PDF](books/languages/Java/Data.Structures.in.Java.for.the.Principled.Programmer.2007.-.Duane.A..Bailey.pdf) | [link](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) |
 | Effective Java, Third Edition | Joshua Bloch |  | [link](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) |
 | Essential Java | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/java/) |
 | Google's Java Style Guide |  |  | [link](https://google.github.io/styleguide/javaguide.html) |
@@ -1924,7 +1924,7 @@
 | Building Data Products: The Ultimate Guide |  |  | [link](https://resources.montecarlodata.com/c/ebook-building-data-products?x=gEwOdf) |
 | Building Skills in Object-Oriented Design, V4 | Steven F. Lott |  | [link](https://slott56.github.io/building-skills-oo-design-book/build/html/) |
 | Building Skills in Object-Oriented Design, Release 2.2.1 | Steven F. Lott | [PDF](books/languages/Python/Building.Skills.in.Object-Oriented.Design.Release.2.2.1.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) |
-| Building Skills in Object-Oriented Design, Release 3.1 | Steven F. Lott |  | [link](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) |
+| Building Skills in Object-Oriented Design, Release 3.1 | Steven F. Lott | [PDF](books/languages/Python/Building.Skills.in.Object-Oriented.Design.Release.3.1.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) |
 | Building Skills in Python | Steven F. Lott | [PDF](books/languages/Python/Building.Skills.in.Python.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) |
 | Clean Architectures in Python - A practical approach to better software design (2022) | Leonardo Giordani |  | [link](https://www.thedigitalcatbooks.com/pycabook-introduction/) |
 | Code Like a Pythonista: Idiomatic Python | David Goodger |  | [link](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) |
@@ -2138,7 +2138,7 @@
 |---|---|---|---|
 | Learn Web Programming |  |  | [link](https://bitbucket.org/hrojas/learn-web-programming) |
 
-### <a id="q-sharp"></a>Q\#
+### Q#
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
@@ -2275,7 +2275,7 @@
 | The Little Book Of Ruby | Huw Collingbourne |  | [link](https://web.archive.org/web/20230314185709/http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) |
 | The Ruby Reference | Victor Shepelev |  | [link](https://rubyreferences.github.io/rubyref/) |
 | The Unofficial Ruby Usage Guide (at Google) | Ian Macdonald |  | [link](http://www.caliban.org/ruby/rubyguide.shtml) |
-| Using Blocks in Ruby | Jay McGavren |  | [link](https://web.archive.org/web/20201027171026/https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) |
+| Using Blocks in Ruby | Jay McGavren | [PDF](books/languages/Ruby/Using.Blocks.in.Ruby.-.Jay.McGavren.pdf) | [link](https://web.archive.org/web/20201027171026/https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) |
 | Why's (Poignant) Guide to Ruby |  |  | [link](http://poignant.guide) |
 
 ### Ruby / RSpec
@@ -2802,7 +2802,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Common-Sense Guide to Data Structures & Algorithms | Jay Wengrow |  | [link](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf) |
-| A Field Guide To Genetic Programming | Riccardo Poli, William B. Langdon, Nicholas F. McPhee |  | [link](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) |
+| A Field Guide To Genetic Programming | Riccardo Poli, William B. Langdon, Nicholas F. McPhee | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/A.Field.Guide.To.Genetic.Programming.-.Riccardo.Poli.William.B.Langdon.Nicholas.F.McPhee.pdf) | [link](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) |
 | Algorithm Design | Jon Kleinberg, Éva Tardos |  | [link](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) |
 | Algorithmic Graph Theory | David Joyner, Minh Van Nguyen, David Phillips |  | [link](https://code.google.com/p/graphbook/) |
 | Algorithmic Thinking | Donglai Fu |  | [link](https://labuladong.gitbook.io/algo-en) |
@@ -2870,7 +2870,7 @@
 | Hugging Face LLM Course |  |  | [link](https://huggingface.co/learn/llm-course/en/chapter1/1) |
 | Introduction to Autonomous Robots | Nikolaus Correll |  | [link](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) |
 | Large Language Models from Scratch | freeCodeCamp |  | [link](https://www.youtube.com/watch?v=lnA9DMvHtfI) |
-| Machine Learning For Dummies®, IBM Limited Edition | Daniel Kirsch, Judith Hurwitz | [PDF](books/subjects/Artificial%20Intelligence/Machine.Learning.For.Dummies.IBM.Limited.Edition.-.Daniel.Kirsch.Judith.Hurwitz.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
+| Machine Learning For Dummies®, IBM Limited Edition | Daniel Kirsch, Judith Hurwitz | [PDF](books/subjects/Machine%20Learning/IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
 | Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists | Data Science Horizons |  | [link](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) |
 | On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age | Thomas D. Grant, Damon J. Wischik |  | [link](https://link.springer.com/book/10.1007/978-3-030-43582-0) |
 | Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp | Peter Norvig |  | [link](https://github.com/norvig/paip-lisp) |
@@ -2952,7 +2952,7 @@
 | Basics of Compiler Design (Anniversary Edition) | Torben Mogensen |  | [link](http://www.diku.dk/~torbenm/Basics/) |
 | Compiler Construction using C# (SLANGFOR.NET) | Praseed Pai | [PDF](books/subjects/Compiler%20Design/Compiler.Construction.using.C.SLANGFOR.NET.-.Praseed.Pai.pdf) | [link](https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf) |
 | Compiler Design in C (1990) | Allen Holub, Prentice Hall | [PDF](books/subjects/Compiler%20Design/Compiler.Design.in.C.1990.-.Allen.Holub.Prentice.Hall.pdf) | [link](https://holub.com/goodies/compiler/compilerDesignInC.pdf) |
-| Compiler Design: Theory, Tools, and Examples, C/C++ Edition | Seth D. Bergmann |  | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) |
+| Compiler Design: Theory, Tools, and Examples, C/C++ Edition | Seth D. Bergmann | [PDF](books/subjects/Compiler%20Design/Compiler.Design.Theory.Tools.and.Examples.C.C%2B%2B.Edition.-.Seth.D..Bergmann.pdf) | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) |
 | Compiler Design: Theory, Tools, and Examples, Java Edition | Seth D. Bergmann | [PDF](books/subjects/Compiler%20Design/Compiler.Design.Theory.Tools.and.Examples.Java.Edition.-.Seth.D..Bergmann.pdf) | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) |
 | Compiling Scala for the Java Virtual Machine | Michel Schinz | [PDF](books/subjects/Compiler%20Design/Compiling.Scala.for.the.Java.Virtual.Machine.-.Michel.Schinz.pdf) | [link](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) |
 | Compiling Techniques (1969) | F.R.A. Hopgood, Macdonald |  | [link](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) |
@@ -3331,7 +3331,7 @@
 | Algebra: An Elementary Text-Book, Part II (1900) | G. Chrystal | [PDF](books/subjects/Mathematics/Algebra/Algebra.An.Elementary.Text-Book.Part.II.1900.-.G..Chrystal.pdf) | [link](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) |
 | Algebraic Topology | Allen Hatcher |  | [link](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) |
 | Basic Algebra | Anthony W. Knapp | [PDF](books/subjects/Mathematics/Algebra/Basic.Algebra.-.Anthony.W..Knapp.pdf) | [link](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) |
-| Basics of Algebra, Topology, and Differential Calculus |  | [PDF](books/subjects/Mathematics/Algebra/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
+| Basics of Algebra, Topology, and Differential Calculus |  | [PDF](books/subjects/Mathematics/Calculus/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
 | Beginning and Intermediate Algebra | Tyler Wallace |  | [link](http://www.wallace.ccfaculty.org/book/book.html) |
 | Course Of Linear Algebra And Multidimensional Geometry | Ruslan Sharipov(PDF) | [PDF](books/subjects/Mathematics/Algebra/Course.Of.Linear.Algebra.And.Multidimensional.Geometry.-.Ruslan.Sharipov.PDF.pdf) | [link](https://arxiv.org/pdf/math/0405323) |
 | Elements of Abstract and Linear Algebra | E. H. Connell |  | [link](https://www.math.miami.edu/~ec/book/) |
@@ -3789,7 +3789,7 @@
 | Programming Languages: Theory and Practice | Robert Harper |  | [link](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) |
 | Semantics with Applications: A Formal Introduction | Hanne Riis Nielson, Flemming Nielson | [PDF](books/subjects/Theoretical%20Computer%20Science/Semantics.with.Applications.A.Formal.Introduction.-.Hanne.Riis.Nielson.Flemming.Nielson.pdf) | [link](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) |
 
-### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>Version Control Systems
+### Version Control Systems
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
