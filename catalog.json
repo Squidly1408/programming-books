@@ -13853,7 +13853,7 @@
   "author": "",
   "url": "https://artint.info/AIPython/aipython/aipython.pdf",
   "notes": "(PDF)",
-  "asset": "AIPython.Python.Code.for.understanding.AI.pdf"
+  "file": "books/languages/Python/AIPython.Python.Code.for.understanding.AI.pdf"
  },
  {
   "list": "By Programming Language",
@@ -13974,7 +13974,7 @@
   "author": "Steven F. Lott",
   "url": "https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf",
   "notes": "- Steven F. Lott (PDF) (2.2.1) *( :card_file_box: archived)*",
-  "asset": "Building.Skills.in.Object-Oriented.Design.Release.2.2.1.-.Steven.F..Lott.pdf"
+  "file": "books/languages/Python/Building.Skills.in.Object-Oriented.Design.Release.2.2.1.-.Steven.F..Lott.pdf"
  },
  {
   "list": "By Programming Language",
@@ -13986,8 +13986,7 @@
   "title": "Building Skills in Object-Oriented Design, Release 3.1",
   "author": "Steven F. Lott",
   "url": "https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf",
-  "notes": "- Steven F. Lott (PDF) (3.1) *( :card_file_box: archived)*",
-  "asset": "Building.Skills.in.Object-Oriented.Design.Release.3.1.-.Steven.F..Lott.pdf"
+  "notes": "- Steven F. Lott (PDF) (3.1) *( :card_file_box: archived)*"
  },
  {
   "list": "By Programming Language",
@@ -14000,7 +13999,7 @@
   "author": "Steven F. Lott",
   "url": "https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf",
   "notes": "- Steven F. Lott (PDF) (2.6) *( :card_file_box: archived)*",
-  "asset": "Building.Skills.in.Python.-.Steven.F..Lott.pdf"
+  "file": "books/languages/Python/Building.Skills.in.Python.-.Steven.F..Lott.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14169,7 +14168,7 @@
   "author": "Richard L. Halterman",
   "url": "https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf",
   "notes": "- Richard L. Halterman (PDF) *( :construction: in process)*",
-  "asset": "Fundamentals.of.Python.Programming.-.Richard.L..Halterman.pdf"
+  "file": "books/languages/Python/Fundamentals.of.Python.Programming.-.Richard.L..Halterman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14266,7 +14265,7 @@
   "author": "Lisa Tagliaferri",
   "url": "https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf",
   "notes": "- Lisa Tagliaferri (PDF)",
-  "asset": "How.to.Code.in.Python.3.-.Lisa.Tagliaferri.pdf"
+  "file": "books/languages/Python/How.to.Code.in.Python.3.-.Lisa.Tagliaferri.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14411,7 +14410,7 @@
   "author": "Kevin Sheppard",
   "url": "https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf",
   "notes": "- Kevin Sheppard (PDF) (3.8)",
-  "asset": "Introduction.to.Python.for.Econometrics.Statistics.and.Numerical.Analysis.-.Kevin.Sheppard.pdf"
+  "file": "books/languages/Python/Introduction.to.Python.for.Econometrics.Statistics.and.Numerical.Analysis.-.Kevin.Sheppard.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14544,7 +14543,7 @@
   "author": "Cody Jackson",
   "url": "https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf",
   "notes": "- Cody Jackson (PDF) *( :card_file_box: archived)*",
-  "asset": "Learn.to.Program.Using.Python.-.Cody.Jackson.pdf"
+  "file": "books/languages/Python/Learn.to.Program.Using.Python.-.Cody.Jackson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14617,7 +14616,7 @@
   "author": "Tom D. De Smedt",
   "url": "https://arxiv.org/pdf/1410.0281.pdf",
   "notes": "- Tom D. De Smedt (PDF)",
-  "asset": "Modeling.Creativity.Case.Studies.in.Python.-.Tom.D..De.Smedt.pdf"
+  "file": "books/languages/Python/Modeling.Creativity.Case.Studies.in.Python.-.Tom.D..De.Smedt.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14702,7 +14701,7 @@
   "author": "Jeffrey Elkner",
   "url": "https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf",
   "notes": "- Jeffrey Elkner (PDF)",
-  "asset": "Practical.Programming.in.Python.-.Jeffrey.Elkner.pdf"
+  "file": "books/languages/Python/Practical.Programming.in.Python.-.Jeffrey.Elkner.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14787,7 +14786,7 @@
   "author": "",
   "url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
   "notes": "(PDF)",
-  "asset": "Programming.Computer.Vision.with.Python.pdf"
+  "file": "books/languages/Python/Programming.Computer.Vision.with.Python.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14800,7 +14799,7 @@
   "author": "Steven F. Lott",
   "url": "https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf",
   "notes": "- Steven F. Lott (PDF) (2.6) *( :card_file_box: archived)*",
-  "asset": "Programming.for.Non-Programmers.Release.2.6.2.-.Steven.F..Lott.pdf"
+  "file": "books/languages/Python/Programming.for.Non-Programmers.Release.2.6.2.-.Steven.F..Lott.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14813,7 +14812,7 @@
   "author": "Thomas Weise",
   "url": "https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf",
   "notes": "- Thomas Weise (PDF) (CC BY\u2011NC\u2011SA)",
-  "asset": "Programming.with.Python.-.Thomas.Weise.pdf"
+  "file": "books/languages/Python/Programming.with.Python.-.Thomas.Weise.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14862,7 +14861,7 @@
   "author": "John W. Shipman",
   "url": "https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf",
   "notes": "- John W. Shipman (PDF) (2.7) *( :card_file_box: archived)*",
-  "asset": "Python.2.7.quick.reference.-.John.W..Shipman.pdf"
+  "file": "books/languages/Python/Python.2.7.quick.reference.-.John.W..Shipman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -14923,7 +14922,7 @@
   "author": "Imad Pasha, Christopher Agostino",
   "url": "https://prappleizer.github.io/textbook.pdf",
   "notes": "- Imad Pasha, Christopher Agostino (PDF)",
-  "asset": "Python.for.Astronomers.-.Imad.Pasha.Christopher.Agostino.pdf"
+  "file": "books/languages/Python/Python.for.Astronomers.-.Imad.Pasha.Christopher.Agostino.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15008,7 +15007,7 @@
   "author": "",
   "url": "https://bennuttall.com/files/python-idioms-2014-01-16.pdf",
   "notes": "(PDF)",
-  "asset": "Python.Idioms.pdf"
+  "file": "books/languages/Python/Python.Idioms.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15129,7 +15128,7 @@
   "author": "Wikibooks",
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf",
   "notes": "- Wikibooks (PDF) (2.6)",
-  "asset": "Python.Programming.-.Wikibooks.pdf"
+  "file": "books/languages/Python/Python.Programming.-.Wikibooks.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15154,7 +15153,7 @@
   "author": "Al Sweigart",
   "url": "https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf",
   "notes": "- Al Sweigart (PDF)",
-  "asset": "Python.Programming.Exercises.Gently.Explained.-.Al.Sweigart.pdf"
+  "file": "books/languages/Python/Python.Programming.Exercises.Gently.Explained.-.Al.Sweigart.pdf"
  },
  {
   "list": "By Programming Language",
