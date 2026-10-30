@@ -10092,7 +10092,7 @@
   "author": "Tobias Elsner, Anselm Lingnau",
   "url": "https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf",
   "notes": "- Tobias Elsner, Anselm Lingnau (PDF) (CC BY-SA)",
-  "asset": "Advanced.Linux.The.Linux.Shell.And.Toolkit.-.Tobias.Elsner.Anselm.Lingnau.pdf"
+  "file": "books/languages/Linux/Advanced.Linux.The.Linux.Shell.And.Toolkit.-.Tobias.Elsner.Anselm.Lingnau.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10165,7 +10165,7 @@
   "author": "Machtelt Garrels",
   "url": "https://tldp.org/LDP/intro-linux/intro-linux.pdf",
   "notes": "- Machtelt Garrels (PDF)",
-  "asset": "Introduction.to.Linux.-.A.Hands.on.Guide.-.Machtelt.Garrels.pdf"
+  "file": "books/languages/Linux/Introduction.to.Linux.-.A.Hands.on.Guide.-.Machtelt.Garrels.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10214,7 +10214,7 @@
   "author": "Ramesh Natarajan",
   "url": "http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip",
   "notes": "- Ramesh Natarajan (PDF)",
-  "asset": "Linux.101.Hacks.-.Ramesh.Natarajan.zip"
+  "file": "books/languages/Linux/Linux.101.Hacks.-.Ramesh.Natarajan.zip"
  },
  {
   "list": "By Programming Language",
@@ -10227,7 +10227,7 @@
   "author": "Anselm Lingnau, Tobias Elsner",
   "url": "https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf",
   "notes": "- Anselm Lingnau, Tobias Elsner (PDF) (CC BY-SA)",
-  "asset": "Linux.Administration.II.Linux.as.a.Network.Client.-.Anselm.Lingnau.Tobias.Elsner.pdf"
+  "file": "books/languages/Linux/Linux.Administration.II.Linux.as.a.Network.Client.-.Anselm.Lingnau.Tobias.Elsner.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10312,7 +10312,7 @@
   "author": "Paul Cobbaut",
   "url": "http://linux-training.be/linuxfun.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.Fundamentals.-.Paul.Cobbaut.pdf"
+  "file": "books/languages/Linux/Linux.Fundamentals.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10373,7 +10373,7 @@
   "author": "Paul Cobbaut",
   "url": "https://linux-training.be/linuxsec.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.Security.-.Paul.Cobbaut.pdf"
+  "file": "books/languages/Linux/Linux.Security.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10386,7 +10386,7 @@
   "author": "Paul Cobbaut",
   "url": "https://linux-training.be/linuxsrv.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.Servers.-.Paul.Cobbaut.pdf"
+  "file": "books/languages/Linux/Linux.Servers.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10399,7 +10399,7 @@
   "author": "Paul Cobbaut",
   "url": "https://linux-training.be/linuxsto.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.Storage.-.Paul.Cobbaut.pdf"
+  "file": "books/languages/Linux/Linux.Storage.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10424,7 +10424,7 @@
   "author": "Paul Cobbaut",
   "url": "https://linux-training.be/linuxsys.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.System.Administration.-.Paul.Cobbaut.pdf"
+  "file": "books/languages/Linux/Linux.System.Administration.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10497,7 +10497,7 @@
   "author": "",
   "url": "http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf",
   "notes": "(PDF)",
-  "asset": "The.Linux.Development.Platform.pdf"
+  "file": "books/languages/Linux/The.Linux.Development.Platform.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10594,7 +10594,7 @@
   "author": "",
   "url": "http://www.akkadia.org/drepper/cpumemory.pdf",
   "notes": "(PDF)",
-  "asset": "What.Every.Programmer.Should.Know.About.Memory.pdf"
+  "file": "books/languages/Linux/What.Every.Programmer.Should.Know.About.Memory.pdf"
  },
  {
   "list": "By Programming Language",
