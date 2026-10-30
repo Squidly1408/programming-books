@@ -7544,7 +7544,7 @@
   "author": "Danny Goodman",
   "url": "http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf",
   "notes": "- Danny Goodman (PDF)",
-  "asset": "JavaScript.Bible.-.Danny.Goodman.pdf"
+  "file": "books/languages/JavaScript/JavaScript.Bible.-.Danny.Goodman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -7784,7 +7784,8 @@
   "title": "JS Robots",
   "author": "Mark Daggett",
   "url": "https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf",
-  "notes": "- Mark Daggett (PDF) *( :card_file_box: archived)*"
+  "notes": "- Mark Daggett (PDF) *( :card_file_box: archived)*",
+  "file": "books/languages/JavaScript/JS.Robots.-.Mark.Daggett.pdf"
  },
  {
   "list": "By Programming Language",
@@ -8037,7 +8038,7 @@
   "author": "Daniel Borowski",
   "url": "https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf",
   "notes": "- Daniel Borowski (PDF)",
-  "asset": "The.Code.Challenge.Book.-.Daniel.Borowski.pdf"
+  "file": "books/languages/JavaScript/The.Code.Challenge.Book.-.Daniel.Borowski.pdf"
  },
  {
   "list": "By Programming Language",
