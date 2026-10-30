@@ -13136,7 +13136,7 @@
   "author": "Yii Software",
   "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf",
   "notes": "- Yii Software (PDF)",
-  "asset": "The.Definitive.Guide.to.Yii.2.0.-.Yii.Software.pdf"
+  "file": "books/languages/PHP/Yii/The.Definitive.Guide.to.Yii.2.0.-.Yii.Software.pdf"
  },
  {
   "list": "By Programming Language",
@@ -13150,7 +13150,7 @@
   "author": "Larry Ullman",
   "url": "https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf",
   "notes": "- Larry Ullman (PDF)",
-  "asset": "The.Yii.Book.-.Larry.Ullman.pdf"
+  "file": "books/languages/PHP/Yii/The.Yii.Book.-.Larry.Ullman.pdf"
  },
  {
   "list": "By Programming Language",
