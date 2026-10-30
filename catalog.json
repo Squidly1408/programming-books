@@ -1993,10 +1993,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Architect Modern Web Applications with ASP.NET Core and Azure",
   "author": "Steve \"ardalis\" Smith",
@@ -2005,10 +2005,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "C# Features Succinctly",
   "author": "Dirk Strauss",
@@ -2017,10 +2017,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "C# Notes for Professionals",
   "author": "Compiled from StackOverflow documentation",
@@ -2029,10 +2029,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "C# Programming",
   "author": "Wikibooks",
@@ -2041,10 +2041,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "C# Programming Yellow Book",
   "author": "Rob Miles",
@@ -2054,10 +2054,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "C# Smorgasbord",
   "author": "Filip Ekberg",
@@ -2066,10 +2066,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Creating Mobile Apps with Xamarin.Forms C#",
   "author": "Charles Petzold",
@@ -2078,10 +2078,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Daily Design Patterns",
   "author": "Matthew P Jones",
@@ -2090,10 +2090,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Data Structures and Algorithms with Object-Oriented Design Patterns in C#",
   "author": "Bruno Preiss",
@@ -2102,10 +2102,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Dissecting a C# Application",
   "author": "Christian Holm, Bernhard Spuida, Mike Kruger",
@@ -2114,10 +2114,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Essential C#",
   "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
@@ -2126,10 +2126,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Fundamentals of Computer Programming with C# (the Bulgarian Book)",
   "author": "Svetlin Nakov, Veselin Kolev, et al.",
@@ -2138,10 +2138,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "High level asynchronous programming with Reactive Extensions",
   "author": "Emil Petro",
@@ -2150,10 +2150,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Introduction to Rx",
   "author": "",
@@ -2162,10 +2162,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Learn C# in Y Minutes",
   "author": "",
@@ -2174,10 +2174,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Learning C# Language",
   "author": "Compiled from StackOverflow Documentation",
@@ -2187,10 +2187,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Mastering Xamarin UI Development, Second Edition",
   "author": "Steven F. Daniel",
@@ -2199,10 +2199,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Modernize existing .NET applications with Azure cloud and Windows Containers",
   "author": "Cesar de la Torre",
@@ -2211,10 +2211,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Modernizing Desktop Apps on Windows with .NET 6",
   "author": "Olia Gavrysh, Miguel Angel Castej\u00f3n Dominguez",
@@ -2223,10 +2223,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": ".NET Book Zero",
   "author": "Charles Petzold",
@@ -2235,10 +2235,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": ".NET Microservices: Architecture for Containerized .NET Applications",
   "author": "Cesar de la Torre, Bill Wagner, Mike Rousos",
@@ -2247,10 +2247,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Porting Existing ASP.NET Apps to .NET 6",
   "author": "Steve \"ardalis\" Smith",
@@ -2259,10 +2259,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Programming Basics with C#",
   "author": "Svetlin Nakov et al.",
@@ -2271,10 +2271,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Threading in C#",
   "author": "",
@@ -2283,10 +2283,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Xamarin Community Toolkit Succinctly",
   "author": "Alessandro Del Sole",
@@ -2295,10 +2295,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Xamarin.Forms for macOS Succinctly",
   "author": "Alessandro Del Sole",
@@ -2307,10 +2307,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Xamarin.Forms Notes for professionals",
   "author": "Compiled from StackOverflow documentation",
@@ -2319,10 +2319,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"csharp\"></a>C\\#",
-  "tag": "a-id-csharp-a-c",
+  "section": "C#",
+  "tag": "csharp",
   "parts": [
-   "<a id=\"csharp\"></a>C\\#"
+   "C#"
   ],
   "title": "Xamarin.Forms Succinctly",
   "author": "Alessandro Del Sole",
@@ -2331,10 +2331,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "A Complete Guide to Standard C++ Algorithms",
   "author": "\u0160imon T\u00f3th",
@@ -2343,10 +2343,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "A Modular Structured Approach using C++",
   "author": "Kenneth Leroy Busbee",
@@ -2355,10 +2355,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "An Introduction to the USA Computing Olympiad, C++ Edition",
   "author": "Darren Yao",
@@ -2368,10 +2368,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Annotations",
   "author": "Frank B. Brokken",
@@ -2380,10 +2380,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Coding Standard",
   "author": "Todd Hoff",
@@ -2392,10 +2392,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Core Guidelines",
   "author": "`edt.:` Bjarne Stroustrup, Herb Sutter",
@@ -2404,10 +2404,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ For Programmers",
   "author": "JT Kalnay",
@@ -2417,10 +2417,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Fundamentals for Robotics",
   "author": "Automatic Addison",
@@ -2429,10 +2429,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ GUI Programming With Qt 3",
   "author": "Jasmin Blanchette, Mark Summerfield",
@@ -2442,10 +2442,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Language",
   "author": "",
@@ -2454,10 +2454,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Notes for Professionals",
   "author": "Compiled from StackOverflow Documentation",
@@ -2466,10 +2466,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Programming",
   "author": "Panic, et al.",
@@ -2478,10 +2478,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Programming: Code patterns design",
   "author": "WikiBooks",
@@ -2490,10 +2490,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Succinctly, Syncfusion",
   "author": "",
@@ -2502,10 +2502,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Tricks",
   "author": "",
@@ -2514,10 +2514,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "C++ Tutorial",
   "author": "Alex Allain",
@@ -2526,10 +2526,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "CS106X Programming Abstractions in C++",
   "author": "",
@@ -2538,10 +2538,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Elements of Programming",
   "author": "Alexander Stepanov, Paul McJones",
@@ -2550,10 +2550,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Essential C++",
   "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
@@ -2562,10 +2562,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Financial Numerical Recipes in C++",
   "author": "Bernt Arne \u00d8degaard",
@@ -2574,10 +2574,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Fundamentals of C++ Programming",
   "author": "Richard L. Halterman",
@@ -2587,10 +2587,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Game Programming Patterns",
   "author": "",
@@ -2599,10 +2599,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Google's C++ Style Guide",
   "author": "",
@@ -2611,10 +2611,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Hands-On System Programming with C++",
   "author": "Rian Quinn",
@@ -2623,10 +2623,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "How to make an Operating System",
   "author": "Samy Pesse",
@@ -2635,10 +2635,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "How To Think Like a Computer Scientist: C++ Version",
   "author": "Allen B. Downey",
@@ -2647,10 +2647,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Introduction to Design Patterns in C++ with Qt 4",
   "author": "Alan Ezust, Paul Ezust",
@@ -2660,10 +2660,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Joint Strike Fighter, C++ Coding Standards",
   "author": "Bjarne Stroustrup",
@@ -2673,10 +2673,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Learn C++ Programming Language",
   "author": "Tutorials Point",
@@ -2685,10 +2685,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "LearnCpp.com",
   "author": "",
@@ -2697,10 +2697,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Learning C++ eBook",
   "author": "Compiled from StackOverflow Documentation",
@@ -2710,10 +2710,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Matters Computational: Ideas, Algorithms, Source Code",
   "author": "Jorg Arndt",
@@ -2723,10 +2723,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Modern C++ Tutorial: C++11/14/17/20 On the Fly",
   "author": "Changkun Ou",
@@ -2736,10 +2736,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "More C++ Idioms",
   "author": "Sumant Tambe, et al.",
@@ -2748,10 +2748,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Open Data Structures (In C++)",
   "author": "Pat Morin",
@@ -2761,10 +2761,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Programming Fundamentals - A Modular Structured Approach using C++",
   "author": "Kenneth Leroy Busbee",
@@ -2773,10 +2773,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Software Design Using C++",
   "author": "Br. David Carlson, Br. Isidore Minerd",
@@ -2785,10 +2785,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Software optimization resources",
   "author": "Agner Fog",
@@ -2797,10 +2797,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "The Boost C++ libraries",
   "author": "Boris Sch\u00e4ling",
@@ -2809,10 +2809,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "The Rook's Guide to C++",
   "author": "Jeremy Hansen",
@@ -2821,10 +2821,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "The Ultimate Question of Programming, Refactoring, and Everything",
   "author": "",
@@ -2833,10 +2833,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Think C++: How To Think Like a Computer Scientist",
   "author": "Allen B. Downey",
@@ -2845,10 +2845,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Thinking in C++, Second Edition, Vol. 1.",
   "author": "Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)",
@@ -2857,10 +2857,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"cpp\"></a>C++",
-  "tag": "a-id-cpp-a-cpp",
+  "section": "C++",
+  "tag": "cpp",
   "parts": [
-   "<a id=\"cpp\"></a>C++"
+   "C++"
   ],
   "title": "Working Draft, Standard for Programming Language C++, 2021 Revision",
   "author": "Thomas K\u00f6ppe",
@@ -16063,10 +16063,10 @@
  },
  {
   "list": "By Programming Language",
-  "section": "<a id=\"q-sharp\"></a>Q\\#",
-  "tag": "a-id-q-sharp-a-q",
+  "section": "Q#",
+  "tag": "q",
   "parts": [
-   "<a id=\"q-sharp\"></a>Q\\#"
+   "Q#"
   ],
   "title": "The Q# quantum programming language user guide",
   "author": "",
@@ -21500,7 +21500,7 @@
   "author": "Daniel Kirsch, Judith Hurwitz",
   "url": "https://www.ibm.com/downloads/cas/GB8ZMQZ3",
   "notes": "- Daniel Kirsch, Judith Hurwitz (PDF)",
-  "file": "books/subjects/Artificial Intelligence/Machine.Learning.For.Dummies.IBM.Limited.Edition.-.Daniel.Kirsch.Judith.Hurwitz.pdf"
+  "file": "books/subjects/Machine Learning/IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf"
  },
  {
   "list": "By Subject",
@@ -25856,7 +25856,7 @@
   "author": "",
   "url": "https://www.cis.upenn.edu/~jean/math-basics.pdf",
   "notes": "(PDF)",
-  "file": "books/subjects/Mathematics/Algebra/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf"
+  "file": "books/subjects/Mathematics/Calculus/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf"
  },
  {
   "list": "By Subject",
@@ -30161,10 +30161,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "A git Primer",
   "author": "Daniel Miessler",
@@ -30173,10 +30173,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "A Visual Git Reference",
   "author": "Mark Lodato",
@@ -30185,10 +30185,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Conversational Git",
   "author": "Alan Hohn",
@@ -30197,10 +30197,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "get-git",
   "author": "Arialdo Martini",
@@ -30209,10 +30209,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "git - the simple guide",
   "author": "Roger Dudler",
@@ -30221,10 +30221,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git cookbook",
   "author": "Dennis Kaarsemaker",
@@ -30233,10 +30233,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git for Computer Scientists",
   "author": "Tommi Virtanen",
@@ -30245,10 +30245,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git From The Bottom Up",
   "author": "J. Wiegley",
@@ -30257,10 +30257,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Immersion",
   "author": "Jim Weirich",
@@ -30269,10 +30269,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git In The Trenches",
   "author": "Peter Savage",
@@ -30281,10 +30281,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git internals",
   "author": "Scott Chacon",
@@ -30294,10 +30294,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Magic",
   "author": "Ben Lynn, et al.",
@@ -30306,10 +30306,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Notes for Professionals",
   "author": "Compiled from StackOverflow Documentation",
@@ -30318,10 +30318,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Pocket Guide",
   "author": "Richard E. Silverman",
@@ -30330,10 +30330,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Reference",
   "author": "The GitHub team",
@@ -30342,10 +30342,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Succinctly, Syncfusion",
   "author": "Ryan Hodson",
@@ -30354,10 +30354,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Tutorial",
   "author": "Tutorials Point",
@@ -30366,10 +30366,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git-Tutorial For-Beginners",
   "author": "HubSpot Product Team",
@@ -30378,10 +30378,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Git Workflows",
   "author": "Yan Pritzker",
@@ -30390,10 +30390,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Happy Git and GitHub for the useR",
   "author": "Jenny Bryan",
@@ -30402,10 +30402,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Hg Init: a Mercurial Tutorial",
   "author": "Joel Spolsky",
@@ -30414,10 +30414,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "How to Collaborate on GitHub: A mini book about collaborating on GitHub",
   "author": "Andr\u00e9 J",
@@ -30426,10 +30426,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Introduction to Git and Github",
   "author": "Launch School",
@@ -30438,10 +30438,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Introduction to Git and Github - Tutorial",
   "author": "Chris Bourke",
@@ -30450,10 +30450,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Introduction to Git and GitHub eBook",
   "author": "Bobby Iliev",
@@ -30462,10 +30462,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Learn Git - Learn Version Control with Git",
   "author": "Tobias G\u00fcnther",
@@ -30474,10 +30474,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Mercurial: The Definitive Guide",
   "author": "Bryan O'Sullivan",
@@ -30486,10 +30486,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Mercurial: The Definitive Guide 2nd edition",
   "author": "Bryan O'Sullivan",
@@ -30498,10 +30498,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Pro Git",
   "author": "Scott Chacon, Ben Straub",
@@ -30510,10 +30510,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Pro Git Reedited",
   "author": "Jon Forrest",
@@ -30522,10 +30522,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Ry's Git Tutorial",
   "author": "Ryan Hodson",
@@ -30534,10 +30534,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Subversion Version Control",
   "author": "William Nagel",
@@ -30547,10 +30547,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Think Like (a) Git: A Guide for the Perplexed",
   "author": "Sam Livingston-Gray",
@@ -30559,10 +30559,10 @@
  },
  {
   "list": "By Subject",
-  "section": "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems",
-  "tag": "a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems",
+  "section": "Version Control Systems",
+  "tag": "version-control-systems",
   "parts": [
-   "<a id=\"version-control-systems\"></a><a id=\"git\"></a><a id=\"svn\"></a><a id=\"subversion\"></a><a id=\"mercurial\"></a>Version Control Systems"
+   "Version Control Systems"
   ],
   "title": "Version Control with Subversion",
   "author": "Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato",
