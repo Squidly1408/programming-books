@@ -1793,7 +1793,7 @@
   "author": "Ciaran O\u2019Riordan",
   "url": "https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf",
   "notes": "- Ciaran O\u2019Riordan (PDF)",
-  "asset": "Learning.GNU.C.-.Ciaran.O.Riordan.pdf"
+  "file": "books/languages/C/Learning.GNU.C.-.Ciaran.O.Riordan.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1818,7 +1818,7 @@
   "author": "Ben Klemens",
   "url": "https://ben.klemens.org/pdfs/gsl_stats.pdf",
   "notes": "- Ben Klemens (PDF)",
-  "asset": "Modeling.with.Data.-.Ben.Klemens.pdf"
+  "file": "books/languages/C/Modeling.with.Data.-.Ben.Klemens.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1843,7 +1843,7 @@
   "author": "Axel-Tobias Schreiner",
   "url": "https://www.cs.rit.edu/~ats/books/ooc.pdf",
   "notes": "- Axel-Tobias Schreiner (PDF)",
-  "asset": "Object-Oriented.Programming.With.ANSI-C.-.Axel-Tobias.Schreiner.pdf"
+  "file": "books/languages/C/Object-Oriented.Programming.With.ANSI-C.-.Axel-Tobias.Schreiner.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1892,7 +1892,7 @@
   "author": "Marshall Brain",
   "url": "https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf",
   "notes": "- Marshall Brain (PDF)",
-  "asset": "The.Basics.of.C.Programming.-.Marshall.Brain.pdf"
+  "file": "books/languages/C/The.Basics.of.C.Programming.-.Marshall.Brain.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1941,7 +1941,7 @@
   "author": "Mark Burgess, Ron Hale-Evans",
   "url": "http://www.crasseux.com/books/ctut.pdf",
   "notes": "- Mark Burgess, Ron Hale-Evans (PDF)",
-  "asset": "The.GNU.C.Programming.Tutorial.-.Mark.Burgess.Ron.Hale-Evans.pdf"
+  "file": "books/languages/C/The.GNU.C.Programming.Tutorial.-.Mark.Burgess.Ron.Hale-Evans.pdf"
  },
  {
   "list": "By Programming Language",
