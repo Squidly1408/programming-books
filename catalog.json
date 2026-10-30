@@ -22703,7 +22703,7 @@
   "author": "Jiawei Han, Micheline Kamber, Jian Pei",
   "url": "https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf",
   "notes": "- Jiawei Han, Micheline Kamber, Jian Pei (PDF) *( :card_file_box: archived)*",
-  "asset": "Data.Mining.Concepts.and.Techniques.-.Jiawei.Han.Micheline.Kamber.Jian.Pei.pdf"
+  "file": "books/subjects/Data Science/Data.Mining.Concepts.and.Techniques.-.Jiawei.Han.Micheline.Kamber.Jian.Pei.pdf"
  },
  {
   "list": "By Subject",
@@ -22764,7 +22764,7 @@
   "author": "Avrim Blum, John Hopcroft, Ravindran Kannan",
   "url": "https://www.cs.cornell.edu/jeh/book.pdf",
   "notes": "- Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)",
-  "asset": "Foundations.of.Data.Science.-.Avrim.Blum.John.Hopcroft.Ravindran.Kannan.pdf"
+  "file": "books/subjects/Data Science/Foundations.of.Data.Science.-.Avrim.Blum.John.Hopcroft.Ravindran.Kannan.pdf"
  },
  {
   "list": "By Subject",
@@ -22801,7 +22801,7 @@
   "author": "John Wright, Yi Ma",
   "url": "https://book-wright-ma.github.io/Book-WM-20210422.pdf",
   "notes": "- John Wright, Yi Ma (PDF)",
-  "asset": "High-Dimensional.Data.Analysis.with.Low-Dimensional.Models.Principles.Computation.and.Applications.-.John.Wright.Yi.Ma.pdf"
+  "file": "books/subjects/Data Science/High-Dimensional.Data.Analysis.with.Low-Dimensional.Models.Principles.Computation.and.Applications.-.John.Wright.Yi.Ma.pdf"
  },
  {
   "list": "By Subject",
@@ -22814,7 +22814,7 @@
   "author": "",
   "url": "https://arxiv.org/pdf/1206.1754v2.pdf",
   "notes": "(PDF)",
-  "asset": "Internet.Advertising.An.Interplay.among.Advertisers.Online.Publishers.Ad.Exchanges.and.Web.Users.pdf"
+  "file": "books/subjects/Data Science/Internet.Advertising.An.Interplay.among.Advertisers.Online.Publishers.Ad.Exchanges.and.Web.Users.pdf"
  },
  {
   "list": "By Subject",
