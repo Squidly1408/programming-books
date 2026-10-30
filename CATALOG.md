@@ -1,6 +1,6 @@
 # Catalog
 
-2496 English books listed, **365 mirrored** as downloadable files. Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
+2496 English books listed, **370 saved as files** in [`books/`](books). Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
 
 
 ## By Programming Language
@@ -17,12 +17,12 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A Guide to Ada for C and C++ Programmers | Simon Johnston | [download](https://github.com/Squidly1408/programming-books/releases/download/ada/A.Guide.to.Ada.for.C.and.C%2B%2B.Programmers.-.Simon.Johnston.pdf) | [link](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) |
+| A Guide to Ada for C and C++ Programmers | Simon Johnston | [PDF](books/languages/Ada/A.Guide.to.Ada.for.C.and.C%2B%2B.Programmers.-.Simon.Johnston.pdf) | [link](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) |
 | Ada 95: The Craft of Object-Oriented Programming | John English |  | [link](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) |
-| Ada Distilled | Richard Riehle | [download](https://github.com/Squidly1408/programming-books/releases/download/ada/Ada.Distilled.-.Richard.Riehle.pdf) | [link](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) |
+| Ada Distilled | Richard Riehle | [PDF](books/languages/Ada/Ada.Distilled.-.Richard.Riehle.pdf) | [link](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) |
 | Ada for the C++ or Java Developer | Quentin Ochem |  | [link](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/) |
 | Ada Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Ada_Programming) |
-| Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries |  | [download](https://github.com/Squidly1408/programming-books/releases/download/ada/Ada.Reference.Manual.-.ISO.IEC.8652.2012.E.Language.and.Standard.Libraries.pdf) | [link](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) |
+| Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries |  | [PDF](books/languages/Ada/Ada.Reference.Manual.-.ISO.IEC.8652.2012.E.Language.and.Standard.Libraries.pdf) | [link](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) |
 | Introduction To Ada | Raphaël Amiard, Gustavo A. Hoffmann |  | [link](https://learn.adacore.com/courses/intro-to-ada/index.html) |
 | Introduction To SPARK | Yannick Moy, Ben Brosgol |  | [link](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html) |
 | The Big Online Book of Linux Ada Programming | Ken O. Burtch |  | [link](https://www.pegasoft.ca/resources/boblap/book.html) |
@@ -59,9 +59,9 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A Programming Language | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/apl/A.Programming.Language.-.Kenneth.E..Iverson.pdf) | [link](https://softwarepreservation.computerhistory.org/apl/book/APROGRAMMINGLANGUAGE.pdf) |
-| APL2 at a Glance | James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 | [download](https://github.com/Squidly1408/programming-books/releases/download/apl/APL2.at.a.Glance.-.James.A..Brown.Sandra.Pakin.Raymond.P..Polivka.-.1988.pdf) | [link](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) |
-| Introduction to College Mathematics with A Programming Language (1978) | E. J. LeCuyer | [download](https://github.com/Squidly1408/programming-books/releases/download/apl/Introduction.to.College.Mathematics.with.A.Programming.Language.1978.-.E..J..LeCuyer.pdf) | [link](https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf) |
+| A Programming Language | Kenneth E. Iverson | [PDF](books/languages/APL/A.Programming.Language.-.Kenneth.E..Iverson.pdf) | [link](https://softwarepreservation.computerhistory.org/apl/book/APROGRAMMINGLANGUAGE.pdf) |
+| APL2 at a Glance | James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 | [PDF](books/languages/APL/APL2.at.a.Glance.-.James.A..Brown.Sandra.Pakin.Raymond.P..Polivka.-.1988.pdf) | [link](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) |
+| Introduction to College Mathematics with A Programming Language (1978) | E. J. LeCuyer | [PDF](books/languages/APL/Introduction.to.College.Mathematics.with.A.Programming.Language.1978.-.E..J..LeCuyer.pdf) | [link](https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf) |
 | Learning APL | Stefan Kruger |  | [link](https://xpqz.github.io/learnapl) |
 | Mastering Dyalog APL |  |  | [link](https://www.dyalog.com/mastering-dyalog-apl.htm) |
 | Reinforcement Learning From The Ground Up | Romilly Cocking |  | [link](https://romilly.github.io/o-x-o) |
@@ -80,12 +80,12 @@
 | Arduino-docs : A beginner's guide | Paramesh Chandra |  | [link](https://arduino-doc.readthedocs.io/en/latest/) |
 | Arduino Programming Notebook | Brian Evans |  | [link](https://unglue.it/work/152452) |
 | Arduino Projects Book | Scott Fitzgerald and Michael Shiloh |  | [link](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) |
-| Arduino Tips, Tricks, and Techniques | lady ada | [download](https://github.com/Squidly1408/programming-books/releases/download/arduino/Arduino.Tips.Tricks.and.Techniques.-.lady.ada.pdf) | [link](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) |
-| Getting started with Arduino – A Beginner’s Guide | Brad Kendall | [download](https://github.com/Squidly1408/programming-books/releases/download/arduino/Getting.started.with.Arduino.A.Beginner.s.Guide.-.Brad.Kendall.pdf) | [link](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) |
+| Arduino Tips, Tricks, and Techniques | lady ada | [PDF](books/languages/Arduino/Arduino.Tips.Tricks.and.Techniques.-.lady.ada.pdf) | [link](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) |
+| Getting started with Arduino – A Beginner’s Guide | Brad Kendall | [PDF](books/languages/Arduino/Getting.started.with.Arduino.A.Beginner.s.Guide.-.Brad.Kendall.pdf) | [link](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) |
 | Getting Started with Arduino products | Official Arduino Documentation |  | [link](https://www.arduino.cc/en/Guide) |
 | Introduction to Arduino |  |  | [link](http://playground.arduino.cc/Main/ManualsAndCurriculum) |
 | Introduction to Arduino : A piece of cake! | Alan G. Smith |  | [link](https://www.introtoarduino.com) |
-| Learn Arduino | Compiled from StackOverflow documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/arduino/Learn.Arduino.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/arduino.pdf) |
+| Learn Arduino | Compiled from StackOverflow documentation | [PDF](books/languages/Arduino/Learn.Arduino.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/arduino.pdf) |
 | Open softwear - Fashionable prototyping and wearable computing using the Arduino | Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund |  | [link](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) |
 | Science, Programming, Art and Radioelectronics Club (SPARC) | Artyom V. Poptsov |  | [link](https://github.com/artyom-poptsov/SPARC) |
 
@@ -98,9 +98,9 @@
 | ASP.NET WebHooks Succinctly | Gaurav Arora |  | [link](https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly) |
 | ASP.NET with C# (2008) | Vijay Mukhi, Sonal Mukhi, Neha Kotecha |  | [link](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) |
 | Diving into ASP.NET WebAPI (2016) | Akhil Mittal |  | [link](https://github.com/akhilmittal/FreeBooks/) |
-| Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012) | Rick Anderson, Scott Hanselman | [download](https://github.com/Squidly1408/programming-books/releases/download/asp-net/Intro.to.ASPNET.MVC.4.with.Visual.Studio.2011.Beta.2012.-.Rick.Anderson.Scott.Hanselman.pdf) | [link](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) |
-| Introducing ASP.NET Web Pages 2 (2012) | Mike Pope | [download](https://github.com/Squidly1408/programming-books/releases/download/asp-net/Introducing.ASP.NET.Web.Pages.2.2012.-.Mike.Pope.pdf) | [link](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) |
-| .NET Framework Notes for Professionals | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/asp-net/NET.Framework.Notes.for.Professionals.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) |
+| Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012) | Rick Anderson, Scott Hanselman | [PDF](books/languages/ASP.NET/Intro.to.ASPNET.MVC.4.with.Visual.Studio.2011.Beta.2012.-.Rick.Anderson.Scott.Hanselman.pdf) | [link](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) |
+| Introducing ASP.NET Web Pages 2 (2012) | Mike Pope | [PDF](books/languages/ASP.NET/Introducing.ASP.NET.Web.Pages.2.2012.-.Mike.Pope.pdf) | [link](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) |
+| .NET Framework Notes for Professionals | Compiled from StackOverflow Documentation | [PDF](books/languages/ASP.NET/NET.Framework.Notes.for.Professionals.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) |
 
 ### ASP.NET Core
 
@@ -108,7 +108,7 @@
 |---|---|---|---|
 | ASP.NET Core 3.1 Succinctly | Simone Chiaretta, Ugo Lattanzi |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-3-1-succinctly) |
 | ASP.NET Core Documentation - Microsoft Docs |  |  | [link](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0) |
-| The Little ASP.NET Core Book (2018) | Nate Barbettini | [download](https://github.com/Squidly1408/programming-books/releases/download/asp-net-core/The.Little.ASP.NET.Core.Book.2018.-.Nate.Barbettini.pdf) | [link](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) |
+| The Little ASP.NET Core Book (2018) | Nate Barbettini | [PDF](books/languages/ASP.NET%20Core/The.Little.ASP.NET.Core.Book.2018.-.Nate.Barbettini.pdf) | [link](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) |
 
 ### ASP.NET Core / Blazor
 
@@ -123,16 +123,16 @@
 |---|---|---|---|
 | A fundamental introduction to x86 assembly programming | Project Nayuki |  | [link](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) |
 | ARM Assembly Language Programming | Peter Knaggs |  | [link](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) |
-| Assemblers And Loaders (1993) | David Salomon | [download](https://github.com/Squidly1408/programming-books/releases/download/assembly-language/Assemblers.And.Loaders.1993.-.David.Salomon.pdf) | [link](https://www.davidsalomon.name/assem.advertis/asl.pdf) |
+| Assemblers And Loaders (1993) | David Salomon | [PDF](books/languages/Assembly%20Language/Assemblers.And.Loaders.1993.-.David.Salomon.pdf) | [link](https://www.davidsalomon.name/assem.advertis/asl.pdf) |
 | Assembly Language Succinctly | Christopher Rose, Syncfusion Inc. |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) |
 | PC Assembly Language | P. A. Carter |  | [link](https://pacman128.github.io/pcasm/) |
-| Programming from the Ground Up | Jonathan Bartlett | [download](https://github.com/Squidly1408/programming-books/releases/download/assembly-language/Programming.from.the.Ground.Up.-.Jonathan.Bartlett.pdf) | [link](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) |
+| Programming from the Ground Up | Jonathan Bartlett | [PDF](books/languages/Assembly%20Language/Programming.from.the.Ground.Up.-.Jonathan.Bartlett.pdf) | [link](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) |
 | Ralf Brown's Interrupt List |  |  | [link](https://www.ctyme.com/rbrown.htm) |
 | Software optimization resources | A. Fog |  | [link](https://www.agner.org/optimize/) |
 | The Art of Assembly Language (2003) | Randall Hyde |  | [link](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) |
 | The Grain Docs |  |  | [link](https://grain-lang.org/docs/) |
 | WebAssembly friendly programming with C/C++ | Ending, Chai Shushan, Yushih |  | [link](https://github.com/3dgen/cppwasm-book/tree/master/en) |
-| Wizard Code, A View on Low-Level Programming | Tuomo Tuomo Venäläinen | [download](https://github.com/Squidly1408/programming-books/releases/download/assembly-language/Wizard.Code.A.View.on.Low-Level.Programming.-.Tuomo.Tuomo.Ven.l.inen.pdf) | [link](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) |
+| Wizard Code, A View on Low-Level Programming | Tuomo Tuomo Venäläinen | [PDF](books/languages/Assembly%20Language/Wizard.Code.A.View.on.Low-Level.Programming.-.Tuomo.Tuomo.Ven.l.inen.pdf) | [link](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) |
 | x86-64 Assembly Language Programming with Ubuntu | Ed Jorgensen |  | [link](http://www.egr.unlv.edu/~ed/x86.html) |
 | x86 Assembly | Wikibooks |  | [link](https://en.wikibooks.org/wiki/X86_Assembly) |
 | x86 Disassembly | Wikibooks |  | [link](https://en.wikibooks.org/wiki/X86_Disassembly) |
@@ -141,7 +141,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors | Gerhard Schmidt | [download](https://github.com/Squidly1408/programming-books/releases/download/assembly-language-non-x86/Beginners.Introduction.to.the.Assembly.Language.of.ATMEL-AVR-Microprocessors.-.Gerhard.Schmidt.pdf) | [link](https://kitsandparts.com/tutorials/assemblers/BeginnersAVRasm.pdf) |
+| Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors | Gerhard Schmidt | [PDF](books/languages/Assembly%20Language/Non-X86/Beginners.Introduction.to.the.Assembly.Language.of.ATMEL-AVR-Microprocessors.-.Gerhard.Schmidt.pdf) | [link](https://kitsandparts.com/tutorials/assemblers/BeginnersAVRasm.pdf) |
 | Easy 6502 | Nick Morgan |  | [link](https://skilldrick.github.io/easy6502/) |
 | Machine Language for Beginners | Richard Mansfield |  | [link](https://archive.org/details/ataribooks-machine-language-for-beginners) |
 | MIPS Assembly Language Programming Using QtSpim | Ed Jorgensen |  | [link](http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf) |
@@ -186,21 +186,21 @@
 | Bash Notes for Professionals | Compiled from StackOverflow documentation |  | [link](https://goalkicker.com/BashBook/) |
 | BASH Programming (2000) | Mike G. |  | [link](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) |
 | Bash Reference Manual |  |  | [link](http://www.gnu.org/software/bash/manual/bashref.html) |
-| Bash tutorial | Anthony Scemama | [download](https://github.com/Squidly1408/programming-books/releases/download/bash/Bash.tutorial.-.Anthony.Scemama.pdf) | [link](https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf) |
+| Bash tutorial | Anthony Scemama | [PDF](books/languages/Bash/Bash.tutorial.-.Anthony.Scemama.pdf) | [link](https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf) |
 | BashGuide | Maarten Billemont |  | [link](https://mywiki.wooledge.org/BashGuide) |
 | Command line text processing with GNU Coreutils | Sundeep Agarwal |  | [link](https://learnbyexample.github.io/cli_text_processing_coreutils/) |
 | Computing from the Command Line | Sundeep Agarwal |  | [link](https://learnbyexample.github.io/cli-computing/) |
-| Conquer the Command Line | Richard Smedley | [download](https://github.com/Squidly1408/programming-books/releases/download/bash/Conquer.the.Command.Line.-.Richard.Smedley.pdf) | [link](https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf) |
+| Conquer the Command Line | Richard Smedley | [PDF](books/languages/Bash/Conquer.the.Command.Line.-.Richard.Smedley.pdf) | [link](https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf) |
 | Conquering the Command Line | Mark Bates |  | [link](https://www.softcover.io/read/fc6c09de/unix_commands) |
 | Essential Bash | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/bash/) |
 | Getting Started with BASH |  |  | [link](https://www.hypexr.org/bash_tutorial.php) |
-| GNU Bash manual |  | [download](https://github.com/Squidly1408/programming-books/releases/download/bash/GNU.Bash.manual.pdf) | [link](https://www.gnu.org/software/bash/manual/bash.pdf) |
+| GNU Bash manual |  | [PDF](books/languages/Bash/GNU.Bash.manual.pdf) | [link](https://www.gnu.org/software/bash/manual/bash.pdf) |
 | Google Shell Style Guide | Paul Armstrong |  | [link](https://google.github.io/styleguide/shellguide.html) |
 | Introduction to Bash Scripting | Bobby Iliev |  | [link](https://github.com/bobbyiliev/introduction-to-bash-scripting) |
 | Introduction to the Command Line | Launch School |  | [link](https://launchschool.com/books/command_line) |
 | Linux Shell Scripting Tutorial - A Beginner's Handbook (2002) | Vivek G. Gite |  | [link](https://web.archive.org/web/20260617144214/http://www.freeos.com/guides/lsst/) |
 | Linux Shell Scripting Tutorial (LSST) v2.0 | Vivek Gite |  | [link](https://bash.cyberciti.biz/guide/Main_Page) |
-| Linux Shell Scripting With Bash | Ken O. Burtch | [download](https://github.com/Squidly1408/programming-books/releases/download/bash/Linux.Shell.Scripting.With.Bash.-.Ken.O..Burtch.pdf) | [link](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) |
+| Linux Shell Scripting With Bash | Ken O. Burtch | [PDF](books/languages/Bash/Linux.Shell.Scripting.With.Bash.-.Ken.O..Burtch.pdf) | [link](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) |
 | Slackbook (2005) | Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson |  | [link](https://slackbook.org) |
 | The Bash Academy | Maarten Billemont |  | [link](https://guide.bash.academy) |
 | The Linux Command Line | William E. Shotts Jr. |  | [link](https://linuxcommand.org/tlcl.php) |
@@ -212,14 +212,14 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 | Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter |  | [link](https://10print.org) |
-| A beginner's guide to Gambas | John W. Rittinghouse | [download](https://github.com/Squidly1408/programming-books/releases/download/basic/A.beginner.s.guide.to.Gambas.-.John.W..Rittinghouse.pdf) | [link](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) |
+| A beginner's guide to Gambas | John W. Rittinghouse | [PDF](books/languages/Basic/A.beginner.s.guide.to.Gambas.-.John.W..Rittinghouse.pdf) | [link](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) |
 | Pick/Basic: A Programmer's Guide | Jonathan E. Sisk |  | [link](https://web.archive.org/web/20240302002321/http://www.jes.com/) |
 
 ### BeanShell
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Beanshell Simple Java Scripting Manual | beanshell.org | [download](https://github.com/Squidly1408/programming-books/releases/download/beanshell/Beanshell.Simple.Java.Scripting.Manual.-.beanshell.org.pdf) | [link](https://www.beanshell.org/manual/bshmanual.pdf) |
+| Beanshell Simple Java Scripting Manual | beanshell.org | [PDF](books/languages/BeanShell/Beanshell.Simple.Java.Scripting.Manual.-.beanshell.org.pdf) | [link](https://www.beanshell.org/manual/bshmanual.pdf) |
 | BeanShell User's Manual | beanshell.org |  | [link](https://www.beanshell.org/manual/bshmanual.html) |
 
 ### BETA
@@ -261,19 +261,19 @@
 | Hashing | Prakash Hegade |  | [link](https://www.smashwords.com/books/view/737188) |
 | Introduction to Programming and Data Structures in C | CodeAhoy |  | [link](https://codeahoy.com/learn/cprogramming/toc/) |
 | Learn to Code With C - The MagPi Essentials |  |  | [link](https://magpi.raspberrypi.com/books/essentials-c-v1) |
-| Learning GNU C | Ciaran O’Riordan | [download](https://github.com/Squidly1408/programming-books/releases/download/c/Learning.GNU.C.-.Ciaran.O.Riordan.pdf) | [link](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) |
+| Learning GNU C | Ciaran O’Riordan | [PDF](books/languages/C/Learning.GNU.C.-.Ciaran.O.Riordan.pdf) | [link](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) |
 | Let us C | Yashavant Kanetkar |  | [link](https://books.google.co.in/books?id=Ce6gAAAACAAJ&printsec=frontcover#v=onepage&q&f=false) |
-| Modeling with Data | Ben Klemens | [download](https://github.com/Squidly1408/programming-books/releases/download/c/Modeling.with.Data.-.Ben.Klemens.pdf) | [link](https://ben.klemens.org/pdfs/gsl_stats.pdf) |
+| Modeling with Data | Ben Klemens | [PDF](books/languages/C/Modeling.with.Data.-.Ben.Klemens.pdf) | [link](https://ben.klemens.org/pdfs/gsl_stats.pdf) |
 | Modern C | Jens Gustedt |  | [link](https://gustedt.gitlabpages.inria.fr/modern-c/) |
-| Object-Oriented Programming With ANSI-C | Axel-Tobias Schreiner | [download](https://github.com/Squidly1408/programming-books/releases/download/c/Object-Oriented.Programming.With.ANSI-C.-.Axel-Tobias.Schreiner.pdf) | [link](https://www.cs.rit.edu/~ats/books/ooc.pdf) |
+| Object-Oriented Programming With ANSI-C | Axel-Tobias Schreiner | [PDF](books/languages/C/Object-Oriented.Programming.With.ANSI-C.-.Axel-Tobias.Schreiner.pdf) | [link](https://www.cs.rit.edu/~ats/books/ooc.pdf) |
 | Programming in C | Bharat Kinariwala & Tep Dobry |  | [link](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) |
 | Programming in C | Kishori Mundargi |  | [link](https://www.freetechbooks.com/programming-in-c-t1337.html) |
 | Structures and C | Prakash Hegade |  | [link](https://www.smashwords.com/books/view/644937) |
-| The Basics of C Programming | Marshall Brain | [download](https://github.com/Squidly1408/programming-books/releases/download/c/The.Basics.of.C.Programming.-.Marshall.Brain.pdf) | [link](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) |
+| The Basics of C Programming | Marshall Brain | [PDF](books/languages/C/The.Basics.of.C.Programming.-.Marshall.Brain.pdf) | [link](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) |
 | The C book | Mike Banahan, Declan Brady, Mark Doran |  | [link](https://publications.gbdirect.co.uk/c_book/) |
 | The C Programming Language Handbook | Flavio Copes |  | [link](https://flaviocopes.com/page/c-handbook/) |
 | The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft | Open Standards Org - www.open-std.org |  | [link](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) |
-| The GNU C Programming Tutorial | Mark Burgess, Ron Hale-Evans | [download](https://github.com/Squidly1408/programming-books/releases/download/c/The.GNU.C.Programming.Tutorial.-.Mark.Burgess.Ron.Hale-Evans.pdf) | [link](http://www.crasseux.com/books/ctut.pdf) |
+| The GNU C Programming Tutorial | Mark Burgess, Ron Hale-Evans | [PDF](books/languages/C/The.GNU.C.Programming.Tutorial.-.Mark.Burgess.Ron.Hale-Evans.pdf) | [link](http://www.crasseux.com/books/ctut.pdf) |
 | The GNU C Reference Manual | Trevis Rothwell, James Youngman |  | [link](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) |
 | The little book about OS development | Erik Helin, Adam Renberg |  | [link](https://littleosbook.github.io) |
 | The New C Standard - An Economic and Cultural commentary (2009) | Derek M. Jones |  | [link](http://www.knosof.co.uk/cbook/cbook.html) |
@@ -287,7 +287,7 @@
 | C# Features Succinctly | Dirk Strauss |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) |
 | C# Notes for Professionals | Compiled from StackOverflow documentation |  | [link](http://goalkicker.com/CSharpBook/) |
 | C# Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/C_Sharp_Programming) |
-| C# Programming Yellow Book | Rob Miles | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-csharp-a-c/C.Programming.Yellow.Book.-.Rob.Miles.pdf) | [link](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) |
+| C# Programming Yellow Book | Rob Miles | [PDF](books/languages/a%20id%3D-csharp-a-C-%23/C.Programming.Yellow.Book.-.Rob.Miles.pdf) | [link](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) |
 | C# Smorgasbord | Filip Ekberg |  | [link](https://www.filipekberg.se) |
 | Creating Mobile Apps with Xamarin.Forms C# | Charles Petzold |  | [link](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) |
 | Daily Design Patterns | Matthew P Jones |  | [link](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) |
@@ -298,7 +298,7 @@
 | High level asynchronous programming with Reactive Extensions | Emil Petro |  | [link](https://github.com/petroemil/Rx.Book) |
 | Introduction to Rx |  |  | [link](http://www.introtorx.com) |
 | Learn C# in Y Minutes |  |  | [link](https://learnxinyminutes.com/docs/csharp/) |
-| Learning C# Language | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-csharp-a-c/Learning.C.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/csharp-language.pdf) |
+| Learning C# Language | Compiled from StackOverflow Documentation | [PDF](books/languages/a%20id%3D-csharp-a-C-%23/Learning.C.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/csharp-language.pdf) |
 | Mastering Xamarin UI Development, Second Edition | Steven F. Daniel |  | [link](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) |
 | Modernize existing .NET applications with Azure cloud and Windows Containers | Cesar de la Torre |  | [link](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) |
 | Modernizing Desktop Apps on Windows with .NET 6 | Olia Gavrysh, Miguel Angel Castejón Dominguez |  | [link](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) |
@@ -318,13 +318,13 @@
 |---|---|---|---|
 | A Complete Guide to Standard C++ Algorithms | Šimon Tóth |  | [link](https://github.com/HappyCerberus/book-cpp-algorithms) |
 | A Modular Structured Approach using C++ | Kenneth Leroy Busbee |  | [link](https://open.umn.edu/opentextbooks/textbooks/144) |
-| An Introduction to the USA Computing Olympiad, C++ Edition | Darren Yao | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/An.Introduction.to.the.USA.Computing.Olympiad.C%2B%2B.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/cpp.pdf) |
+| An Introduction to the USA Computing Olympiad, C++ Edition | Darren Yao | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/An.Introduction.to.the.USA.Computing.Olympiad.C%2B%2B.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/cpp.pdf) |
 | C++ Annotations | Frank B. Brokken |  | [link](https://fbb-git.gitlab.io/cppannotations/) |
 | C++ Coding Standard | Todd Hoff |  | [link](https://possibility.com/Cpp/CppCodingStandard.html) |
 | C++ Core Guidelines | `edt.:` Bjarne Stroustrup, Herb Sutter |  | [link](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) |
-| C++ For Programmers | JT Kalnay | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/C%2B%2B.For.Programmers.-.JT.Kalnay.pdf) | [link](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) |
+| C++ For Programmers | JT Kalnay | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/C%2B%2B.For.Programmers.-.JT.Kalnay.pdf) | [link](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) |
 | C++ Fundamentals for Robotics | Automatic Addison |  | [link](https://automaticaddison.com/cpp-fundamentals-for-robotics) |
-| C++ GUI Programming With Qt 3 | Jasmin Blanchette, Mark Summerfield | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/C%2B%2B.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) |
+| C++ GUI Programming With Qt 3 | Jasmin Blanchette, Mark Summerfield | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/C%2B%2B.GUI.Programming.With.Qt.3.-.Jasmin.Blanchette.Mark.Summerfield.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) |
 | C++ Language |  |  | [link](http://www.cplusplus.com/doc/tutorial/) |
 | C++ Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/CPlusPlusBook) |
 | C++ Programming | Panic, et al. |  | [link](https://en.wikibooks.org/wiki/C%2B%2B_Programming) |
@@ -336,21 +336,21 @@
 | Elements of Programming | Alexander Stepanov, Paul McJones |  | [link](http://elementsofprogramming.com) |
 | Essential C++ | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/cpp/) |
 | Financial Numerical Recipes in C++ | Bernt Arne Ødegaard |  | [link](https://ba-odegaard.no/gcc_prog/recipes/) |
-| Fundamentals of C++ Programming | Richard L. Halterman | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Fundamentals.of.C%2B%2B.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) |
+| Fundamentals of C++ Programming | Richard L. Halterman | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Fundamentals.of.C%2B%2B.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) |
 | Game Programming Patterns |  |  | [link](http://gameprogrammingpatterns.com/contents.html) |
 | Google's C++ Style Guide |  |  | [link](https://google.github.io/styleguide/cppguide.html) |
 | Hands-On System Programming with C++ | Rian Quinn |  | [link](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) |
 | How to make an Operating System | Samy Pesse |  | [link](https://samypesse.gitbook.io/how-to-create-an-operating-system/) |
 | How To Think Like a Computer Scientist: C++ Version | Allen B. Downey |  | [link](http://greenteapress.com/thinkcpp/index.html) |
-| Introduction to Design Patterns in C++ with Qt 4 | Alan Ezust, Paul Ezust | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Introduction.to.Design.Patterns.in.C%2B%2B.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) |
-| Joint Strike Fighter, C++ Coding Standards | Bjarne Stroustrup | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Joint.Strike.Fighter.C%2B%2B.Coding.Standards.-.Bjarne.Stroustrup.pdf) | [link](http://www.stroustrup.com/JSF-AV-rules.pdf) |
+| Introduction to Design Patterns in C++ with Qt 4 | Alan Ezust, Paul Ezust | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Introduction.to.Design.Patterns.in.C%2B%2B.with.Qt.4.-.Alan.Ezust.Paul.Ezust.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) |
+| Joint Strike Fighter, C++ Coding Standards | Bjarne Stroustrup | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Joint.Strike.Fighter.C%2B%2B.Coding.Standards.-.Bjarne.Stroustrup.pdf) | [link](http://www.stroustrup.com/JSF-AV-rules.pdf) |
 | Learn C++ Programming Language | Tutorials Point |  | [link](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) |
 | LearnCpp.com |  |  | [link](https://www.learncpp.com) |
-| Learning C++ eBook | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Learning.C%2B%2B.eBook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/cplusplus.pdf) |
-| Matters Computational: Ideas, Algorithms, Source Code | Jorg Arndt | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf) | [link](http://www.jjj.de/fxt/fxtbook.pdf) |
-| Modern C++ Tutorial: C++11/14/17/20 On the Fly | Changkun Ou | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Modern.C%2B%2B.Tutorial.C%2B%2B11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf) | [link](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) |
+| Learning C++ eBook | Compiled from StackOverflow Documentation | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Learning.C%2B%2B.eBook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/cplusplus.pdf) |
+| Matters Computational: Ideas, Algorithms, Source Code | Jorg Arndt | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Matters.Computational.Ideas.Algorithms.Source.Code.-.Jorg.Arndt.pdf) | [link](http://www.jjj.de/fxt/fxtbook.pdf) |
+| Modern C++ Tutorial: C++11/14/17/20 On the Fly | Changkun Ou | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Modern.C%2B%2B.Tutorial.C%2B%2B11.14.17.20.On.the.Fly.-.Changkun.Ou.pdf) | [link](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) |
 | More C++ Idioms | Sumant Tambe, et al. |  | [link](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) |
-| Open Data Structures (In C++) | Pat Morin | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Open.Data.Structures.In.C%2B%2B.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-cpp.pdf) |
+| Open Data Structures (In C++) | Pat Morin | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Open.Data.Structures.In.C%2B%2B.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-cpp.pdf) |
 | Programming Fundamentals - A Modular Structured Approach using C++ | Kenneth Leroy Busbee |  | [link](https://archive.org/details/cnx-org-col10621/mode/1up) |
 | Software Design Using C++ | Br. David Carlson, Br. Isidore Minerd |  | [link](http://cis.stvincent.edu/html/tutorials/swd/) |
 | Software optimization resources | Agner Fog |  | [link](http://www.agner.org/optimize/) |
@@ -359,13 +359,13 @@
 | The Ultimate Question of Programming, Refactoring, and Everything |  |  | [link](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details) |
 | Think C++: How To Think Like a Computer Scientist | Allen B. Downey |  | [link](https://greenteapress.com/wp/think-c/) |
 | Thinking in C++, Second Edition, Vol. 1. | Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo) |  | [link](https://archive.org/details/TICPP2ndEdVolOne) |
-| Working Draft, Standard for Programming Language C++, 2021 Revision | Thomas Köppe | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-cpp-a-cpp/Working.Draft.Standard.for.Programming.Language.C%2B%2B.2021.Revision.-.Thomas.K.ppe.pdf) | [link](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) |
+| Working Draft, Standard for Programming Language C++, 2021 Revision | Thomas Köppe | [PDF](books/languages/a%20id%3D-cpp-a-C%2B%2B/Working.Draft.Standard.for.Programming.Language.C%2B%2B.2021.Revision.-.Thomas.K.ppe.pdf) | [link](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) |
 
 ### Carbon
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Carbon Compiler User Manual |  | [download](https://github.com/Squidly1408/programming-books/releases/download/carbon/Carbon.Compiler.User.Manual.pdf) | [link](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5) |
+| Carbon Compiler User Manual |  | [PDF](books/languages/Carbon/Carbon.Compiler.User.Manual.pdf) | [link](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5) |
 
 ### Chapel
 
@@ -386,7 +386,7 @@
 | Clojure Cookbook |  |  | [link](https://github.com/clojure-cookbook/clojure-cookbook) |
 | Clojure Distilled Beginner Guide |  |  | [link](http://yogthos.github.io/ClojureDistilled.html) |
 | Clojure for the Brave and True |  |  | [link](http://www.braveclojure.com) |
-| Clojure in Small Pieces | Rich Hickey, Timothy Daly | [download](https://github.com/Squidly1408/programming-books/releases/download/clojure/Clojure.in.Small.Pieces.-.Rich.Hickey.Timothy.Daly.pdf) | [link](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) |
+| Clojure in Small Pieces | Rich Hickey, Timothy Daly | [PDF](books/languages/Clojure/Clojure.in.Small.Pieces.-.Rich.Hickey.Timothy.Daly.pdf) | [link](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) |
 | Clojure Koans |  |  | [link](http://clojurekoans.com) |
 | Clojure Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Clojure_Programming) |
 | ClojureScript Koans |  |  | [link](http://clojurescriptkoans.com) |
@@ -412,11 +412,11 @@
 | COBOL Programming Fundamental |  |  | [link](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) |
 | COBOL Programming Standards | A J Marston |  | [link](https://www.tonymarston.net/cobol/cobolstandards.html) |
 | Enterprise COBOL for z/OS documentation library |  |  | [link](http://www-01.ibm.com/support/docview.wss?uid=swg27036733) |
-| GNU COBOL Programmers Guide | Gary L. Cutler | [download](https://github.com/Squidly1408/programming-books/releases/download/cobol/GNU.COBOL.Programmers.Guide.-.Gary.L..Cutler.pdf) | [link](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) |
-| ILE COBOL Programmer's Guide |  | [download](https://github.com/Squidly1408/programming-books/releases/download/cobol/ILE.COBOL.Programmer.s.Guide.pdf) | [link](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) |
+| GNU COBOL Programmers Guide | Gary L. Cutler | [PDF](books/languages/COBOL/GNU.COBOL.Programmers.Guide.-.Gary.L..Cutler.pdf) | [link](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) |
+| ILE COBOL Programmer's Guide |  | [PDF](books/languages/COBOL/ILE.COBOL.Programmer.s.Guide.pdf) | [link](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) |
 | Micro Focus: OO Programming with Object COBOL for UNIX (1999) | MERANT International Ltd. |  | [link](https://www.microfocus.com/documentation/reuze/60d/oppubb.htm) |
 | OpenCOBOL 1.1 - Programmer's Guide |  |  | [link](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) |
-| Visual COBOL: A Developer's Guide to Modern COBOL | Paul Kelly | [download](https://github.com/Squidly1408/programming-books/releases/download/cobol/Visual.COBOL.A.Developer.s.Guide.to.Modern.COBOL.-.Paul.Kelly.pdf) | [link](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) |
+| Visual COBOL: A Developer's Guide to Modern COBOL | Paul Kelly | [PDF](books/languages/COBOL/Visual.COBOL.A.Developer.s.Guide.to.Modern.COBOL.-.Paul.Kelly.pdf) | [link](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) |
 
 ### CoffeeScript
 
@@ -436,7 +436,7 @@
 | ColdFusion Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/ColdFusion_Programming) |
 | Learn CF in a Week |  |  | [link](http://learncfinaweek.com) |
 | Learn Modern ColdFusion \<CFML\> in 100+ Minutes | Luis Majano |  | [link](https://modern-cfml.ortusbooks.com) |
-| Learning coldfusion | Compiled from StackOverflow documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/coldfusion/Learning.coldfusion.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/coldfusion.pdf) |
+| Learning coldfusion | Compiled from StackOverflow documentation | [PDF](books/languages/ColdFusion/Learning.coldfusion.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/coldfusion.pdf) |
 
 ### Component Pascal
 
@@ -461,11 +461,11 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| CUDA C Best Practices Guide | Nvidia | [download](https://github.com/Squidly1408/programming-books/releases/download/cuda/CUDA.C.Best.Practices.Guide.-.Nvidia.pdf) | [link](https://web.archive.org/web/20170517050133/https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf) |
-| CUDA C Programming Guide | Nvidia | [download](https://github.com/Squidly1408/programming-books/releases/download/cuda/CUDA.C.Programming.Guide.-.Nvidia.pdf) | [link](https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) |
-| CUDA C++ Best Practices Guide | Nvidia | [download](https://github.com/Squidly1408/programming-books/releases/download/cuda/CUDA.C%2B%2B.Best.Practices.Guide.-.Nvidia.pdf) | [link](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf) |
-| CUDA C++ Programming guide | Nvidia | [download](https://github.com/Squidly1408/programming-books/releases/download/cuda/CUDA.C%2B%2B.Programming.guide.-.Nvidia.pdf) | [link](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) |
-| OpenCL Programming Guide for CUDA Architecture | Nvidia | [download](https://github.com/Squidly1408/programming-books/releases/download/cuda/OpenCL.Programming.Guide.for.CUDA.Architecture.-.Nvidia.pdf) | [link](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) |
+| CUDA C Best Practices Guide | Nvidia | [PDF](books/languages/CUDA/CUDA.C.Best.Practices.Guide.-.Nvidia.pdf) | [link](https://web.archive.org/web/20170517050133/https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf) |
+| CUDA C Programming Guide | Nvidia | [PDF](books/languages/CUDA/CUDA.C.Programming.Guide.-.Nvidia.pdf) | [link](https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) |
+| CUDA C++ Best Practices Guide | Nvidia | [PDF](books/languages/CUDA/CUDA.C%2B%2B.Best.Practices.Guide.-.Nvidia.pdf) | [link](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf) |
+| CUDA C++ Programming guide | Nvidia | [PDF](books/languages/CUDA/CUDA.C%2B%2B.Programming.guide.-.Nvidia.pdf) | [link](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) |
+| OpenCL Programming Guide for CUDA Architecture | Nvidia | [PDF](books/languages/CUDA/OpenCL.Programming.Guide.for.CUDA.Architecture.-.Nvidia.pdf) | [link](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) |
 
 ### D
 
@@ -479,7 +479,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Essential Dart | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/dart/) |
-| Learning Dart | Compiled from StackOverflow documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/dart/Learning.Dart.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/dart.pdf) |
+| Learning Dart | Compiled from StackOverflow documentation | [PDF](books/languages/Dart/Learning.Dart.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/dart.pdf) |
 
 ### DB2
 
@@ -494,7 +494,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Data Management for Analytics and Applications (2021) | Marios Kokkodis |  | [link](https://bookdown.org/kokkodis/book/) |
-| Database Management System | Malla Reddy College of Engineering and Technology | [download](https://github.com/Squidly1408/programming-books/releases/download/dbms/Database.Management.System.-.Malla.Reddy.College.of.Engineering.and.Technology.pdf) | [link](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) |
+| Database Management System | Malla Reddy College of Engineering and Technology | [PDF](books/languages/DBMS/Database.Management.System.-.Malla.Reddy.College.of.Engineering.and.Technology.pdf) | [link](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) |
 | Database Management Systems eBooks For All Edition |  |  | [link](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) |
 
 ### Delphi / Pascal
@@ -505,14 +505,14 @@
 | Essential Pascal Version 1 and 2 | M. Cantù |  | [link](http://www.marcocantu.com/epascal/) |
 | Expert Delphi | Paweł Głowacki |  | [link](https://www.packtpub.com/free-ebooks/expert-delphi) |
 | Modern Object Pascal Introduction for Programmers | Michalis Kamburelis |  | [link](https://github.com/michaliskambi/modern-pascal-introduction) |
-| Start Programming using Object Pascal | Motaz Abdel Azeem | [download](https://github.com/Squidly1408/programming-books/releases/download/delphi-pascal/Start.Programming.using.Object.Pascal.-.Motaz.Abdel.Azeem.pdf) | [link](https://code.sd/startprog/StartProgUsingPascal.pdf) |
+| Start Programming using Object Pascal | Motaz Abdel Azeem | [PDF](books/languages/Delphi%20-%20Pascal/Start.Programming.using.Object.Pascal.-.Motaz.Abdel.Azeem.pdf) | [link](https://code.sd/startprog/StartProgUsingPascal.pdf) |
 
 ### DTrace
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | IllumOS Dynamic Tracing Guide |  |  | [link](https://illumos.org/books/dtrace/preface.html) |
-| Solaris Dynamic Tracing Guide | Oracle | [download](https://github.com/Squidly1408/programming-books/releases/download/dtrace/Solaris.Dynamic.Tracing.Guide.-.Oracle.pdf) | [link](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) |
+| Solaris Dynamic Tracing Guide | Oracle | [PDF](books/languages/DTrace/Solaris.Dynamic.Tracing.Guide.-.Oracle.pdf) | [link](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) |
 
 ### Eiffel
 
@@ -531,7 +531,7 @@
 | Hands-on Elixir & OTP: Cryptocurrency trading bot | Kamil Skowron |  | [link](https://book.elixircryptobot.com) |
 | Joy of Elixir | Ryan Bigg |  | [link](https://joyofelixir.com) |
 | Learning Elixir | Joseph Kain Blog |  | [link](http://learningelixir.joekain.com) |
-| Learning the Elixir Language | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/elixir/Learning.the.Elixir.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/elixir-language.pdf) |
+| Learning the Elixir Language | Compiled from StackOverflow Documentation | [PDF](books/languages/Elixir/Learning.the.Elixir.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/elixir-language.pdf) |
 | The Ultimate Guide To Elixir For Object-Oriented Programmers | Bruce Park |  | [link](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) |
 
 ### Elixir / Ecto
@@ -546,19 +546,19 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Phoenix Framework Guide |  |  | [link](https://hexdocs.pm/phoenix/overview.html) |
-| Versioned APIs with Phoenix | Elvio Vicosa | [download](https://github.com/Squidly1408/programming-books/releases/download/elixir-phoenix/Versioned.APIs.with.Phoenix.-.Elvio.Vicosa.pdf) | [link](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) |
+| Versioned APIs with Phoenix | Elvio Vicosa | [PDF](books/languages/Elixir/Phoenix/Versioned.APIs.with.Phoenix.-.Elvio.Vicosa.pdf) | [link](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) |
 
 ### Erlang
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | BEAM Wisdoms |  |  | [link](https://web.archive.org/web/20230613211430/http://beam-wisdoms.clau.se/en/latest/) |
-| Concurrent Programming in ERLANG |  | [download](https://github.com/Squidly1408/programming-books/releases/download/erlang/Concurrent.Programming.in.ERLANG.pdf) | [link](http://www.erlang.org/download/erlang-book-part1.pdf) |
-| Erlang Handbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/erlang/Erlang.Handbook.pdf) | [link](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) |
+| Concurrent Programming in ERLANG |  | [PDF](books/languages/Erlang/Concurrent.Programming.in.ERLANG.pdf) | [link](http://www.erlang.org/download/erlang-book-part1.pdf) |
+| Erlang Handbook |  | [PDF](books/languages/Erlang/Erlang.Handbook.pdf) | [link](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) |
 | Erlang Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Erlang_Programming) |
 | Getting Started with Erlang User's Guide |  |  | [link](http://www.erlang.org/doc/getting_started/users_guide.html) |
 | Learn You Some Erlang For Great Good | Fred Hebert |  | [link](http://learnyousomeerlang.com) |
-| Making reliable distributed systems in the presence of software errors | Joe Armstrong | [download](https://github.com/Squidly1408/programming-books/releases/download/erlang/Making.reliable.distributed.systems.in.the.presence.of.software.errors.-.Joe.Armstrong.pdf) | [link](http://www.erlang.org/download/armstrong_thesis_2003.pdf) |
+| Making reliable distributed systems in the presence of software errors | Joe Armstrong | [PDF](books/languages/Erlang/Making.reliable.distributed.systems.in.the.presence.of.software.errors.-.Joe.Armstrong.pdf) | [link](http://www.erlang.org/download/armstrong_thesis_2003.pdf) |
 | Stuff Goes Bad: Erlang in Anger | Fred Herbert |  | [link](https://www.erlang-in-anger.com) |
 | The Erlang Runtime System | Erik Stenman |  | [link](https://blog.stenmans.org/theBeamBook) |
 
@@ -566,7 +566,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Analyzing and Visualizing Data with F# | Tomas Petricek | [download](https://github.com/Squidly1408/programming-books/releases/download/f-sharp/Analyzing.and.Visualizing.Data.with.F.-.Tomas.Petricek.pdf) | [link](https://web.archive.org/web/20201023042804/https://www.oreilly.com/programming/free/files/analyzing-visualizing-data-f-sharp.pdf) |
+| Analyzing and Visualizing Data with F# | Tomas Petricek | [PDF](books/languages/F%20Sharp/Analyzing.and.Visualizing.Data.with.F.-.Tomas.Petricek.pdf) | [link](https://web.archive.org/web/20201023042804/https://www.oreilly.com/programming/free/files/analyzing-visualizing-data-f-sharp.pdf) |
 | F# for fun and profit |  |  | [link](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) |
 | F# Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/F_Sharp_Programming) |
 | F# Succinctly, SyncFusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) |
@@ -594,22 +594,22 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Apex Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Apex.Workbook.pdf) | [link](https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf) |
-| Force.com Fundamentals |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Force.com.Fundamentals.pdf) | [link](http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf) |
+| Apex Workbook |  | [PDF](books/languages/Force.com/Apex.Workbook.pdf) | [link](https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf) |
+| Force.com Fundamentals |  | [PDF](books/languages/Force.com/Force.com.Fundamentals.pdf) | [link](http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf) |
 | Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud |  |  | [link](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html) |
-| Force.com Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Force.com.Workbook.pdf) | [link](https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf) |
-| Heroku Postgres |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Heroku.Postgres.pdf) | [link](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) |
-| Heroku Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Heroku.Workbook.pdf) | [link](https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf) |
-| Integration Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Integration.Workbook.pdf) | [link](https://web.archive.org/web/20150919023850/https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf) |
-| Salesforce1 Mobile App Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Salesforce1.Mobile.App.Workbook.pdf) | [link](https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf) |
-| Visualforce Workbook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/force-com/Visualforce.Workbook.pdf) | [link](https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf) |
+| Force.com Workbook |  | [PDF](books/languages/Force.com/Force.com.Workbook.pdf) | [link](https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf) |
+| Heroku Postgres |  | [PDF](books/languages/Force.com/Heroku.Postgres.pdf) | [link](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) |
+| Heroku Workbook |  | [PDF](books/languages/Force.com/Heroku.Workbook.pdf) | [link](https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf) |
+| Integration Workbook |  | [PDF](books/languages/Force.com/Integration.Workbook.pdf) | [link](https://web.archive.org/web/20150919023850/https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf) |
+| Salesforce1 Mobile App Workbook |  | [PDF](books/languages/Force.com/Salesforce1.Mobile.App.Workbook.pdf) | [link](https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf) |
+| Visualforce Workbook |  | [PDF](books/languages/Force.com/Visualforce.Workbook.pdf) | [link](https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf) |
 
 ### Forth
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Beginner's Guide to Forth | J.V. Noble |  | [link](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) |
-| And so Forth... |  | [download](https://github.com/Squidly1408/programming-books/releases/download/forth/And.so.Forth.pdf) | [link](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) |
+| And so Forth... |  | [PDF](books/languages/Forth/And.so.Forth.pdf) | [link](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) |
 | Easy Forth | Nick Morgan |  | [link](https://skilldrick.github.io/easyforth/) |
 | Forth Guide | Glen B. Haydon |  | [link](https://web.archive.org/web/20110412231747/http://theforthsource.com/guide.html) |
 | Starting Forth |  |  | [link](http://home.iae.nl/users/mhx/sf.html) |
@@ -680,9 +680,9 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Fullstack GraphQL |  |  | [link](https://github.com/GraphQLCollege/fullstack-graphql) |
-| GraphQL and Android | Mack L. Murphy | [download](https://github.com/Squidly1408/programming-books/releases/download/graphs-graphql/GraphQL.and.Android.-.Mack.L..Murphy.pdf) | [link](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) |
-| GraphQL or Bust | Nordic APIs | [download](https://github.com/Squidly1408/programming-books/releases/download/graphs-graphql/GraphQL.or.Bust.-.Nordic.APIs.pdf) | [link](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) |
-| Learning graphqL | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/graphs-graphql/Learning.graphqL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/graphql.pdf) |
+| GraphQL and Android | Mack L. Murphy | [PDF](books/languages/Graphs/GraphQL/GraphQL.and.Android.-.Mack.L..Murphy.pdf) | [link](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) |
+| GraphQL or Bust | Nordic APIs | [PDF](books/languages/Graphs/GraphQL/GraphQL.or.Bust.-.Nordic.APIs.pdf) | [link](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) |
+| Learning graphqL | Compiled from StackOverflow Documentation | [PDF](books/languages/Graphs/GraphQL/Learning.graphqL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/graphql.pdf) |
 
 ### Graphs / Gremlin
 
@@ -733,8 +733,8 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Big Data Analytics with Hadoop 3 | Sridhar Alla |  | [link](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) |
-| Cloudera Impala | John Russel | [download](https://github.com/Squidly1408/programming-books/releases/download/hadoop/Cloudera.Impala.-.John.Russel.pdf) | [link](https://web.archive.org/web/20220120101021/https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) |
-| Data-Intensive Text Processing with MapReduce |  | [download](https://github.com/Squidly1408/programming-books/releases/download/hadoop/Data-Intensive.Text.Processing.with.MapReduce.pdf) | [link](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) |
+| Cloudera Impala | John Russel | [PDF](books/languages/Hadoop/Cloudera.Impala.-.John.Russel.pdf) | [link](https://web.archive.org/web/20220120101021/https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) |
+| Data-Intensive Text Processing with MapReduce |  | [PDF](books/languages/Hadoop/Data-Intensive.Text.Processing.with.MapReduce.pdf) | [link](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) |
 | Hadoop for Windows Succinctly | Dave Vickers |  | [link](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) |
 | Hadoop Illuminated | Mark Kerzner, Sujee Maniyam |  | [link](http://hadoopilluminated.com/index.html) |
 
@@ -744,9 +744,9 @@
 |---|---|---|---|
 | A Gentle Introduction to Haskell Version 98 | Paul Hudak, John Peterson, Joseph Fasel |  | [link](https://www.haskell.org/tutorial/) |
 | Anatomy of Programming Languages | William R. Cook |  | [link](http://www.cs.utexas.edu/~wcook/anatomy/) |
-| Beautiful Code, Compelling Evidence | J.R. Heard | [download](https://github.com/Squidly1408/programming-books/releases/download/haskell/Beautiful.Code.Compelling.Evidence.-.J.R..Heard.pdf) | [link](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) |
+| Beautiful Code, Compelling Evidence | J.R. Heard | [PDF](books/languages/Haskell/Beautiful.Code.Compelling.Evidence.-.J.R..Heard.pdf) | [link](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) |
 | Developing Web Applications with Haskell and Yesod | Michael Snoyman |  | [link](https://www.yesodweb.com/book) |
-| Exploring Generic Haskell | Andres Löh | [download](https://github.com/Squidly1408/programming-books/releases/download/haskell/Exploring.Generic.Haskell.-.Andres.L.h.pdf) | [link](http://www.andres-loeh.de/ExploringGH.pdf) |
+| Exploring Generic Haskell | Andres Löh | [PDF](books/languages/Haskell/Exploring.Generic.Haskell.-.Andres.L.h.pdf) | [link](http://www.andres-loeh.de/ExploringGH.pdf) |
 | Happy Learn Haskell Tutorial |  |  | [link](http://www.happylearnhaskelltutorial.com) |
 | Haskell | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Haskell) |
 | Haskell no panic | Conrad Barski |  | [link](http://lisperati.com/haskell/) |
@@ -758,11 +758,11 @@
 | Parallel and Concurrent Programming in Haskell | Simon Marlow |  | [link](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) |
 | Real World Haskell | Bryan O'Sullivan, Don Stewart, John Goerzen |  | [link](http://book.realworldhaskell.org) |
 | Speeding Through Haskell | Arya Popescu |  | [link](http://www.sthaskell.com) |
-| The Haskell Road to Logic, Math and Programming | Kees Doets, Jan van Eijck | [download](https://github.com/Squidly1408/programming-books/releases/download/haskell/The.Haskell.Road.to.Logic.Math.and.Programming.-.Kees.Doets.Jan.van.Eijck.pdf) | [link](https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf) |
-| The Haskell School of Music - From Signals to Symphonies | Paul Hudak | [download](https://github.com/Squidly1408/programming-books/releases/download/haskell/The.Haskell.School.of.Music.-.From.Signals.to.Symphonies.-.Paul.Hudak.pdf) | [link](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) |
+| The Haskell Road to Logic, Math and Programming | Kees Doets, Jan van Eijck | [PDF](books/languages/Haskell/The.Haskell.Road.to.Logic.Math.and.Programming.-.Kees.Doets.Jan.van.Eijck.pdf) | [link](https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf) |
+| The Haskell School of Music - From Signals to Symphonies | Paul Hudak | [PDF](books/languages/Haskell/The.Haskell.School.of.Music.-.From.Signals.to.Symphonies.-.Paul.Hudak.pdf) | [link](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) |
 | What I Wish I Knew When Learning Haskell | Stephen Diehl |  | [link](http://dev.stephendiehl.com/hask/) |
 | Wise Man's Haskell | Andre Popovitch |  | [link](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) |
-| Yet Another Haskell Tutorial | Hal Daum ́e III | [download](https://github.com/Squidly1408/programming-books/releases/download/haskell/Yet.Another.Haskell.Tutorial.-.Hal.Daum.e.III.pdf) | [link](http://hal3.name/docs/daume02yaht.pdf) |
+| Yet Another Haskell Tutorial | Hal Daum ́e III | [PDF](books/languages/Haskell/Yet.Another.Haskell.Tutorial.-.Hal.Daum.e.III.pdf) | [link](http://hal3.name/docs/daume02yaht.pdf) |
 
 ### Haxe
 
@@ -801,7 +801,7 @@
 | GA Dash |  |  | [link](https://dash.generalassemb.ly) |
 | Google's HTML/CSS Style Guide |  |  | [link](https://google.github.io/styleguide/htmlcssguide.html) |
 | How To Build a Website with HTML | Erin Glass |  | [link](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) |
-| How to Code in HTML5 and CSS3 | Damian Wielgosik | [download](https://github.com/Squidly1408/programming-books/releases/download/html-and-css/How.to.Code.in.HTML5.and.CSS3.-.Damian.Wielgosik.pdf) | [link](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) |
+| How to Code in HTML5 and CSS3 | Damian Wielgosik | [PDF](books/languages/HTML%20and%20CSS/How.to.Code.in.HTML5.and.CSS3.-.Damian.Wielgosik.pdf) | [link](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) |
 | HTML Canvas Deep Dive | Josh Marinacci |  | [link](http://joshondesign.com/p/books/canvasdeepdive/toc.html) |
 | HTML Dog Tutorials |  |  | [link](http://www.htmldog.com) |
 | HTML Tutorial; The Complete Practical Guide | Swapnil Raja |  | [link](https://html5andcss3.org/html-tutorial-pdf/) |
@@ -810,13 +810,13 @@
 | HTML5 for Publishers | Sanders Kleinfeld |  | [link](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) |
 | HTML5 For Web Designers | Jeremy Keith |  | [link](http://html5forwebdesigners.com) |
 | HTML5 Notes for Professionals | Compiled from StackOverflow documentation |  | [link](https://goalkicker.com/HTML5Book/) |
-| HTML5 Quick Learning Guide | HTML5Templates | [download](https://github.com/Squidly1408/programming-books/releases/download/html-and-css/HTML5.Quick.Learning.Guide.-.HTML5Templates.pdf) | [link](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) |
+| HTML5 Quick Learning Guide | HTML5Templates | [PDF](books/languages/HTML%20and%20CSS/HTML5.Quick.Learning.Guide.-.HTML5Templates.pdf) | [link](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) |
 | HTML5 Shoot 'em Up in an Afternoon | Bryan Bibat |  | [link](https://leanpub.com/html5shootemupinanafternoon/read) |
 | Interneting is Hard (But it Doesn't Have to Be) | Oliver James |  | [link](https://www.internetingishard.com) |
 | Learn CSS Layout |  |  | [link](http://learnlayout.com) |
 | Learn CSS Layout the pedantic way |  |  | [link](http://book.mixu.net/css/) |
 | Learn to Code HTML & CSS | Shay Howe |  | [link](https://learn.shayhowe.com) |
-| Learning sass | Compiled from Stack Overflow documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/html-and-css/Learning.sass.-.Compiled.from.Stack.Overflow.documentation.pdf) | [link](https://riptutorial.com/Download/sass.pdf) |
+| Learning sass | Compiled from Stack Overflow documentation | [PDF](books/languages/HTML%20and%20CSS/Learning.sass.-.Compiled.from.Stack.Overflow.documentation.pdf) | [link](https://riptutorial.com/Download/sass.pdf) |
 | Magic of CSS | Adam Schwartz |  | [link](https://adamschwartz.co/magic-of-css/) |
 | MaintainableCSS |  |  | [link](http://maintainablecss.com) |
 | Pocket Guide to Writing SVG | Joni Trythall |  | [link](https://svgpocketguide.com) |
@@ -883,26 +883,26 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Arithmetic | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Arithmetic.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/arithmetic.pdf) |
-| Brief Reference | Chris Burke and Clifford Reiter | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Brief.Reference.-.Chris.Burke.and.Clifford.Reiter.pdf) | [link](http://www.jsoftware.com/books/pdf/brief.pdf) |
-| Calculus | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Calculus.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/calculus.pdf) |
+| Arithmetic | Kenneth E. Iverson | [PDF](books/languages/J/Arithmetic.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/arithmetic.pdf) |
+| Brief Reference | Chris Burke and Clifford Reiter | [PDF](books/languages/J/Brief.Reference.-.Chris.Burke.and.Clifford.Reiter.pdf) | [link](http://www.jsoftware.com/books/pdf/brief.pdf) |
+| Calculus | Kenneth E. Iverson | [PDF](books/languages/J/Calculus.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/calculus.pdf) |
 | Computers and Mathematical Notation | Kenneth E. Iverson |  | [link](http://www.jsoftware.com/papers/camn.htm) |
-| Concrete Math Companion | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Concrete.Math.Companion.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/cmc.pdf) |
-| Easy J | Linda Alvord, Norman Thomson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Easy.J.-.Linda.Alvord.Norman.Thomson.pdf) | [link](http://www.jsoftware.com/books/pdf/easyj.pdf) |
-| Exploring Math | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Exploring.Math.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/expmath.pdf) |
+| Concrete Math Companion | Kenneth E. Iverson | [PDF](books/languages/J/Concrete.Math.Companion.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/cmc.pdf) |
+| Easy J | Linda Alvord, Norman Thomson | [PDF](books/languages/J/Easy.J.-.Linda.Alvord.Norman.Thomson.pdf) | [link](http://www.jsoftware.com/books/pdf/easyj.pdf) |
+| Exploring Math | Kenneth E. Iverson | [PDF](books/languages/J/Exploring.Math.-.Kenneth.E..Iverson.pdf) | [link](http://www.jsoftware.com/books/pdf/expmath.pdf) |
 | J for C Programmers | Henry Rich |  | [link](http://www.jsoftware.com/help/jforc/contents.htm) |
 | J Primer |  |  | [link](http://www.jsoftware.com/help/primer/contents.htm) |
 | Learning J | Roger Stokes |  | [link](http://www.jsoftware.com/help/learning/contents.htm) |
-| Math for the Layman | Kenneth E. Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/j/Math.for.the.Layman.-.Kenneth.E..Iverson.zip) | [link](http://www.jsoftware.com/books/pdf/mftl.zip) |
+| Math for the Layman | Kenneth E. Iverson | [ZIP](books/languages/J/Math.for.the.Layman.-.Kenneth.E..Iverson.zip) | [link](http://www.jsoftware.com/books/pdf/mftl.zip) |
 
 ### Java
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| 3D Programming in Java | Daniel Selman | [download](https://github.com/Squidly1408/programming-books/releases/download/java/3D.Programming.in.Java.-.Daniel.Selman.pdf) | [link](https://web.archive.org/web/20251124074959/https://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) |
-| A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version) | Clifford A. Shaffer | [download](https://github.com/Squidly1408/programming-books/releases/download/java/A.Practical.Introduction.to.Data.Structures.and.Algorithm.Analysis.Third.Edition.Java.Version.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf) |
-| An Introduction to the USA Computing Olympiad, Java Edition | Darren Yao | [download](https://github.com/Squidly1408/programming-books/releases/download/java/An.Introduction.to.the.USA.Computing.Olympiad.Java.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/java.pdf) |
-| Apache Jakarta Commons: Reusable Java Components | Will Iverson | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Apache.Jakarta.Commons.Reusable.Java.Components.-.Will.Iverson.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) |
+| 3D Programming in Java | Daniel Selman | [PDF](books/languages/Java/3D.Programming.in.Java.-.Daniel.Selman.pdf) | [link](https://web.archive.org/web/20251124074959/https://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) |
+| A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version) | Clifford A. Shaffer | [PDF](books/languages/Java/A.Practical.Introduction.to.Data.Structures.and.Algorithm.Analysis.Third.Edition.Java.Version.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf) |
+| An Introduction to the USA Computing Olympiad, Java Edition | Darren Yao | [PDF](books/languages/Java/An.Introduction.to.the.USA.Computing.Olympiad.Java.Edition.-.Darren.Yao.pdf) | [link](https://darrenyao.com/usacobook/java.pdf) |
+| Apache Jakarta Commons: Reusable Java Components | Will Iverson | [PDF](books/languages/Java/Apache.Jakarta.Commons.Reusable.Java.Components.-.Will.Iverson.pdf) | [link](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) |
 | Artificial Intelligence - Foundations of Computational Agents, Second Edition | David L. Poole, Alan K. Mackworth |  | [link](https://artint.info/2e/html/ArtInt2e.html) |
 | Building Back-End Web Apps with Java, JPA and JSF | Mircea Diaconescu, Gerd Wagner |  | [link](https://web-engineering.info/tech/JavaJpaJsf/book/) |
 | Category wise tutorials - J2EE | Yong Mook Kim |  | [link](https://www.mkyong.com/all-tutorials-on-mkyong-com/) |
@@ -918,25 +918,25 @@
 | Introduction to Programming Using Java | David J. Eck |  | [link](http://math.hws.edu/javanotes) |
 | Introduction to Programming Using Java (5th Edition - final version, 2010 Jun) | David J. Eck |  | [link](https://math.hws.edu/eck/cs124/javanotes5) |
 | Java 23 - Key Concepts in Brief | Sergio Petrucci |  | [link](https://web.archive.org/web/20241213171851/https://petrucci.dev/java23.html) |
-| Java Application Development on Linux (2005) | Carl Albing, Michael Schwarz | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Java.Application.Development.on.Linux.2005.-.Carl.Albing.Michael.Schwarz.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) |
+| Java Application Development on Linux (2005) | Carl Albing, Michael Schwarz | [PDF](books/languages/Java/Java.Application.Development.on.Linux.2005.-.Carl.Albing.Michael.Schwarz.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) |
 | Java, Java, Java Object-Oriented Problem Solving | R. Morelli, R.Walde |  | [link](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) |
 | Java Language and Virtual Machine Specifications | James Gosling, et al. |  | [link](https://docs.oracle.com/javase/specs/) |
-| Java ME 3.4 Developer's Guide for NetBeans on Windows | Oracle | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Java.ME.3.4.Developer.s.Guide.for.NetBeans.on.Windows.-.Oracle.pdf) | [link](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf) |
+| Java ME 3.4 Developer's Guide for NetBeans on Windows | Oracle | [PDF](books/languages/Java/Java.ME.3.4.Developer.s.Guide.for.NetBeans.on.Windows.-.Oracle.pdf) | [link](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf) |
 | Java Notes for Professionals | Compiled from StackOverflow documentation |  | [link](http://goalkicker.com/JavaBook/) |
 | Java Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Java_Programming) |
 | Java Programming for Kids | Yakov Fain |  | [link](https://yfain.github.io/Java4Kids/) |
 | Java Projects, Second Edition | Peter Verhas |  | [link](https://www.packtpub.com/free-ebooks/java-projects-second-edition) |
 | Learn Java for FTC | Alan Smith |  | [link](https://github.com/alan412/LearnJavaForFTC) |
-| Learning Java Language | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Learning.Java.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/java-language.pdf) |
-| Microservices Best Practices for Java |  | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Microservices.Best.Practices.for.Java.pdf) | [link](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) |
-| Object-Oriented Programming in JavaTM Textbook | Richard L. Halterman | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Object-Oriented.Programming.in.JavaTM.Textbook.-.Richard.L..Halterman.pdf) | [link](https://www.cs.southern.edu/halterman/oopj.pdf) |
+| Learning Java Language | Compiled from StackOverflow Documentation | [PDF](books/languages/Java/Learning.Java.Language.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/java-language.pdf) |
+| Microservices Best Practices for Java |  | [PDF](books/languages/Java/Microservices.Best.Practices.for.Java.pdf) | [link](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) |
+| Object-Oriented Programming in JavaTM Textbook | Richard L. Halterman | [PDF](books/languages/Java/Object-Oriented.Programming.in.JavaTM.Textbook.-.Richard.L..Halterman.pdf) | [link](https://www.cs.southern.edu/halterman/oopj.pdf) |
 | OOP - Learn Object Oriented Thinking & Programming | Rudolf Pecinovsky |  | [link](http://pub.bruckner.cz/titles/oop) |
-| Open Data Structures (in Java) | Pat Morin | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Open.Data.Structures.in.Java.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-java.pdf) |
+| Open Data Structures (in Java) | Pat Morin | [PDF](books/languages/Java/Open.Data.Structures.in.Java.-.Pat.Morin.pdf) | [link](http://opendatastructures.org/ods-java.pdf) |
 | Playing with Java Microservices on Kubernetes and OpenShift | Nebrass Lamouchi |  | [link](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) |
 | Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002) | Elliotte Rusty Harold |  | [link](http://www.cafeconleche.org/books/xmljava/) |
-| Programming With Java | Ashik Ahmed Bhuiyan, Md Amiruzzaman | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Programming.With.Java.-.Ashik.Ahmed.Bhuiyan.Md.Amiruzzaman.pdf) | [link](https://paadopt.org/wp-content/uploads/2025/03/Programming-With-Java-ABhuiyan-MAmiruzzaman-2025031201.pdf) |
-| The Java EE6 Tutorial |  | [download](https://github.com/Squidly1408/programming-books/releases/download/java/The.Java.EE6.Tutorial.pdf) | [link](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) |
-| The Java EE7 Tutorial | Eric Jendrock, et al. | [download](https://github.com/Squidly1408/programming-books/releases/download/java/The.Java.EE7.Tutorial.-.Eric.Jendrock.et.al.pdf) | [link](https://docs.oracle.com/javaee/7/JEETT.pdf) |
+| Programming With Java | Ashik Ahmed Bhuiyan, Md Amiruzzaman | [PDF](books/languages/Java/Programming.With.Java.-.Ashik.Ahmed.Bhuiyan.Md.Amiruzzaman.pdf) | [link](https://paadopt.org/wp-content/uploads/2025/03/Programming-With-Java-ABhuiyan-MAmiruzzaman-2025031201.pdf) |
+| The Java EE6 Tutorial |  | [PDF](books/languages/Java/The.Java.EE6.Tutorial.pdf) | [link](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) |
+| The Java EE7 Tutorial | Eric Jendrock, et al. | [PDF](books/languages/Java/The.Java.EE7.Tutorial.-.Eric.Jendrock.et.al.pdf) | [link](https://docs.oracle.com/javaee/7/JEETT.pdf) |
 | The Java Tutorials |  |  | [link](https://docs.oracle.com/javase/tutorial/index.html) |
 | The Java Web Scraping Handbook | Kevin Sahin |  | [link](https://www.scrapingbee.com/java-webscraping-book) |
 | Think Data Structures: Algorithms and Information Retrieval in Java | Allen B. Downey |  | [link](https://greenteapress.com/wp/think-data-structures/) |
@@ -946,20 +946,20 @@
 | Welcome to Java for Python Programmers | Brad Miller |  | [link](https://runestone.academy/runestone/books/published/java4python/index.html) |
 | Welcome to the Java Workshop (2006) | Trevor Miller |  | [link](http://javaworkshop.sourceforge.net) |
 | What’s New in Java 8 | Adam L. Davis |  | [link](https://leanpub.com/whatsnewinjava8/read) |
-| Writing Advanced Applications for the Java 2 Platform | Calvin Austin, Monica Pawlan | [download](https://github.com/Squidly1408/programming-books/releases/download/java/Writing.Advanced.Applications.for.the.Java.2.Platform.-.Calvin.Austin.Monica.Pawlan.pdf) | [link](http://www.pawlan.com/monica/books/AdvBk.pdf) |
+| Writing Advanced Applications for the Java 2 Platform | Calvin Austin, Monica Pawlan | [PDF](books/languages/Java/Writing.Advanced.Applications.for.the.Java.2.Platform.-.Calvin.Austin.Monica.Pawlan.pdf) | [link](http://www.pawlan.com/monica/books/AdvBk.pdf) |
 
 ### Java / Codename One
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Codename One Developer Guide |  | [download](https://github.com/Squidly1408/programming-books/releases/download/java-codename-one/Codename.One.Developer.Guide.pdf) | [link](https://www.codenameone.com/files/developer-guide.pdf) |
+| Codename One Developer Guide |  | [PDF](books/languages/Java/Codename%20One/Codename.One.Developer.Guide.pdf) | [link](https://www.codenameone.com/files/developer-guide.pdf) |
 | Create an Uber Clone in 7 Days (first 2 chapters) | Shai Almog |  | [link](http://uber.cn1.co) |
 
 ### Java / Java Reporting
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| The JasperReports Ultimate Guide, Third Edition |  | [download](https://github.com/Squidly1408/programming-books/releases/download/java-java-reporting/The.JasperReports.Ultimate.Guide.Third.Edition.pdf) | [link](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) |
+| The JasperReports Ultimate Guide, Third Edition |  | [PDF](books/languages/Java/Java%20Reporting/The.JasperReports.Ultimate.Guide.Third.Edition.pdf) | [link](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) |
 
 ### Java / Spring
 
@@ -967,7 +967,7 @@
 |---|---|---|---|
 | Building Applications with Spring 5 and Vue.js 2 | James J. Ye |  | [link](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) |
 | Software Architecture with Spring 5.0 | René Enríquez, Alberto Salazar |  | [link](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) |
-| Spring Framework Cookbook: Hot Recipes for Spring Framework | JCGs | [download](https://github.com/Squidly1408/programming-books/releases/download/java-spring/Spring.Framework.Cookbook.Hot.Recipes.for.Spring.Framework.-.JCGs.pdf) | [link](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) |
+| Spring Framework Cookbook: Hot Recipes for Spring Framework | JCGs | [PDF](books/languages/Java/Spring/Spring.Framework.Cookbook.Hot.Recipes.for.Spring.Framework.-.JCGs.pdf) | [link](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) |
 | Spring Framework Notes for Professionals | Compiled from StackOverflow documentation |  | [link](https://goalkicker.com/SpringFrameworkBook) |
 | Spring Framework Reference Documentation | Rod Johnson, et al. |  | [link](https://docs.spring.io/spring/docs/current/spring-framework-reference/) |
 
@@ -1020,7 +1020,7 @@
 | Human JavaScript | Henrik Joreteg |  | [link](http://read.humanjavascript.com/ch01-introduction.html) |
 | JavaScript (ES2015+) Enlightenment | Cody Lindley |  | [link](https://frontendmasters.com/guides/javascript-enlightenment/) |
 | JavaScript Allongé | Reginald Braithwaite |  | [link](https://leanpub.com/javascript-allonge/read) |
-| JavaScript Bible | Danny Goodman | [download](https://github.com/Squidly1408/programming-books/releases/download/javascript/JavaScript.Bible.-.Danny.Goodman.pdf) | [link](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) |
+| JavaScript Bible | Danny Goodman | [PDF](books/languages/JavaScript/JavaScript.Bible.-.Danny.Goodman.pdf) | [link](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) |
 | JavaScript Challenges Book | Tomás Corral Casas |  | [link](https://tcorral.github.io/javascript-challenges-book/) |
 | JavaScript ES6 and beyond | Alberto Montalesi |  | [link](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) |
 | JavaScript For Beginners | Microsoft |  | [link](https://github.com/microsoft/Web-Dev-For-Beginners) |
@@ -1040,7 +1040,7 @@
 | Javascript Tutorial |  |  | [link](https://www.tutorialspoint.com/javascript/index.htm) |
 | JavaScript Wikibook | Wikibooks |  | [link](https://en.wikibooks.org/wiki/JavaScript) |
 | JavaScript with Classes | Diogo Eichert |  | [link](https://diogoeichert.github.io/JSwC.epub) |
-| JS Robots | Mark Daggett |  | [link](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) |
+| JS Robots | Mark Daggett | [PDF](books/languages/JavaScript/JS.Robots.-.Mark.Daggett.pdf) | [link](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) |
 | Leaflet Tips and Tricks: Interactive Maps Made Easy | Malcolm Maclean |  | [link](https://leanpub.com/leaflet-tips-and-tricks/read) |
 | Learn JavaScript | Suman Kumar, Github Contributors |  | [link](https://javascript.sumankunwar.com.np/en) |
 | Learning JavaScript Design Patterns | Addy Osmani |  | [link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
@@ -1061,7 +1061,7 @@
 | Some drops of JavaScript | Roberto Butti |  | [link](https://drops-of-javascript.hi-folks.dev) |
 | Speaking JavaScript | Axel Rauschmayer |  | [link](https://exploringjs.com/es5/) |
 | Standard ECMA-262 ECMAScript 2016 Language Specification | Ecma International |  | [link](https://www.ecma-international.org/publications/standards/Ecma-262.htm) |
-| The Code Challenge Book | Daniel Borowski | [download](https://github.com/Squidly1408/programming-books/releases/download/javascript/The.Code.Challenge.Book.-.Daniel.Borowski.pdf) | [link](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) |
+| The Code Challenge Book | Daniel Borowski | [PDF](books/languages/JavaScript/The.Code.Challenge.Book.-.Daniel.Borowski.pdf) | [link](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) |
 | The JavaScript Beginner's Handbook | Flavio Copes |  | [link](https://flaviocopes.com/page/javascript-handbook/) |
 | The JavaScript Way | Baptiste Pesquet |  | [link](https://github.com/bpesquet/thejsway) |
 | The Modern JavaScript Tutorial | Ilya Kantor |  | [link](https://javascript.info) |
@@ -1302,17 +1302,17 @@
 |---|---|---|---|
 | 30 Days Of Vue | Hassan Djirdeh |  | [link](https://www.newline.co/30-days-of-vue) |
 | Deep Vue 3: From History to Engine Internals | YiteAI |  | [link](https://tools.yiteai.com/en/books/vue3) |
-| Learning Vue.js | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/javascript-vue-js/Learning.Vue.js.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/vue-js.pdf) |
+| Learning Vue.js | Compiled from StackOverflow Documentation | [PDF](books/languages/JavaScript/Vue.js/Learning.Vue.js.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/vue-js.pdf) |
 | The Vue.js Handbook | Flavio Copes |  | [link](https://flaviocopes.com/page/vue-handbook/) |
 
 ### Jenkins
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Jenkins Starter Guide Ebook |  | [download](https://github.com/Squidly1408/programming-books/releases/download/jenkins/Jenkins.Starter.Guide.Ebook.pdf) | [link](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) |
+| Jenkins Starter Guide Ebook |  | [PDF](books/languages/Jenkins/Jenkins.Starter.Guide.Ebook.pdf) | [link](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) |
 | Jenkins: The Definitive Guide |  |  | [link](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) |
 | Jenkins User Handbook |  |  | [link](https://www.jenkins.io/user-handbook.pdf) |
-| Learning Jenkins |  | [download](https://github.com/Squidly1408/programming-books/releases/download/jenkins/Learning.Jenkins.pdf) | [link](https://riptutorial.com/Download/jenkins.pdf) |
+| Learning Jenkins |  | [PDF](books/languages/Jenkins/Learning.Jenkins.pdf) | [link](https://riptutorial.com/Download/jenkins.pdf) |
 
 ### Julia
 
@@ -1324,7 +1324,7 @@
 | Julia language: a concise tutorial | Antonello Lobianco |  | [link](https://syl1.gitbook.io/julia-language-a-concise-tutorial) |
 | Learn Julia in Y minutes | Leah Hanson |  | [link](https://learnxinyminutes.com/docs/julia) |
 | Quantitative Economics with Julia | Jesse Perla, Thomas J. Sargent, John Stachurski |  | [link](https://julia.quantecon.org) |
-| The Julia Express | Bogumił Kamiński | [download](https://github.com/Squidly1408/programming-books/releases/download/julia/The.Julia.Express.-.Bogumi.Kami.ski.pdf) | [link](http://bogumilkaminski.pl/files/julia_express.pdf) |
+| The Julia Express | Bogumił Kamiński | [PDF](books/languages/Julia/The.Julia.Express.-.Bogumi.Kami.ski.pdf) | [link](http://bogumilkaminski.pl/files/julia_express.pdf) |
 | Think Julia | Ben Lauwens, Allen Downey |  | [link](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) |
 
 ### Kotlin
@@ -1336,7 +1336,7 @@
 | Kotlin Official Documentation |  |  | [link](https://kotlinlang.org/docs/reference/) |
 | Kotlin Quick Reference | Alvin Alexander |  | [link](https://kotlin-quick-reference.com) |
 | Learn Kotlin Programming | Programiz |  | [link](https://www.programiz.com/kotlin-programming) |
-| Learning Kotlin | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/kotlin/Learning.Kotlin.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/kotlin.pdf) |
+| Learning Kotlin | Compiled from StackOverflow Documentation | [PDF](books/languages/Kotlin/Learning.Kotlin.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/kotlin.pdf) |
 
 ### LaTeX / TeX / LaTeX
 
@@ -1346,13 +1346,13 @@
 | Begin Latex in minutes |  |  | [link](https://github.com/VoLuong/Begin-Latex-in-minutes) |
 | LaTeX | Wikibooks |  | [link](https://en.wikibooks.org/wiki/LaTeX) |
 | LaTex Notes for Professionals | Compiled from StackOverflow documentation |  | [link](https://goalkicker.com/LaTeXBook/) |
-| The Not So Short Introduction to LaTeX |  | [download](https://github.com/Squidly1408/programming-books/releases/download/latex-tex-latex/The.Not.So.Short.Introduction.to.LaTeX.pdf) | [link](https://tobi.oetiker.ch/lshort/lshort.pdf) |
+| The Not So Short Introduction to LaTeX |  | [PDF](books/languages/LaTeX%20-%20TeX/LaTeX/The.Not.So.Short.Introduction.to.LaTeX.pdf) | [link](https://tobi.oetiker.ch/lshort/lshort.pdf) |
 
 ### LaTeX / TeX / TeX
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Notes On Programming in TeX | Christian Feursänger | [download](https://github.com/Squidly1408/programming-books/releases/download/latex-tex-tex/Notes.On.Programming.in.TeX.-.Christian.Feurs.nger.pdf) | [link](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) |
+| Notes On Programming in TeX | Christian Feursänger | [PDF](books/languages/LaTeX%20-%20TeX/TeX/Notes.On.Programming.in.TeX.-.Christian.Feurs.nger.pdf) | [link](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) |
 | TeX by Topic, A TeXnician's Reference | Victor Eijkhout |  | [link](http://eijkhout.net/texbytopic/texbytopic.html) |
 | TeX for the Impatient | Paul Abrahams, Kathryn Hargreaves, Karl Berry |  | [link](https://www.gnu.org/software/teximpatient/) |
 
@@ -1381,40 +1381,40 @@
 |---|---|---|---|
 | Ad Hoc Data Analysis From The Unix Command Line | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) |
 | Advanced Linux Programming |  |  | [link](https://sourcerytools.github.io/advancedlinuxprogramming/) |
-| Advanced Linux :The Linux Shell And Toolkit | Tobias Elsner, Anselm Lingnau | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Advanced.Linux.The.Linux.Shell.And.Toolkit.-.Tobias.Elsner.Anselm.Lingnau.pdf) | [link](https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf) |
+| Advanced Linux :The Linux Shell And Toolkit | Tobias Elsner, Anselm Lingnau | [PDF](books/languages/Linux/Advanced.Linux.The.Linux.Shell.And.Toolkit.-.Tobias.Elsner.Anselm.Lingnau.pdf) | [link](https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf) |
 | Adventures with the Linux Command Line | William E. Shotts Jr. |  | [link](http://linuxcommand.org/lc3_adventures.php) |
 | Automated Linux From Scratch |  |  | [link](http://www.linuxfromscratch.org/alfs/download.html) |
 | Getting Started with Ubuntu |  |  | [link](http://ubuntu-manual.org) |
 | GNU Autoconf, Automake and Libtool |  |  | [link](http://www.sourceware.org/autobook/download.html) |
 | Hardened Linux From Scratch |  |  | [link](http://www.linuxfromscratch.org/hlfs/download.html) |
-| Introduction to Linux - A Hands on Guide | Machtelt Garrels | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Introduction.to.Linux.-.A.Hands.on.Guide.-.Machtelt.Garrels.pdf) | [link](https://tldp.org/LDP/intro-linux/intro-linux.pdf) |
+| Introduction to Linux - A Hands on Guide | Machtelt Garrels | [PDF](books/languages/Linux/Introduction.to.Linux.-.A.Hands.on.Guide.-.Machtelt.Garrels.pdf) | [link](https://tldp.org/LDP/intro-linux/intro-linux.pdf) |
 | Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition | Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali |  | [link](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) |
 | Kali Linux: Professional Penetration-Testing Distribution |  |  | [link](http://docs.kali.org) |
 | Learning Debian GNU/Linux |  |  | [link](http://www.oreilly.com/openbook/debian/book/index.html) |
-| Linux 101 Hacks | Ramesh Natarajan | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.101.Hacks.-.Ramesh.Natarajan.zip) | [link](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) |
-| Linux Administration II : Linux as a Network Client | Anselm Lingnau, Tobias Elsner | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.Administration.II.Linux.as.a.Network.Client.-.Anselm.Lingnau.Tobias.Elsner.pdf) | [link](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) |
+| Linux 101 Hacks | Ramesh Natarajan | [ZIP](books/languages/Linux/Linux.101.Hacks.-.Ramesh.Natarajan.zip) | [link](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) |
+| Linux Administration II : Linux as a Network Client | Anselm Lingnau, Tobias Elsner | [PDF](books/languages/Linux/Linux.Administration.II.Linux.as.a.Network.Client.-.Anselm.Lingnau.Tobias.Elsner.pdf) | [link](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) |
 | Linux Advanced Routing & Traffic Control HOWTO |  |  | [link](http://lartc.org) |
 | Linux Appliance Design: A Hands-On Guide to Building Linux Appliances | Bob Smith, John Hardin, Graham Phillips, Bill Pierce |  | [link](http://librta.org/book.html) |
 | Linux commands Notes for Professionals | Compiled from StackOverflow documentation |  | [link](https://goalkicker.com/LinuxBook/) |
 | Linux Device Drivers, Third Edition | Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman |  | [link](http://lwn.net/Kernel/LDD3/) |
 | Linux Essentials | Linux Professional Institute |  | [link](https://learning.lpi.org/en/learning-materials/010-160/) |
 | Linux From Scratch | Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. |  | [link](https://www.linuxfromscratch.org/lfs/view/stable/) |
-| Linux Fundamentals | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.Fundamentals.-.Paul.Cobbaut.pdf) | [link](http://linux-training.be/linuxfun.pdf) |
+| Linux Fundamentals | Paul Cobbaut | [PDF](books/languages/Linux/Linux.Fundamentals.-.Paul.Cobbaut.pdf) | [link](http://linux-training.be/linuxfun.pdf) |
 | Linux Inside |  |  | [link](https://0xax.gitbooks.io/linux-insides/content/index.html) |
 | Linux Kernel in a Nutshell |  |  | [link](http://www.kroah.com/lkn/) |
 | Linux Newbie Administrator Guide |  |  | [link](http://lnag.sourceforge.net) |
 | Linux Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://books.goalkicker.com/LinuxBook) |
-| Linux Security | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.Security.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsec.pdf) |
-| Linux Servers | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.Servers.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsrv.pdf) |
-| Linux Storage | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.Storage.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsto.pdf) |
+| Linux Security | Paul Cobbaut | [PDF](books/languages/Linux/Linux.Security.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsec.pdf) |
+| Linux Servers | Paul Cobbaut | [PDF](books/languages/Linux/Linux.Servers.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsrv.pdf) |
+| Linux Storage | Paul Cobbaut | [PDF](books/languages/Linux/Linux.Storage.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsto.pdf) |
 | Linux Succinctly, Syncfusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/linux) |
-| Linux System Administration | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/Linux.System.Administration.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsys.pdf) |
+| Linux System Administration | Paul Cobbaut | [PDF](books/languages/Linux/Linux.System.Administration.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxsys.pdf) |
 | Secure Programming HOWTO - Creating Secure Software | D. A. Wheeler |  | [link](http://www.dwheeler.com/secure-programs/) |
 | Ten Steps to Linux Survival: Bash for Windows People | Jim Lehmer |  | [link](http://dullroar.com/book/TenStepsToLinuxSurvival.html) |
 | The Debian Administrator's Handbook |  |  | [link](https://debian-handbook.info) |
 | The Linux Command Line |  |  | [link](http://linuxcommand.org/tlcl.php) |
 | The Linux Commands Handbook | Flavio Copes |  | [link](https://flaviocopes.com/page/linux-commands-handbook/) |
-| The Linux Development Platform |  | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/The.Linux.Development.Platform.pdf) | [link](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) |
+| The Linux Development Platform |  | [PDF](books/languages/Linux/The.Linux.Development.Platform.pdf) | [link](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) |
 | The Linux Kernel Module Programming Guide |  |  | [link](https://sysprog21.github.io/lkmpg/) |
 | The Linux System Administrator's Guide |  |  | [link](http://www.tldp.org/LDP/sag/html/index.html) |
 | Ubuntu Pocket Guide and Reference |  |  | [link](http://www.ubuntupocketguide.com/index_main.html) |
@@ -1422,21 +1422,21 @@
 | Understanding the Linux Virtual Memory Manager | Mel Gorman |  | [link](https://www.kernel.org/doc/gorman/) |
 | UNIX Systems Programming for SVR4 | David A. Curry |  | [link](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) |
 | Upstart Intro, Cookbook and Best Practises |  |  | [link](http://upstart.ubuntu.com/cookbook/) |
-| What Every Programmer Should Know About Memory |  | [download](https://github.com/Squidly1408/programming-books/releases/download/linux/What.Every.Programmer.Should.Know.About.Memory.pdf) | [link](http://www.akkadia.org/drepper/cpumemory.pdf) |
+| What Every Programmer Should Know About Memory |  | [PDF](books/languages/Linux/What.Every.Programmer.Should.Know.About.Memory.pdf) | [link](http://www.akkadia.org/drepper/cpumemory.pdf) |
 
 ### Lisp
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R) |  | [download](https://github.com/Squidly1408/programming-books/releases/download/lisp/ANSI.Common.Lisp.Standard.draft.version.15.17R.X3J13.94-101R.pdf) | [link](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) |
-| Basic Lisp Techniques | David J. Cooper Jr. | [download](https://github.com/Squidly1408/programming-books/releases/download/lisp/Basic.Lisp.Techniques.-.David.J..Cooper.Jr.pdf) | [link](http://franz.com/resources/educational_resources/cooper.book.pdf) |
+| ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R) |  | [PDF](books/languages/Lisp/ANSI.Common.Lisp.Standard.draft.version.15.17R.X3J13.94-101R.pdf) | [link](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) |
+| Basic Lisp Techniques | David J. Cooper Jr. | [PDF](books/languages/Lisp/Basic.Lisp.Techniques.-.David.J..Cooper.Jr.pdf) | [link](http://franz.com/resources/educational_resources/cooper.book.pdf) |
 | Casting Spels in Lisp |  |  | [link](http://www.lisperati.com/casting.html) |
 | Common Lisp: A Gentle Introduction to Symbolic Computation | David S. Touretzky |  | [link](http://www.cs.cmu.edu/~dst/LispBook/) |
 | Common Lisp: An Interactive Approach | Stuart C. Shapiro |  | [link](http://www.cse.buffalo.edu/~shapiro/Commonlisp/) |
 | Common Lisp Quick Reference |  |  | [link](http://clqr.boundp.org) |
 | Common Lisp the Language, 2nd Edition |  |  | [link](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html) |
 | Google's Common Lisp Style Guide |  |  | [link](https://github.com/emacsmirror/google-c-style/blob/master/lispguide.md) |
-| Interpreting LISP | Gary D. Knott | [download](https://github.com/Squidly1408/programming-books/releases/download/lisp/Interpreting.LISP.-.Gary.D..Knott.pdf) | [link](http://www.civilized.com/files/lispbook.pdf) |
+| Interpreting LISP | Gary D. Knott | [PDF](books/languages/Lisp/Interpreting.LISP.-.Gary.D..Knott.pdf) | [link](http://www.civilized.com/files/lispbook.pdf) |
 | Learn Lisp The Hard Way | Colin J.E. Lupton |  | [link](https://github.com/LispTO/llthw) |
 | Let Over Lambda - 50 Years of Lisp | D. Hoyte |  | [link](http://letoverlambda.com/index.cl/) |
 | Lisp Hackers: Interviews with 100x More Productive Programmers | Vsevolod Dyomkin |  | [link](https://leanpub.com/lisphackers/read) |
@@ -1447,7 +1447,7 @@
 | Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp | Peter Norvig |  | [link](https://github.com/norvig/paip-lisp) |
 | Practical Common Lisp | P. Seibel |  | [link](http://www.gigamonkeys.com/book/) |
 | The Common Lisp Cookbook |  |  | [link](https://lispcookbook.github.io/cl-cookbook/) |
-| The Evolution of Lisp | Guy L. Steele Jr., Richard P. Gabriel | [download](https://github.com/Squidly1408/programming-books/releases/download/lisp/The.Evolution.of.Lisp.-.Guy.L..Steele.Jr..Richard.P..Gabriel.pdf) | [link](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) |
+| The Evolution of Lisp | Guy L. Steele Jr., Richard P. Gabriel | [PDF](books/languages/Lisp/The.Evolution.of.Lisp.-.Guy.L..Steele.Jr..Richard.P..Gabriel.pdf) | [link](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) |
 
 ### Lisp / Emacs Lisp
 
@@ -1475,7 +1475,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Learning Lua ebook | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/lua/Learning.Lua.ebook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/lua.pdf) |
+| Learning Lua ebook | Compiled from StackOverflow Documentation | [PDF](books/languages/Lua/Learning.Lua.ebook.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/lua.pdf) |
 | Lua 5.3 Reference Manual |  |  | [link](http://www.lua.org/manual/5.3/) |
 | Lua Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Lua_Programming) |
 | Lua Tutorial | Tutorials Point |  | [link](http://www.tutorialspoint.com/lua/) |
@@ -1510,14 +1510,14 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A Beginner’s Guide to Matlab | Christos Xenophontos | [download](https://github.com/Squidly1408/programming-books/releases/download/matlab/A.Beginner.s.Guide.to.Matlab.-.Christos.Xenophontos.pdf) | [link](http://math.loyola.edu/~loberbro/matlab/Beginners_guide_to_MATLAB.pdf) |
-| An Interactive Introduction to MATLAB |  | [download](https://github.com/Squidly1408/programming-books/releases/download/matlab/An.Interactive.Introduction.to.MATLAB.pdf) | [link](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) |
+| A Beginner’s Guide to Matlab | Christos Xenophontos | [PDF](books/languages/MATLAB/A.Beginner.s.Guide.to.Matlab.-.Christos.Xenophontos.pdf) | [link](http://math.loyola.edu/~loberbro/matlab/Beginners_guide_to_MATLAB.pdf) |
+| An Interactive Introduction to MATLAB |  | [PDF](books/languages/MATLAB/An.Interactive.Introduction.to.MATLAB.pdf) | [link](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) |
 | An Introduction to MATLAB |  |  | [link](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) |
 | Applications of MATLAB in Science and Engineering |  |  | [link](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering) |
 | Experiments with MATLAB |  |  | [link](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com&nocookie=true) |
 | Freshman Engineering Problem Solving with MATLAB |  |  | [link](https://cnx.org/exports/3a643c1f-c1ba-4c2a-8065-317a1f2b1add@18.1.pdf/freshman-engineering-problem-solving-with-matlab-18.1.pdf) |
 | Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics |  |  | [link](http://www.mathworks.com/tutorials) |
-| Introduction to MATLAB for Engineering Students | David Houcque | [download](https://github.com/Squidly1408/programming-books/releases/download/matlab/Introduction.to.MATLAB.for.Engineering.Students.-.David.Houcque.pdf) | [link](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf) |
+| Introduction to MATLAB for Engineering Students | David Houcque | [PDF](books/languages/MATLAB/Introduction.to.MATLAB.for.Engineering.Students.-.David.Houcque.pdf) | [link](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf) |
 | MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1 |  |  | [link](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1) |
 | MATLAB - A Ubiquitous Tool for the Practical Engineer |  |  | [link](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer) |
 | MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics |  |  | [link](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics) |
@@ -1527,7 +1527,7 @@
 | MATLAB Succinctly, Syncfusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/matlab) |
 | Numerical Computing with MATLAB |  |  | [link](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true) |
 | Physical Modeling in MATLAB | Alan B. Downey |  | [link](http://greenteapress.com/matlab/index.html) |
-| Scientific Computing | Jeffrey R. Chasnov | [download](https://github.com/Squidly1408/programming-books/releases/download/matlab/Scientific.Computing.-.Jeffrey.R..Chasnov.pdf) | [link](https://www.math.ust.hk/~machas/scientific-computing.pdf) |
+| Scientific Computing | Jeffrey R. Chasnov | [PDF](books/languages/MATLAB/Scientific.Computing.-.Jeffrey.R..Chasnov.pdf) | [link](https://www.math.ust.hk/~machas/scientific-computing.pdf) |
 
 ### Maven
 
@@ -1542,7 +1542,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| The Mercury Users' Guide |  | [download](https://github.com/Squidly1408/programming-books/releases/download/mercury/The.Mercury.Users.Guide.pdf) | [link](http://www.mercurylang.org/information/doc-release/user_guide.pdf) |
+| The Mercury Users' Guide |  | [PDF](books/languages/Mercury/The.Mercury.Users.Guide.pdf) | [link](http://www.mercurylang.org/information/doc-release/user_guide.pdf) |
 
 ### Modelica
 
@@ -1555,7 +1555,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Introduction to MongoDB | Tutorials Point |  | [link](https://www.tutorialspoint.com/mongodb/) |
-| Learning MongoDB | Based on Unaffiliated  Stack Overflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/mongodb/Learning.MongoDB.-.Based.on.Unaffiliated.Stack.Overflow.Documentation.pdf) | [link](https://riptutorial.com/Download/mongodb.pdf) |
+| Learning MongoDB | Based on Unaffiliated  Stack Overflow Documentation | [PDF](books/languages/MongoDB/Learning.MongoDB.-.Based.on.Unaffiliated.Stack.Overflow.Documentation.pdf) | [link](https://riptutorial.com/Download/mongodb.pdf) |
 | MongoDB Koans |  |  | [link](https://github.com/chicagoruby/MongoDB_Koans) |
 | MongoDB Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/MongoDBBook/) |
 | MongoDB Succinctly, Syncfusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) |
@@ -1566,7 +1566,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Essential MySQL | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/mysql/) |
-| Learning MySQL | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/mysql/Learning.MySQL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/mysql.pdf) |
+| Learning MySQL | Compiled from StackOverflow Documentation | [PDF](books/languages/MySQL/Learning.MySQL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/mysql.pdf) |
 | MySQL 8.0 Tutorial Excerpt |  |  | [link](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) |
 | MySQL Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/MySQLBook/) |
 
@@ -1595,10 +1595,10 @@
 | MonoGame Succinctly | Jim Perry |  | [link](https://www.syncfusion.com/ebooks/monogame_succinctly) |
 | .NET for Visual FoxPro Developers |  |  | [link](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm) |
 | .NET Framework Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/DotNETFrameworkBook/) |
-| .NET Performance Testing and Optimization - The Complete Guide | Paul Glavich, Chris Farrell | [download](https://github.com/Squidly1408/programming-books/releases/download/net-framework/NET.Performance.Testing.and.Optimization.-.The.Complete.Guide.-.Paul.Glavich.Chris.Farrell.pdf) | [link](https://assets.red-gate.com/community/books/dotnet-performance-testing-and-optimization.pdf) |
+| .NET Performance Testing and Optimization - The Complete Guide | Paul Glavich, Chris Farrell | [PDF](books/languages/NET%20Framework/NET.Performance.Testing.and.Optimization.-.The.Complete.Guide.-.Paul.Glavich.Chris.Farrell.pdf) | [link](https://assets.red-gate.com/community/books/dotnet-performance-testing-and-optimization.pdf) |
 | NuGet In-House Succinctly | José Roberto Olivas Mendoza |  | [link](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) |
 | Rider Succinctly | Dmitri Nesteruk |  | [link](https://www.syncfusion.com/ebooks/rider-succinctly) |
-| Under the Hood of .NET Memory Management | Chris Farrell, Nick Harrison | [download](https://github.com/Squidly1408/programming-books/releases/download/net-framework/Under.the.Hood.of..NET.Memory.Management.-.Chris.Farrell.Nick.Harrison.pdf) | [link](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) |
+| Under the Hood of .NET Memory Management | Chris Farrell, Nick Harrison | [PDF](books/languages/NET%20Framework/Under.the.Hood.of..NET.Memory.Management.-.Chris.Farrell.Nick.Harrison.pdf) | [link](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) |
 | Unit Testing Succinctly | Marc Clifton |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/unittesting) |
 
 ### NewSQL
@@ -1621,10 +1621,10 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | CouchDB: The Definitive Guide |  |  | [link](http://guide.couchdb.org) |
-| Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data | Petter Nasholm | [download](https://github.com/Squidly1408/programming-books/releases/download/nosql/Extracting.Data.from.NoSQL.Databases.A.Step.towards.Interactive.Visual.Analysis.of.NoSQL.Data.-.Petter.Nasholm.pdf) | [link](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) |
+| Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data | Petter Nasholm | [PDF](books/languages/NoSQL/Extracting.Data.from.NoSQL.Databases.A.Step.towards.Interactive.Visual.Analysis.of.NoSQL.Data.-.Petter.Nasholm.pdf) | [link](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) |
 | Graph Databases |  |  | [link](http://graphdatabases.com) |
 | How To Manage a Redis Database | Mark Drake |  | [link](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) |
-| NoSQL Databases | Christof Strauch | [download](https://github.com/Squidly1408/programming-books/releases/download/nosql/NoSQL.Databases.-.Christof.Strauch.pdf) | [link](http://www.christof-strauch.de/nosqldbs.pdf) |
+| NoSQL Databases | Christof Strauch | [PDF](books/languages/NoSQL/NoSQL.Databases.-.Christof.Strauch.pdf) | [link](http://www.christof-strauch.de/nosqldbs.pdf) |
 | Redis in Action | Josiah L. Carlson |  | [link](https://web.archive.org/web/20231219080823/https://redis.com/ebook/redis-in-action/) |
 | The Little Redis Book | Karl Seguin |  | [link](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) |
 
@@ -1632,9 +1632,9 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Algorithms and Data-Structures | Niklaus Wirth | [download](https://github.com/Squidly1408/programming-books/releases/download/oberon/Algorithms.and.Data-Structures.-.Niklaus.Wirth.pdf) | [link](https://inf.ethz.ch/personal/wirth/AD.pdf) |
-| Object-Oriented Programming in Oberon-2 | Hanspeter Mössenböck | [download](https://github.com/Squidly1408/programming-books/releases/download/oberon/Object-Oriented.Programming.in.Oberon-2.-.Hanspeter.M.ssenb.ck.pdf) | [link](http://ssw.jku.at/Research/Books/Oberon2.pdf) |
-| Programming in Oberon | Niklaus Wirth | [download](https://github.com/Squidly1408/programming-books/releases/download/oberon/Programming.in.Oberon.-.Niklaus.Wirth.pdf) | [link](https://www.inf.ethz.ch/personal/wirth/ProgInOberonWR.pdf) |
+| Algorithms and Data-Structures | Niklaus Wirth | [PDF](books/languages/Oberon/Algorithms.and.Data-Structures.-.Niklaus.Wirth.pdf) | [link](https://inf.ethz.ch/personal/wirth/AD.pdf) |
+| Object-Oriented Programming in Oberon-2 | Hanspeter Mössenböck | [PDF](books/languages/Oberon/Object-Oriented.Programming.in.Oberon-2.-.Hanspeter.M.ssenb.ck.pdf) | [link](http://ssw.jku.at/Research/Books/Oberon2.pdf) |
+| Programming in Oberon | Niklaus Wirth | [PDF](books/languages/Oberon/Programming.in.Oberon.-.Niklaus.Wirth.pdf) | [link](https://www.inf.ethz.ch/personal/wirth/ProgInOberonWR.pdf) |
 
 ### Objective-C
 
@@ -1654,7 +1654,7 @@
 | Architecture of Advanced Numerical Analysis Systems: Designing a Scientific Computing System using OCaml | Liang Wang, Jianxin Zhao |  | [link](https://link.springer.com/content/pdf/10.1007/978-1-4842-8853-5.pdf) |
 | Developing Applications With Objective Caml |  |  | [link](http://caml.inria.fr/pub/docs/oreilly-book/) |
 | Functional Programming in OCaml | Michael R. Clarkson |  | [link](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) |
-| Learn Programming with OCaml: Algorithms and Data Structures | Sylvain Conchon, Jean-Christophe Filliâtre - trl.: Urmila Nair | [download](https://github.com/Squidly1408/programming-books/releases/download/ocaml/Learn.Programming.with.OCaml.Algorithms.and.Data.Structures.-.Sylvain.Conchon.Jean-Christophe.Filli.tre.-.trl..Urmila.Na.pdf) | [link](https://usr.lmf.cnrs.fr/lpo/lpo.pdf) |
+| Learn Programming with OCaml: Algorithms and Data Structures | Sylvain Conchon, Jean-Christophe Filliâtre - trl.: Urmila Nair | [PDF](books/languages/OCaml/Learn.Programming.with.OCaml.Algorithms.and.Data.Structures.-.Sylvain.Conchon.Jean-Christophe.Filli.tre.-.trl..Urmila.Na.pdf) | [link](https://usr.lmf.cnrs.fr/lpo/lpo.pdf) |
 | OCaml From the Ground Up | Daniil Baturin |  | [link](https://ocamlbook.org) |
 | OCaml from the Very Beginning | John Whitington |  | [link](https://johnwhitington.net/ocamlfromtheverybeginning/) |
 | OCaml Scientific Computing | Liang Wang, Jianxin Zhao |  | [link](https://ocaml.xyz/book/) |
@@ -1667,7 +1667,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Introduction to GNU Octave | jason Lachniet | [download](https://github.com/Squidly1408/programming-books/releases/download/octave/Introduction.to.GNU.Octave.-.jason.Lachniet.pdf) | [link](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) |
+| Introduction to GNU Octave | jason Lachniet | [PDF](books/languages/Octave/Introduction.to.GNU.Octave.-.jason.Lachniet.pdf) | [link](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) |
 | Octave Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) |
 
 ### Odin
@@ -1681,8 +1681,8 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Guide To OpenMP |  |  | [link](http://bisqwit.iki.fi/story/howto/openmp/) |
-| OpenMP Application Programming Interface Standard Version 4.0 |  | [download](https://github.com/Squidly1408/programming-books/releases/download/openmp/OpenMP.Application.Programming.Interface.Standard.Version.4.0.pdf) | [link](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) |
-| OpenMP Application Programming Interface Standard Version 5.0 |  | [download](https://github.com/Squidly1408/programming-books/releases/download/openmp/OpenMP.Application.Programming.Interface.Standard.Version.5.0.pdf) | [link](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) |
+| OpenMP Application Programming Interface Standard Version 4.0 |  | [PDF](books/languages/OpenMP/OpenMP.Application.Programming.Interface.Standard.Version.4.0.pdf) | [link](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) |
+| OpenMP Application Programming Interface Standard Version 5.0 |  | [PDF](books/languages/OpenMP/OpenMP.Application.Programming.Interface.Standard.Version.5.0.pdf) | [link](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) |
 
 ### OpenResty
 
@@ -1708,14 +1708,14 @@
 |---|---|---|---|
 | Free Pascal Reference guide |  |  | [link](https://www.freepascal.org/docs-html/ref/ref.html) |
 | Modern Object Pascal Introduction for Programmers |  |  | [link](https://castle-engine.io/modern_pascal_introduction.html) |
-| Pascal Language Reference |  | [download](https://github.com/Squidly1408/programming-books/releases/download/pascal/Pascal.Language.Reference.pdf) | [link](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) |
+| Pascal Language Reference |  | [PDF](books/languages/Pascal/Pascal.Language.Reference.pdf) | [link](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) |
 | Pascal Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Pascal_Programming) |
 | Pascal Programming Reference Manual | Unisys |  | [link](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf) |
 | Pascal Quick Reference |  |  | [link](https://ksvi.mff.cuni.cz/~dingle/2017/pascal_reference.html) |
-| Turbo Pascal Reference Guide (1989) | Borland International | [download](https://github.com/Squidly1408/programming-books/releases/download/pascal/Turbo.Pascal.Reference.Guide.1989.-.Borland.International.pdf) | [link](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) |
+| Turbo Pascal Reference Guide (1989) | Borland International | [PDF](books/languages/Pascal/Turbo.Pascal.Reference.Guide.1989.-.Borland.International.pdf) | [link](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) |
 | Vector Pascal, an Array Language | Paul Cockshott, Greg Michaelson |  | [link](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html) |
 | Vector Pascal Reference Manual |  |  | [link](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) |
-| VSI Pascal for OpenVMS Reference Manual | VMS Software |  | [link](https://web.archive.org/web/20230207090951/https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) |
+| VSI Pascal for OpenVMS Reference Manual | VMS Software | [PDF](books/languages/Pascal/VSI.Pascal.for.OpenVMS.Reference.Manual.-.VMS.Software.pdf) | [link](https://web.archive.org/web/20230207090951/https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) |
 
 ### Perl
 
@@ -1724,7 +1724,7 @@
 | Beginning Perl |  |  | [link](https://www.perl.org/books/beginning-perl/) |
 | Data Munging with Perl |  |  | [link](https://datamungingwithperl.com) |
 | Embedding Perl in HTML with Mason | D. Rolsky, K. Williams |  | [link](http://masonbook.houseabsolute.com/book/) |
-| Essential Perl |  |  | [link](https://web.archive.org/web/20260510194733/http://cslibrary.stanford.edu/108/EssentialPerl.pdf) |
+| Essential Perl |  | [PDF](books/languages/Perl/Essential.Perl.pdf) | [link](https://web.archive.org/web/20260510194733/http://cslibrary.stanford.edu/108/EssentialPerl.pdf) |
 | Exploring Programming Language Architecture in Perl |  |  | [link](http://www.billhails.net/Book/) |
 | Extreme Perl | Robert Nagler |  | [link](https://www.extremeperl.org) |
 | Higher-Order Perl | M. J. Dominus |  | [link](http://hop.perl.plover.com/book/) |
@@ -1750,7 +1750,7 @@
 |---|---|---|---|
 | Clean Code PHP |  |  | [link](https://github.com/jupeter/clean-code-php) |
 | Essential PHP | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/php/) |
-| PHP 5 Power Programming |  | [download](https://github.com/Squidly1408/programming-books/releases/download/php/PHP.5.Power.Programming.pdf) | [link](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) |
+| PHP 5 Power Programming |  | [PDF](books/languages/PHP/PHP.5.Power.Programming.pdf) | [link](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) |
 | PHP Apprentice | Andrew Davis |  | [link](https://phpapprentice.com) |
 | PHP Best Practices |  |  | [link](https://phpbestpractices.org) |
 | PHP Documentor - Documentation | phpdoc.org |  | [link](https://docs.phpdoc.org) |
@@ -1785,19 +1785,19 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Drupal at your Fingertips | Selwyn Polit, Drupal Community Contributors |  | [link](https://selwynpolit.github.io/d9book/) |
-| The Tiny Book of Rules |  |  | [link](https://www.drupal.org/files/tiny-book-of-rules.pdf) |
+| The Tiny Book of Rules |  | [PDF](books/languages/PHP/Drupal/The.Tiny.Book.of.Rules.pdf) | [link](https://www.drupal.org/files/tiny-book-of-rules.pdf) |
 
 ### PHP / Laravel
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| 100 (and counting) Laravel Quick Tips | Povilas Korop / LaravelDaily Team | [download](https://github.com/Squidly1408/programming-books/releases/download/php-laravel/100.and.counting.Laravel.Quick.Tips.-.Povilas.Korop.LaravelDaily.Team.pdf) | [link](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) |
+| 100 (and counting) Laravel Quick Tips | Povilas Korop / LaravelDaily Team | [PDF](books/languages/PHP/Laravel/100.and.counting.Laravel.Quick.Tips.-.Povilas.Korop.LaravelDaily.Team.pdf) | [link](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) |
 | Laravel Best Practices |  |  | [link](http://www.laravelbestpractices.com) |
 | Laravel: Code Bright | Dayle Rees |  | [link](http://daylerees.com/codebright) |
 | Laravel: Code Happy | Dayle Rees |  | [link](http://daylerees.com/codehappy) |
 | Laravel: Code Smart | Dayle Rees |  | [link](https://daylerees.com/codesmart/) |
 | Laravel Tips and Tricks | Bobby Iliev |  | [link](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) |
-| Learning Laravel | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/php-laravel/Learning.Laravel.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/laravel.pdf) |
+| Learning Laravel | Compiled from StackOverflow Documentation | [PDF](books/languages/PHP/Laravel/Learning.Laravel.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/laravel.pdf) |
 
 ### PHP / Symfony
 
@@ -1805,7 +1805,7 @@
 |---|---|---|---|
 | Symfony 5.4: The Fast Track |  |  | [link](https://symfony.com/doc/5.4/the-fast-track/en/index.html) |
 | Symfony 6.2: The Fast Track |  |  | [link](https://symfony.com/doc/6.2/the-fast-track/en/index.html) |
-| The Symfony Best practices 4.1.x |  | [download](https://github.com/Squidly1408/programming-books/releases/download/php-symfony/The.Symfony.Best.practices.4.1.x.pdf) | [link](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) |
+| The Symfony Best practices 4.1.x |  | [PDF](books/languages/PHP/Symfony/The.Symfony.Best.practices.4.1.x.pdf) | [link](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) |
 | The Symfony Book 2.8.x |  |  | [link](https://symfony.com/doc/2.8/index.html) |
 | The Symfony Book 3.4.x |  |  | [link](https://symfony.com/doc/3.4/index.html) |
 | The Symfony Book 4.4.x |  |  | [link](https://symfony.com/doc/4.4/index.html) |
@@ -1814,8 +1814,8 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| The Definitive Guide to Yii 2.0 | Yii Software | [download](https://github.com/Squidly1408/programming-books/releases/download/php-yii/The.Definitive.Guide.to.Yii.2.0.-.Yii.Software.pdf) | [link](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) |
-| The Yii Book | Larry Ullman | [download](https://github.com/Squidly1408/programming-books/releases/download/php-yii/The.Yii.Book.-.Larry.Ullman.pdf) | [link](https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf) |
+| The Definitive Guide to Yii 2.0 | Yii Software | [PDF](books/languages/PHP/Yii/The.Definitive.Guide.to.Yii.2.0.-.Yii.Software.pdf) | [link](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) |
+| The Yii Book | Larry Ullman | [PDF](books/languages/PHP/Yii/The.Yii.Book.-.Larry.Ullman.pdf) | [link](https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf) |
 
 ### PHP / Zend
 
@@ -1845,12 +1845,12 @@
 | DevOps: The Ops Perspective | The DevOps Collective Inc. |  | [link](https://leanpub.com/devopstheopsperspective/read) |
 | Ditch Excel: Making Historical & Trend Reports in PowerShell | The DevOps Collective Inc. |  | [link](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) |
 | Essential PowerShell | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/powershell/) |
-| Layman’s Guide to PowerShell 2.0 remoting |  | [download](https://github.com/Squidly1408/programming-books/releases/download/powershell/Layman.s.Guide.to.PowerShell.2.0.remoting.pdf) | [link](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) |
+| Layman’s Guide to PowerShell 2.0 remoting |  | [PDF](books/languages/PowerShell/Layman.s.Guide.to.PowerShell.2.0.remoting.pdf) | [link](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) |
 | Learn PowerShell Core 6.0 | David das Neves, Jan-Hendrik Peters |  | [link](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) |
 | Learn PowerShell in Y Minutes |  |  | [link](https://learnxinyminutes.com/docs/powershell/) |
 | Mastering PowerShell v2 |  |  | [link](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending) |
 | PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell | Mike F. Robbins |  | [link](https://leanpub.com/powershell101) |
-| PowerShell 2.0 – One CMDLET At A Time |  | [download](https://github.com/Squidly1408/programming-books/releases/download/powershell/PowerShell.2.0.One.CMDLET.At.A.Time.pdf) | [link](https://web.archive.org/web/20210712072756/http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) |
+| PowerShell 2.0 – One CMDLET At A Time |  | [PDF](books/languages/PowerShell/PowerShell.2.0.One.CMDLET.At.A.Time.pdf) | [link](https://web.archive.org/web/20210712072756/http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) |
 | PowerShell Notes for Professionals | Compiled from StackOverflow documentation |  | [link](http://goalkicker.com/PowerShellBook/) |
 | PowerShell Succinctly, Syncfusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/powershell) |
 | Secrets of PowerShell Remoting | The DevOps Collective Inc. |  | [link](https://leanpub.com/secretsofpowershellremoting/read) |
@@ -1875,7 +1875,7 @@
 | Coding Guidelines for Prolog | Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price |  | [link](http://arxiv.org/abs/0911.2899) |
 | Concise Intro to Prolog | David Matuszek |  | [link](https://matuszek.org/prolog/prolog.html) |
 | Expert Systems in Prolog | David Matuszek |  | [link](http://www.amzi.com/ExpertSystemsInProlog/) |
-| GNU Prolog Manual | Daniel Diaz | [download](https://github.com/Squidly1408/programming-books/releases/download/prolog/GNU.Prolog.Manual.-.Daniel.Diaz.pdf) | [link](http://www.gprolog.org/manual/gprolog.pdf) |
+| GNU Prolog Manual | Daniel Diaz | [PDF](books/languages/Prolog/GNU.Prolog.Manual.-.Daniel.Diaz.pdf) | [link](http://www.gprolog.org/manual/gprolog.pdf) |
 | Introduction to Prolog for Mathematicians | J. Ireson-Ireson-Paine |  | [link](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html) |
 | Learn Prolog Now! |  |  | [link](http://www.learnprolognow.org) |
 | Logic, Programming and Prolog (2ed) | Ulf Nilsson, Jan Maluszynski |  | [link](https://www.ida.liu.se/~ulfni53/lpp/) |
@@ -1886,7 +1886,7 @@
 | Prolog Tutorial | J. R. Fisher |  | [link](https://web.archive.org/web/20220926100142/https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) |
 | Simply Logical: Intelligent Reasoning by Example | Peter Flach |  | [link](https://book.simply-logical.space) |
 | The Art of Prolog, Second Edition | Leon S. Sterling, Ehud Y. Shapiro |  | [link](https://mitpress.mit.edu/9780262691635/the-art-of-prolog/) |
-| The First 10 Prolog Programming Contests | Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon | [download](https://github.com/Squidly1408/programming-books/releases/download/prolog/The.First.10.Prolog.Programming.Contests.-.Bart.Demoen.Phuong-Lan.Nguyen.Tom.Schrijvers.Remko.Tron.on.pdf) | [link](https://lirias.kuleuven.be/server/api/core/bitstreams/739707c3-e205-49cd-a72b-85096f7b280b/content) |
+| The First 10 Prolog Programming Contests | Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon | [PDF](books/languages/Prolog/The.First.10.Prolog.Programming.Contests.-.Bart.Demoen.Phuong-Lan.Nguyen.Tom.Schrijvers.Remko.Tron.on.pdf) | [link](https://lirias.kuleuven.be/server/api/core/bitstreams/739707c3-e205-49cd-a72b-85096f7b280b/content) |
 | The Power of Prolog | Markus Triska |  | [link](https://www.metalevel.at/prolog) |
 | Warren's Abstract Machine: A Tutorial Reconstruction | Hassan A¨it-Kaci |  | [link](http://wambook.sourceforge.net) |
 
@@ -1913,7 +1913,7 @@
 | A Guide to Python's Magic Methods | Rafe Kettler |  | [link](https://github.com/RafeKettler/magicmethods) |
 | A Practical Introduction to Python Programming | Brian Heinold |  | [link](https://www.brianheinold.net/python/) |
 | A Whirlwind Tour of Python | Jake VanderPlas |  | [link](https://jakevdp.github.io/WhirlwindTourOfPython/) |
-| AIPython: Python Code for understanding AI |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python/AIPython.Python.Code.for.understanding.AI.pdf) | [link](https://artint.info/AIPython/aipython/aipython.pdf) |
+| AIPython: Python Code for understanding AI |  | [PDF](books/languages/Python/AIPython.Python.Code.for.understanding.AI.pdf) | [link](https://artint.info/AIPython/aipython/aipython.pdf) |
 | An Introduction to Statistical Learning with Applications in Python | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor |  | [link](https://www.statlearning.com) |
 | Architecture Patterns with Python | Harry J.W. Percival, Bob Gregory |  | [link](https://www.cosmicpython.com/book/preface.html) |
 | Automate the Boring Stuff with Python, 3rd Edition: Practical Programming for Total Beginners | Al Sweigart |  | [link](https://automatetheboringstuff.com/3e/) |
@@ -1923,9 +1923,9 @@
 | Build applications in Python the antitextbook |  |  | [link](http://github.com/thewhitetulip/build-app-with-python-antitextbook) |
 | Building Data Products: The Ultimate Guide |  |  | [link](https://resources.montecarlodata.com/c/ebook-building-data-products?x=gEwOdf) |
 | Building Skills in Object-Oriented Design, V4 | Steven F. Lott |  | [link](https://slott56.github.io/building-skills-oo-design-book/build/html/) |
-| Building Skills in Object-Oriented Design, Release 2.2.1 | Steven F. Lott | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Building.Skills.in.Object-Oriented.Design.Release.2.2.1.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) |
-| Building Skills in Object-Oriented Design, Release 3.1 | Steven F. Lott | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Building.Skills.in.Object-Oriented.Design.Release.3.1.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) |
-| Building Skills in Python | Steven F. Lott | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Building.Skills.in.Python.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) |
+| Building Skills in Object-Oriented Design, Release 2.2.1 | Steven F. Lott | [PDF](books/languages/Python/Building.Skills.in.Object-Oriented.Design.Release.2.2.1.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) |
+| Building Skills in Object-Oriented Design, Release 3.1 | Steven F. Lott |  | [link](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) |
+| Building Skills in Python | Steven F. Lott | [PDF](books/languages/Python/Building.Skills.in.Python.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) |
 | Clean Architectures in Python - A practical approach to better software design (2022) | Leonardo Giordani |  | [link](https://www.thedigitalcatbooks.com/pycabook-introduction/) |
 | Code Like a Pythonista: Idiomatic Python | David Goodger |  | [link](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) |
 | Composing Programs |  |  | [link](http://composingprograms.com) |
@@ -1939,7 +1939,7 @@
 | Essential Python | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/python/) |
 | Full Stack Python | Matt Makai |  | [link](https://www.fullstackpython.com) |
 | Functional Programming in Python | David Mertz |  | [link](https://www.oreilly.com/ideas/functional-programming-in-python) |
-| Fundamentals of  Python Programming | Richard L. Halterman | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Fundamentals.of.Python.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) |
+| Fundamentals of  Python Programming | Richard L. Halterman | [PDF](books/languages/Python/Fundamentals.of.Python.Programming.-.Richard.L..Halterman.pdf) | [link](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) |
 | Geographic Data Science with Python | Sergio Rey, Dani Arribas-Bel, Levi John Wolf |  | [link](https://geographicdata.science/book/intro.html) |
 | Google's Python Class |  |  | [link](https://developers.google.com/edu/python/) |
 | Google's Python Style Guide |  |  | [link](https://google.github.io/styleguide/pyguide.html) |
@@ -1947,7 +1947,7 @@
 | Hands-On Natural Language Processing with Python | Rajesh Arumugam, Rajalingappaa Shanmugamani |  | [link](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) |
 | Hands-on Python 3 Tutorial | Andrew N. Harrington |  | [link](https://anh.cs.luc.edu/handsonPythonTutorial) |
 | Hitchhiker's Guide to Python! |  |  | [link](http://docs.python-guide.org/en/latest/) |
-| How to Code in Python 3 | Lisa Tagliaferri | [download](https://github.com/Squidly1408/programming-books/releases/download/python/How.to.Code.in.Python.3.-.Lisa.Tagliaferri.pdf) | [link](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) |
+| How to Code in Python 3 | Lisa Tagliaferri | [PDF](books/languages/Python/How.to.Code.in.Python.3.-.Lisa.Tagliaferri.pdf) | [link](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) |
 | How to Think Like a Computer Scientist: Learning with Python, Interactive Edition | Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris Meyers, Dario Mitchell |  | [link](https://runestone.academy/runestone/books/published/thinkcspy/index.html) |
 | How to Think Like a Computer Scientist: Learning with Python 1st Edition | Allen B. Downey, Jeff Elkner, Chris Meyers |  | [link](https://greenteapress.com/wp/learning-with-python/) |
 | How to Think Like a Computer Scientist: Learning with Python 2nd Edition | Jeffrey Elkner, Allen B. Downey, Chris Meyers |  | [link](https://openbookproject.net/thinkcs/python/english2e/) |
@@ -1959,7 +1959,7 @@
 | Introduction to Programming Using Python | Cody Jackson |  | [link](http://python-ebook.blogspot.co.uk) |
 | Introduction to Python | Kracekumar |  | [link](http://kracekumar.com/post/71171551647/introduction-to-python) |
 | Introduction to Python | OpenStax |  | [link](https://openstax.org/details/books/introduction-python-programming) |
-| Introduction to Python for Econometrics, Statistics and Numerical Analysis | Kevin Sheppard | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Introduction.to.Python.for.Econometrics.Statistics.and.Numerical.Analysis.-.Kevin.Sheppard.pdf) | [link](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) |
+| Introduction to Python for Econometrics, Statistics and Numerical Analysis | Kevin Sheppard | [PDF](books/languages/Python/Introduction.to.Python.for.Econometrics.Statistics.and.Numerical.Analysis.-.Kevin.Sheppard.pdf) | [link](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) |
 | Introduction to Scientific Programming with Python | Joakim Sundnes |  | [link](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) |
 | Invent Your Own Computer Games With Python | Al Sweigart |  | [link](https://inventwithpython.com/invent4thed/) |
 | Learn Programming Logic with Games - Python & Pygame | Wilson Kawano |  | [link](https://github.com/kwdeveloper/learn-programming-logic-with-pygame) |
@@ -1970,45 +1970,45 @@
 | Learn Python the Right Way |  |  | [link](https://learnpythontherightway.com) |
 | Learn Python Visually | Ivelin Demirov |  | [link](https://archive.org/details/learn-python-visually_compress/mode/2up) |
 | Learn Python With Jupyter | Serena Bonaretti |  | [link](https://www.learnpythonwithjupyter.com) |
-| Learn to Program Using Python | Cody Jackson | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Learn.to.Program.Using.Python.-.Cody.Jackson.pdf) | [link](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) |
+| Learn to Program Using Python | Cody Jackson | [PDF](books/languages/Python/Learn.to.Program.Using.Python.-.Cody.Jackson.pdf) | [link](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) |
 | Learning to Program |  |  | [link](http://www.alan-g.me.uk) |
 | Lectures on scientific computing with python | J.R. Johansson |  | [link](https://github.com/jrjohansson/scientific-python-lectures) |
 | Making Games with Python & Pygame | Al Sweigart |  | [link](https://inventwithpython.com/pygame/chapters/) |
 | Math for programmers (using python) |  |  | [link](https://akuli.github.io/math-tutorial/) |
 | Modeling and Simulation in Python | Allen B. Downey |  | [link](https://greenteapress.com/wp/modsimpy/) |
-| Modeling Creativity: Case Studies in Python | Tom D. De Smedt | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Modeling.Creativity.Case.Studies.in.Python.-.Tom.D..De.Smedt.pdf) | [link](https://arxiv.org/pdf/1410.0281.pdf) |
+| Modeling Creativity: Case Studies in Python | Tom D. De Smedt | [PDF](books/languages/Python/Modeling.Creativity.Case.Studies.in.Python.-.Tom.D..De.Smedt.pdf) | [link](https://arxiv.org/pdf/1410.0281.pdf) |
 | Natural Language Processing (NLP) with Python — Tutorial |  |  | [link](https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0) |
 | Natural Language Processing with Python |  |  | [link](http://www.nltk.org/book/) |
 | Non-Programmer's Tutorial for Python 3 | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) |
 | Non-Programmer's Tutorial for Python 2.6 | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) |
 | Picking a Python Version: A Manifesto | David Mertz |  | [link](https://www.oreilly.com/ideas/picking-a-python-version) |
 | Porting to Python 3: An In-Depth Guide |  |  | [link](http://python3porting.com) |
-| Practical Programming in Python | Jeffrey Elkner | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Practical.Programming.in.Python.-.Jeffrey.Elkner.pdf) | [link](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) |
+| Practical Programming in Python | Jeffrey Elkner | [PDF](books/languages/Python/Practical.Programming.in.Python.-.Jeffrey.Elkner.pdf) | [link](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) |
 | Practical Python Programming | David Beazley |  | [link](https://dabeaz-course.github.io/practical-python/) |
 | Practice Python Projects | Sundeep Agarwal |  | [link](https://learnbyexample.github.io/practice_python_projects/) |
 | Pro Python Advanced coding techniques and tools | Marty Alchin |  | [link](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) |
 | Problem Solving with Algorithms and Data Structures using Python | Bradley N. Miller, David L. Ranum |  | [link](https://runestone.academy/runestone/books/published/pythonds3/index.html) |
 | Program Arcade Games With Python And Pygame |  |  | [link](http://programarcadegames.com) |
 | Programming Basics with Python | Svetlin Nakov & Team |  | [link](https://python-book.softuni.org) |
-| Programming Computer Vision with Python |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Programming.Computer.Vision.with.Python.pdf) | [link](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) |
-| Programming for Non-Programmers, Release 2.6.2 | Steven F. Lott | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Programming.for.Non-Programmers.Release.2.6.2.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) |
-| Programming with Python | Thomas Weise | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Programming.with.Python.-.Thomas.Weise.pdf) | [link](https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf) |
+| Programming Computer Vision with Python |  | [PDF](books/languages/Python/Programming.Computer.Vision.with.Python.pdf) | [link](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) |
+| Programming for Non-Programmers, Release 2.6.2 | Steven F. Lott | [PDF](books/languages/Python/Programming.for.Non-Programmers.Release.2.6.2.-.Steven.F..Lott.pdf) | [link](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) |
+| Programming with Python | Thomas Weise | [PDF](books/languages/Python/Programming.with.Python.-.Thomas.Weise.pdf) | [link](https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf) |
 | PySDR: A Guide to SDR and DSP using Python | Marc Lichtman |  | [link](https://pysdr.org) |
 | Python 101 | Michael Driscoll |  | [link](https://python101.pythonlibrary.org) |
 | Python 2 Official Documentation |  |  | [link](https://docs.python.org/2/download.html) |
-| Python 2.7 quick reference | John W. Shipman | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Python.2.7.quick.reference.-.John.W..Shipman.pdf) | [link](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) |
+| Python 2.7 quick reference | John W. Shipman | [PDF](books/languages/Python/Python.2.7.quick.reference.-.John.W..Shipman.pdf) | [link](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) |
 | Python 3 Official Documentation |  |  | [link](https://docs.python.org/3/download.html) |
 | Python 3 Patterns, Recipes, and Idioms | Bruce Eckel & Friends |  | [link](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/) |
 | Python 3 Tutorial |  |  | [link](https://github.com/Akuli/python-tutorial) |
 | Python Data Science Handbook | Jake VanderPlas |  | [link](https://jakevdp.github.io/PythonDataScienceHandbook) |
-| Python for Astronomers | Imad Pasha, Christopher Agostino | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Python.for.Astronomers.-.Imad.Pasha.Christopher.Agostino.pdf) | [link](https://prappleizer.github.io/textbook.pdf) |
+| Python for Astronomers | Imad Pasha, Christopher Agostino | [PDF](books/languages/Python/Python.for.Astronomers.-.Imad.Pasha.Christopher.Agostino.pdf) | [link](https://prappleizer.github.io/textbook.pdf) |
 | Python for Data Analysis | Wes McKinney |  | [link](https://wesmckinney.com/book/) |
 | Python for Everybody | Charles Russell Severance |  | [link](http://py4e.com/book) |
 | Python for Informatics: Exploring Information | Charles Russell Severance |  | [link](http://www.pythonlearn.com/book.php) |
 | Python for network engineers | Natasha Samoylenko |  | [link](https://pyneng.readthedocs.io/en/latest/) |
 | Python for you and me |  |  | [link](http://pymbook.readthedocs.org/en/latest/) |
 | Python for you and me |  |  | [link](http://pymbook.readthedocs.org/en/py3/) |
-| Python Idioms |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Python.Idioms.pdf) | [link](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) |
+| Python Idioms |  | [PDF](books/languages/Python/Python.Idioms.pdf) | [link](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) |
 | Python in Education | Nicholas Tollervey |  | [link](https://www.oreilly.com/ideas/python-in-education) |
 | Python in Hydrology | Sat Kumar Tomer |  | [link](http://www.greenteapress.com/pythonhydro/pythonhydro.html) |
 | Python Koans |  |  | [link](https://github.com/gregmalcolm/python_koans) |
@@ -2018,9 +2018,9 @@
 | Python Notes for Professionals | Compiled from StackOverflow documentation |  | [link](http://goalkicker.com/PythonBook/) |
 | Python Practice Book |  |  | [link](http://anandology.com/python-practice-book/index.html) |
 | Python Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Python_Programming) |
-| Python Programming | Wikibooks | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Python.Programming.-.Wikibooks.pdf) | [link](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) |
+| Python Programming | Wikibooks | [PDF](books/languages/Python/Python.Programming.-.Wikibooks.pdf) | [link](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) |
 | Python Programming And Numerical Methods: A Guide For Engineers And Scientists | Qingkai Kong, Timmy Siauw, Alexandre Bayen |  | [link](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) |
-| Python Programming Exercises, Gently Explained | Al Sweigart | [download](https://github.com/Squidly1408/programming-books/releases/download/python/Python.Programming.Exercises.Gently.Explained.-.Al.Sweigart.pdf) | [link](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) |
+| Python Programming Exercises, Gently Explained | Al Sweigart | [PDF](books/languages/Python/Python.Programming.Exercises.Gently.Explained.-.Al.Sweigart.pdf) | [link](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) |
 | Python Tutorial | Tutorials Point |  | [link](https://www.tutorialspoint.com/python/) |
 | Research Software Engineering with Python | Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson |  | [link](https://merely-useful.tech/py-rse/) |
 | Scientific Visualization: Python + Matplotlib | Nicolas P. Rougier |  | [link](https://github.com/rougier/scientific-visualization-book) |
@@ -2059,16 +2059,16 @@
 | AutoComplete-Light |  |  | [link](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) |
 | Django Filters |  |  | [link](https://django-filter.readthedocs.io/en/stable/) |
 | Django Girls Tutorial |  |  | [link](https://tutorial.djangogirls.org/en/) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.9.pdf) | [link](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.6.pdf) | [link](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.4.pdf) | [link](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.7.pdf) | [link](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.5.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.3.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.8.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) |
-| Django Official Documentation |  | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Official.Documentation.2.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf) |
-| Django Rest Framework | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/python-django/Django.Rest.Framework.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/django-rest-framework.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.9.pdf) | [link](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.6.pdf) | [link](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.4.pdf) | [link](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.7.pdf) | [link](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.5.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.3.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.8.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) |
+| Django Official Documentation |  | [PDF](books/languages/Python/Django/Django.Official.Documentation.2.pdf) | [link](https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf) |
+| Django Rest Framework | Compiled from StackOverflow Documentation | [PDF](books/languages/Python/Django/Django.Rest.Framework.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/django-rest-framework.pdf) |
 | Django RESTful Web Services | Gaston C. Hillar |  | [link](https://www.packtpub.com/free-ebooks/django-restful-web-services) |
 | Django Storages |  |  | [link](https://django-storages.readthedocs.io/en/latest/) |
 | Django Tinymce |  |  | [link](https://django-tinymce.readthedocs.io/en/latest/) |
@@ -2108,7 +2108,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | From Python to NumPy | Nicolas P. Rougier |  | [link](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) |
-| Guide to NumPY 2010 | Travis E. Oliphant | [download](https://github.com/Squidly1408/programming-books/releases/download/python-numpy/Guide.to.NumPY.2010.-.Travis.E..Oliphant.pdf) | [link](https://web.mit.edu/dvp/Public/numpybook.pdf) |
+| Guide to NumPY 2010 | Travis E. Oliphant | [PDF](books/languages/Python/NumPY/Guide.to.NumPY.2010.-.Travis.E..Oliphant.pdf) | [link](https://web.mit.edu/dvp/Public/numpybook.pdf) |
 | NumPy user guide | NumPY developers |  | [link](https://numpy.org/doc/stable/user) |
 
 ### Python / Pandas
@@ -2158,7 +2158,7 @@
 | Advanced R Programming | Hadley Wickham |  | [link](http://adv-r.had.co.nz) |
 | An Introduction to ggplot2 | Ozancan Ozdemir |  | [link](https://bookdown.org/ozancanozdemir/introduction-to-ggplot2) |
 | An Introduction to R | David M. Smith, William N. Venables |  | [link](https://cran.r-project.org/doc/manuals/R-intro.html) |
-| An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [download](https://github.com/Squidly1408/programming-books/releases/download/r/An.Introduction.to.Statistical.Learning.with.Applications.in.R.-.Gareth.James.Daniela.Witten.Trevor.Hastie.Robert.Tibshi.pdf) | [link](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) |
+| An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [PDF](books/languages/R/An.Introduction.to.Statistical.Learning.with.Applications.in.R.-.Gareth.James.Daniela.Witten.Trevor.Hastie.Robert.Tibshi.pdf) | [link](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) |
 | Behavior Analysis with Machine Learning Using R | Enrique Garcia Ceja |  | [link](https://enriquegit.github.io/behavior-free/) |
 | Beyond Multiple Linear Regression | Paul Roback, Julie Legler |  | [link](https://bookdown.org/roback/bookdown-BeyondMLR) |
 | blogdown: Creating Websites with R Markdown | Yihui Xie, Amber Thomas, Alison Presmanes Hill |  | [link](https://bookdown.org/yihui/blogdown/) |
@@ -2180,13 +2180,13 @@
 | Modern R with the tidyverse | Bruno Rodrigues |  | [link](https://b-rodrigues.github.io/modern_R) |
 | Modern Statistics with R | Måns Thulin |  | [link](https://www.modernstatisticswithr.com) |
 | ModernDive | Chester Ismay, Albert Y. Kim |  | [link](https://ismayc.github.io/moderndiver-book/) |
-| Practical Regression and Anova using R | Julian J. Faraway | [download](https://github.com/Squidly1408/programming-books/releases/download/r/Practical.Regression.and.Anova.using.R.-.Julian.J..Faraway.pdf) | [link](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) |
+| Practical Regression and Anova using R | Julian J. Faraway | [PDF](books/languages/R/Practical.Regression.and.Anova.using.R.-.Julian.J..Faraway.pdf) | [link](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) |
 | R for Data Science | Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund |  | [link](https://r4ds.hadley.nz) |
-| R for Spatial Analysis |  | [download](https://github.com/Squidly1408/programming-books/releases/download/r/R.for.Spatial.Analysis.pdf) | [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) |
+| R for Spatial Analysis |  | [PDF](books/languages/R/R.for.Spatial.Analysis.pdf) | [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) |
 | R Language for Programmers | John D. Cook |  | [link](http://www.johndcook.com/blog/r_language_for_programmers) |
 | R Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/RBook/) |
 | R Packages | Hadley Wickham, Jenny Bryan |  | [link](https://r-pkgs.org) |
-| R Practicals |  | [download](https://github.com/Squidly1408/programming-books/releases/download/r/R.Practicals.pdf) | [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) |
+| R Practicals |  | [PDF](books/languages/R/R.Practicals.pdf) | [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) |
 | R Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/R_Programming) |
 | R Programming for Data Science | Roger D. Peng |  | [link](https://bookdown.org/rdpeng/rprogdatascience/) |
 | R Succinctly, Syncfusion |  |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) |
@@ -2194,7 +2194,7 @@
 | Summary and Analysis of Extension Program Evaluation in R | Salvatore S. Mangiafico |  | [link](https://rcompanion.org/handbook/index.html) |
 | Supervised Machine Learning for Text Analysis in R | Emil Hvitfeldt, Julia Silge |  | [link](https://smltar.com) |
 | The caret Package | Max Kuhn |  | [link](http://topepo.github.io/caret/index.html) |
-| The R Inferno | Patrick Burns | [download](https://github.com/Squidly1408/programming-books/releases/download/r/The.R.Inferno.-.Patrick.Burns.pdf) | [link](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) |
+| The R Inferno | Patrick Burns | [PDF](books/languages/R/The.R.Inferno.-.Patrick.Burns.pdf) | [link](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) |
 | The R Language |  |  | [link](http://stat.ethz.ch/R-manual/R-patched/doc/html) |
 | The R Manuals |  |  | [link](http://cran.r-project.org/manuals.html) |
 | Tidy Modelling with R | Max Kuhn and Julia Silge |  | [link](https://www.tmwr.org) |
@@ -2213,12 +2213,12 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Metagenomics | Ken Youens-Clark |  | [link](https://kyclark.gitbooks.io/metagenomics) |
-| Perl 6 at a Glance | Andrew Shitov | [download](https://github.com/Squidly1408/programming-books/releases/download/raku/Perl.6.at.a.Glance.-.Andrew.Shitov.pdf) | [link](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) |
+| Perl 6 at a Glance | Andrew Shitov | [PDF](books/languages/Raku/Perl.6.at.a.Glance.-.Andrew.Shitov.pdf) | [link](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) |
 | Raku Documentation | Raku Documentation |  | [link](https://docs.raku.org) |
 | Raku Guide |  |  | [link](https://raku.guide) |
-| Raku One-Liners | Andrew Shitov | [download](https://github.com/Squidly1408/programming-books/releases/download/raku/Raku.One-Liners.-.Andrew.Shitov.pdf) | [link](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) |
+| Raku One-Liners | Andrew Shitov | [PDF](books/languages/Raku/Raku.One-Liners.-.Andrew.Shitov.pdf) | [link](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) |
 | Raku Programming | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Raku_Programming) |
-| Think Raku | Laurent Rosenfeld, Allen B. Downey | [download](https://github.com/Squidly1408/programming-books/releases/download/raku/Think.Raku.-.Laurent.Rosenfeld.Allen.B..Downey.pdf) | [link](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) |
+| Think Raku | Laurent Rosenfeld, Allen B. Downey | [PDF](books/languages/Raku/Think.Raku.-.Laurent.Rosenfeld.Allen.B..Downey.pdf) | [link](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) |
 | Using Perl 6 |  |  | [link](https://github.com/perl6/book/) |
 | X=Raku | Learn X in Y minutes |  | [link](https://learnxinyminutes.com/docs/raku/) |
 
@@ -2228,7 +2228,7 @@
 |---|---|---|---|
 | Raspberry Pi Beginner's Guide 4th Edition | The MagPi magazine |  | [link](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) |
 | Raspberry Pi: Measure, Record, Explore | Malcolm Maclean |  | [link](https://leanpub.com/RPiMRE/read) |
-| Raspberry Pi Users Guide (2012) | Eben Upton | [download](https://github.com/Squidly1408/programming-books/releases/download/raspberry-pi/Raspberry.Pi.Users.Guide.2012.-.Eben.Upton.pdf) | [link](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) |
+| Raspberry Pi Users Guide (2012) | Eben Upton | [PDF](books/languages/Raspberry%20Pi/Raspberry.Pi.Users.Guide.2012.-.Eben.Upton.pdf) | [link](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) |
 | The Official Raspberry Pi Handbook 2023 | The MagPi magazine |  | [link](https://magpi.raspberrypi.com/books/handbook-2023) |
 | The Official Raspberry Pi Project Book 1 (2015) |  |  | [link](https://magpi.raspberrypi.com/books/projects-1) |
 | The Official Raspberry Pi Project Book 2 (2016) |  |  | [link](https://magpi.raspberrypi.com/books/projects-2) |
@@ -2326,12 +2326,12 @@
 | Asynchronous Programming in Rust |  |  | [link](https://rust-lang.github.io/async-book) |
 | Easy Rust | David McLeod |  | [link](https://dhghomon.github.io/easy_rust/) |
 | Effective Rust | David Drysdale |  | [link](https://www.lurklurk.org/effective-rust) |
-| From JavaScript to Rust ebook | Jarrod Overson | [download](https://github.com/Squidly1408/programming-books/releases/download/rust/From.JavaScript.to.Rust.ebook.-.Jarrod.Overson.pdf) | [link](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) |
+| From JavaScript to Rust ebook | Jarrod Overson | [PDF](books/languages/Rust/From.JavaScript.to.Rust.ebook.-.Jarrod.Overson.pdf) | [link](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) |
 | Guide to Rustc Development |  |  | [link](https://rustc-dev-guide.rust-lang.org) |
 | High Assurance Rust | Tiemoko Ballo |  | [link](https://highassurance.rs) |
 | Learn Rust in Y minutes |  |  | [link](https://learnxinyminutes.com/docs/rust/) |
 | Learn Rust With Entirely Too Many Linked Lists | Alexis Beingessner |  | [link](https://rust-unofficial.github.io/too-many-lists) |
-| Learning Rust Ebook | StackOverflow Contributors | [download](https://github.com/Squidly1408/programming-books/releases/download/rust/Learning.Rust.Ebook.-.StackOverflow.Contributors.pdf) | [link](https://riptutorial.com/Download/rust.pdf) |
+| Learning Rust Ebook | StackOverflow Contributors | [PDF](books/languages/Rust/Learning.Rust.Ebook.-.StackOverflow.Contributors.pdf) | [link](https://riptutorial.com/Download/rust.pdf) |
 | Rust Atomics and Locks | Mara Bos |  | [link](https://marabos.nl/atomics) |
 | Rust by Example |  |  | [link](https://doc.rust-lang.org/stable/rust-by-example) |
 | Rust Cookbook |  |  | [link](https://rust-lang-nursery.github.io/rust-cookbook) |
@@ -2353,7 +2353,7 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Sage | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Sage) |
-| Sage for Power Users | William Stein | [download](https://github.com/Squidly1408/programming-books/releases/download/sage/Sage.for.Power.Users.-.William.Stein.pdf) | [link](http://wstein.org/books/sagebook/sagebook.pdf) |
+| Sage for Power Users | William Stein | [PDF](books/languages/Sage/Sage.for.Power.Users.-.William.Stein.pdf) | [link](http://wstein.org/books/sagebook/sagebook.pdf) |
 | Sage Tutorial | William Stein |  | [link](https://doc.sagemath.org/html/en/tutorial/) |
 | The Sage Manuals |  |  | [link](http://www.sagemath.org/doc/) |
 
@@ -2378,9 +2378,9 @@
 | Pure functional HTTP APIs in Scala | Jens Grassel |  | [link](https://leanpub.com/pfhais/read) |
 | PythonToScala | Rob Story |  | [link](https://wrobstory.gitbooks.io/python-to-scala/content/) |
 | S-99: Ninety-Nine Scala Problems | Phil! Gold |  | [link](http://aperiodic.net/phil/scala/s-99/) |
-| Scala & Design Patterns: Exploring Language Expressivity | Fredrik Skeel Løkke | [download](https://github.com/Squidly1408/programming-books/releases/download/scala/Scala.Design.Patterns.Exploring.Language.Expressivity.-.Fredrik.Skeel.L.kke.pdf) | [link](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) |
+| Scala & Design Patterns: Exploring Language Expressivity | Fredrik Skeel Løkke | [PDF](books/languages/Scala/Scala.Design.Patterns.Exploring.Language.Expressivity.-.Fredrik.Skeel.L.kke.pdf) | [link](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) |
 | Scala Book | Alvin Alexander |  | [link](https://alvinalexander.com/scala/scala-book-free/) |
-| Scala By Example | M. Odersky | [download](https://github.com/Squidly1408/programming-books/releases/download/scala/Scala.By.Example.-.M..Odersky.pdf) | [link](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) |
+| Scala By Example | M. Odersky | [PDF](books/languages/Scala/Scala.By.Example.-.M..Odersky.pdf) | [link](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) |
 | Scala Cookbook: Bonus Chapters | Alvin Alexander |  | [link](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) |
 | Scala for Perl 5 Programmers | Breno G. de Oliveira |  | [link](https://github.com/garu/scala-for-perl5-programmers) |
 | Scala School by Twitter |  |  | [link](http://twitter.github.io/scala_school/) |
@@ -2398,7 +2398,7 @@
 | Exploring Lift |  |  | [link](http://exploring.liftweb.net) |
 | Lift |  |  | [link](https://github.com/tjweir/liftbook) |
 | Lift Cookbook | Richard Dallaway |  | [link](https://www.oreilly.com/library/view/lift-cookbook/9781449365042/) |
-| Simply Lift | David Pollak | [download](https://github.com/Squidly1408/programming-books/releases/download/scala-lift/Simply.Lift.-.David.Pollak.pdf) | [link](http://simply.liftweb.net/Simply_Lift.pdf) |
+| Simply Lift | David Pollak | [PDF](books/languages/Scala/Lift/Simply.Lift.-.David.Pollak.pdf) | [link](http://simply.liftweb.net/Simply_Lift.pdf) |
 
 ### Scala / Play Scala
 
@@ -2497,12 +2497,12 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Developing Time-Oriented Database Applications in SQL | Richard T. Snodgrass | [download](https://github.com/Squidly1408/programming-books/releases/download/sql-implementation-agnostic/Developing.Time-Oriented.Database.Applications.in.SQL.-.Richard.T..Snodgrass.pdf) | [link](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) |
+| Developing Time-Oriented Database Applications in SQL | Richard T. Snodgrass | [PDF](books/languages/SQL%20%28implementation%20agnostic%29/Developing.Time-Oriented.Database.Applications.in.SQL.-.Richard.T..Snodgrass.pdf) | [link](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) |
 | Essential SQL | Krzysztof Kowalczyk, Stack Overflow Documentation project |  | [link](https://www.programming-books.io/essential/sql/index.html) |
 | How to Design Structured Database Systems Using SQL | Daniel García Solla, freeCodeCamp |  | [link](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/) |
 | Introduction to SQL | Bobby Iliev |  | [link](https://github.com/bobbyiliev/introduction-to-sql) |
-| Learning SQL | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/sql-implementation-agnostic/Learning.SQL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/sql.pdf) |
-| Oracle Database Notes for Professionals |  | [download](https://github.com/Squidly1408/programming-books/releases/download/sql-implementation-agnostic/Oracle.Database.Notes.for.Professionals.pdf) | [link](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) |
+| Learning SQL | Compiled from StackOverflow Documentation | [PDF](books/languages/SQL%20%28implementation%20agnostic%29/Learning.SQL.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/sql.pdf) |
+| Oracle Database Notes for Professionals |  | [PDF](books/languages/SQL%20%28implementation%20agnostic%29/Oracle.Database.Notes.for.Professionals.pdf) | [link](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) |
 | Oracle8i Concepts: Chapter 15 - SQL and PL/SQL | Lefty Leverenz, Diana Rehfield, Cathy Baird |  | [link](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) |
 | SQL For Web Nerds | Philip Greenspun |  | [link](http://philip.greenspun.com/sql/) |
 | SQL Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](http://goalkicker.com/SQLBook/) |
@@ -2525,7 +2525,7 @@
 | Introducing Microsoft SQL Server 2008 R2 |  |  | [link](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2008R2) |
 | Introducing Microsoft SQL Server 2012 |  |  | [link](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012) |
 | Introducing Microsoft SQL Server 2014 |  |  | [link](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx) |
-| Learning Microsoft SQL Server | Compiled from StackOverflow Documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/sql-server/Learning.Microsoft.SQL.Server.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/microsoft-sql-server.pdf) |
+| Learning Microsoft SQL Server | Compiled from StackOverflow Documentation | [PDF](books/languages/SQL%20Server/Learning.Microsoft.SQL.Server.-.Compiled.from.StackOverflow.Documentation.pdf) | [link](https://riptutorial.com/Download/microsoft-sql-server.pdf) |
 | Mastering SQL Server Profiler | Brad McGehee |  | [link](http://www.red-gate.com/community/books/mastering-sql-server-profiler) |
 | Microsoft SQL Server Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](http://goalkicker.com/MicrosoftSQLServerBook/) |
 | Performance Tuning with SQL Server Dynamic Management Views | Tim Ford, Louis Davidson |  | [link](http://www.red-gate.com/community/books/dynamic-management-views) |
@@ -2533,7 +2533,7 @@
 | SQL Server 2012 Tutorials: Reporting Services |  |  | [link](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices) |
 | SQL Server 2017 Administrator's Guide | Marek Chmel, Vladimír Mužný |  | [link](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) |
 | SQL Server Backup and Restore | Shawn McGehee |  | [link](http://www.red-gate.com/community/books/sql-server-backup-and-restore) |
-| SQL Server Execution Plans, Third Edition | Grant Fritchey | [download](https://github.com/Squidly1408/programming-books/releases/download/sql-server/SQL.Server.Execution.Plans.Third.Edition.-.Grant.Fritchey.pdf) | [link](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) |
+| SQL Server Execution Plans, Third Edition | Grant Fritchey | [PDF](books/languages/SQL%20Server/SQL.Server.Execution.Plans.Third.Edition.-.Grant.Fritchey.pdf) | [link](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) |
 | SQL Server for C# Developers Succinctly | Sander Rossel |  | [link](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) |
 | SQL Server Hardware | Glenn Berry |  | [link](http://www.red-gate.com/community/books/sql-server-hardware) |
 | SQL Server Internals: In-Memory OLTP | Kalen Delaney |  | [link](http://www.red-gate.com/library/sql-server-internals-in-memory-oltp) |
@@ -2556,11 +2556,11 @@
 | Introduction to Standard ML | Atsushi Ohori |  | [link](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf) |
 | ML for the Working Programmer, 2nd Edition | Lawrence C. Paulson |  | [link](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) |
 | Programming in Standard ML '97 | Stephen Gilmore, University of Edinburgh |  | [link](https://web.archive.org/web/20251227140803/https://homepages.inf.ed.ac.uk/stg/NOTES/) |
-| Programming in Standard ML, DRAFT | Robert Harper | [download](https://github.com/Squidly1408/programming-books/releases/download/standard-ml/Programming.in.Standard.ML.DRAFT.-.Robert.Harper.pdf) | [link](http://www.cs.cmu.edu/~rwh/isml/book.pdf) |
-| SML# Document | Atsushi Ohori, Katsuhiro Ueno | [download](https://github.com/Squidly1408/programming-books/releases/download/standard-ml/SML.Document.-.Atsushi.Ohori.Katsuhiro.Ueno.pdf) | [link](https://smlsharp.github.io/en/documents/4.0.0/manual.pdf) |
-| The Definition of Standard ML (Revised) | SMLFamily GitHub project | [download](https://github.com/Squidly1408/programming-books/releases/download/standard-ml/The.Definition.of.Standard.ML.Revised.-.SMLFamily.GitHub.project.pdf) | [link](http://sml-family.org/sml97-defn.pdf) |
+| Programming in Standard ML, DRAFT | Robert Harper | [PDF](books/languages/Standard%20ML/Programming.in.Standard.ML.DRAFT.-.Robert.Harper.pdf) | [link](http://www.cs.cmu.edu/~rwh/isml/book.pdf) |
+| SML# Document | Atsushi Ohori, Katsuhiro Ueno | [PDF](books/languages/Standard%20ML/SML.Document.-.Atsushi.Ohori.Katsuhiro.Ueno.pdf) | [link](https://smlsharp.github.io/en/documents/4.0.0/manual.pdf) |
+| The Definition of Standard ML (Revised) | SMLFamily GitHub project | [PDF](books/languages/Standard%20ML/The.Definition.of.Standard.ML.Revised.-.SMLFamily.GitHub.project.pdf) | [link](http://sml-family.org/sml97-defn.pdf) |
 | The Standard ML Basis Library | Emden R. Gansner, John H. Reppy |  | [link](https://smlfamily.github.io/Basis/index.html) |
-| Unix System Programming with Standard ML | Anthony L. Shipman | [download](https://github.com/Squidly1408/programming-books/releases/download/standard-ml/Unix.System.Programming.with.Standard.ML.-.Anthony.L..Shipman.pdf) | [link](http://mlton.org/References.attachments/Shipman02.pdf) |
+| Unix System Programming with Standard ML | Anthony L. Shipman | [PDF](books/languages/Standard%20ML/Unix.System.Programming.with.Standard.ML.-.Anthony.L..Shipman.pdf) | [link](http://mlton.org/References.attachments/Shipman02.pdf) |
 
 ### Swift
 
@@ -2656,8 +2656,8 @@
 | Commentary on the Sixth Edition UNIX Operating System | J. Lions |  | [link](http://www.lemis.com/grog/Documentation/Lions/) |
 | INTRODUCTION TO UNIX | Mark A. Thomas |  | [link](https://homepages.uc.edu/~thomam/Intro_Unix_Text/TOC.html) |
 | Unix as IDE | Tom Ryder |  | [link](https://github.com/mrzool/unix-as-ide) |
-| UNIX Commands and Concepts | (PDF) | [download](https://github.com/Squidly1408/programming-books/releases/download/unix/UNIX.Commands.and.Concepts.-.PDF.pdf) | [link](https://www.uwyo.edu/data-science/_files/docs/unix.pdf) |
-| Unix for Poets | Kenneth Ward Church | [download](https://github.com/Squidly1408/programming-books/releases/download/unix/Unix.for.Poets.-.Kenneth.Ward.Church.pdf) | [link](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) |
+| UNIX Commands and Concepts | (PDF) | [PDF](books/languages/Unix/UNIX.Commands.and.Concepts.-.PDF.pdf) | [link](https://www.uwyo.edu/data-science/_files/docs/unix.pdf) |
+| Unix for Poets | Kenneth Ward Church | [PDF](books/languages/Unix/Unix.for.Poets.-.Kenneth.Ward.Church.pdf) | [link](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) |
 | Unix Programming Tools | Parlante, Zelenski |  | [link](https://web.archive.org/web/20260510194803/http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf) |
 | Unix Toolbox | Colin Barschel |  | [link](https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml) |
 | UNIX Tutorial for Beginners |  |  | [link](http://www.ee.surrey.ac.uk/Teaching/Unix/) |
@@ -2674,7 +2674,7 @@
 |---|---|---|---|
 | SystemVerilog | Keyi Zhang |  | [link](https://systemverilog.dev) |
 | Verilog, Formal Verification and Verilator Beginner's Tutorial | Daniel E. Gisselquist |  | [link](https://zipcpu.com/tutorial/) |
-| Verilog Quick Reference Guide - Sutherland HDL |  | [download](https://github.com/Squidly1408/programming-books/releases/download/verilog/Verilog.Quick.Reference.Guide.-.Sutherland.HDL.pdf) | [link](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) |
+| Verilog Quick Reference Guide - Sutherland HDL |  | [PDF](books/languages/Verilog/Verilog.Quick.Reference.Guide.-.Sutherland.HDL.pdf) | [link](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) |
 | Verilog Tutorial |  |  | [link](http://www.asic-world.com/verilog/veritut.html) |
 
 ### VHDL
@@ -2713,19 +2713,19 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Pro Web 2.0 Mashups: Remixing Data and Web Services (2008) | Raymond Yee |  | [link](https://mashupguide.net/1.0/html/) |
-| RESTful Web Services |  | [download](https://github.com/Squidly1408/programming-books/releases/download/web-services/RESTful.Web.Services.2.pdf) | [link](http://restfulwebapis.org/RESTful_Web_Services.pdf) |
+| RESTful Web Services |  | [PDF](books/languages/Web%20Services/RESTful.Web.Services.pdf) | [link](http://restfulwebapis.org/RESTful_Web_Services.pdf) |
 
 ### Windows 8
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition | Kraig Brockschmidt |  | [link](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) |
+| Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition | Kraig Brockschmidt | [PDF](books/languages/Windows%208/Programming.Windows.Store.Apps.with.HTML.CSS.and.JavaScript.Second.Edition.-.Kraig.Brockschmidt.pdf) | [link](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) |
 
 ### Windows Phone
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud | MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma |  | [link](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) |
+| Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud | MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma | [PDF](books/languages/Windows%20Phone/Developing.An.Advanced.Windows.Phone.7.5.App.That.Connects.To.The.Cloud.-.MSDN.Library.David.Britch.Francis.Cheung.Adam.pdf) | [link](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) |
 | Windows Phone 8 Development Succinctly | Matteo Pagani |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) |
 | Windows Phone Programming Blue Book |  |  | [link](http://www.robmiles.com/c-yellow-book/) |
 
@@ -2747,7 +2747,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| YAML Tutorial | TutorialsPoint | [download](https://github.com/Squidly1408/programming-books/releases/download/yaml/YAML.Tutorial.-.TutorialsPoint.pdf) | [link](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) |
+| YAML Tutorial | TutorialsPoint | [PDF](books/languages/YAML/YAML.Tutorial.-.TutorialsPoint.pdf) | [link](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) |
 
 ### Zig
 
@@ -2784,7 +2784,7 @@
 | Microsoft Press: Free E-Books |  |  | [link](https://mva.microsoft.com/ebooks) |
 | Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman |  |  | [link](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/) |
 | Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman |  |  | [link](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/) |
-| Microsoft Technologies 3, DevOps for ASP.NET Core Developers | Cam Soper, Scott Addie, Colin Dembovsky | [download](https://github.com/Squidly1408/programming-books/releases/download/0-meta-lists/Microsoft.Technologies.3.DevOps.for.ASP.NET.Core.Developers.-.Cam.Soper.Scott.Addie.Colin.Dembovsky.pdf) | [link](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) |
+| Microsoft Technologies 3, DevOps for ASP.NET Core Developers | Cam Soper, Scott Addie, Colin Dembovsky | [PDF](books/subjects/0%20-%20Meta-Lists/Microsoft.Technologies.3.DevOps.for.ASP.NET.Core.Developers.-.Cam.Soper.Scott.Addie.Colin.Dembovsky.pdf) | [link](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) |
 | O'Reilly's Open Books Project |  |  | [link](https://www.oreilly.com/openbook/) |
 | Papers we love |  |  | [link](https://github.com/papers-we-love/papers-we-love) |
 | Red Gate Books |  |  | [link](https://www.red-gate.com/hub/books/) |
@@ -2802,26 +2802,26 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Common-Sense Guide to Data Structures & Algorithms | Jay Wengrow |  | [link](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf) |
-| A Field Guide To Genetic Programming | Riccardo Poli, William B. Langdon, Nicholas F. McPhee | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/A.Field.Guide.To.Genetic.Programming.-.Riccardo.Poli.William.B..Langdon.Nicholas.F..McPhee.pdf) | [link](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) |
+| A Field Guide To Genetic Programming | Riccardo Poli, William B. Langdon, Nicholas F. McPhee |  | [link](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) |
 | Algorithm Design | Jon Kleinberg, Éva Tardos |  | [link](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) |
 | Algorithmic Graph Theory | David Joyner, Minh Van Nguyen, David Phillips |  | [link](https://code.google.com/p/graphbook/) |
 | Algorithmic Thinking | Donglai Fu |  | [link](https://labuladong.gitbook.io/algo-en) |
 | Algorithms | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Algorithms) |
-| Algorithms | Jeff Erickson | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Algorithms.-.Jeff.Erickson.pdf) | [link](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) |
+| Algorithms | Jeff Erickson | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Algorithms.-.Jeff.Erickson.pdf) | [link](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) |
 | Algorithms, 4th Edition | Robert Sedgewick, Kevin Wayne |  | [link](https://algs4.cs.princeton.edu/home/) |
 | Algorithms and Automatic Computing Machines (1963) | B. A. Trakhtenbrot |  | [link](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) |
-| Algorithms and Complexity | Herbert S. Wilf | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Algorithms.and.Complexity.-.Herbert.S..Wilf.pdf) | [link](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) |
-| Algorithms and Data Structures | Jürg Nievergelt, Klaus Hinrichs | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Algorithms.and.Data.Structures.-.J.rg.Nievergelt.Klaus.Hinrichs.pdf) | [link](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) |
+| Algorithms and Complexity | Herbert S. Wilf | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Algorithms.and.Complexity.-.Herbert.S..Wilf.pdf) | [link](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) |
+| Algorithms and Data Structures | Jürg Nievergelt, Klaus Hinrichs | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Algorithms.and.Data.Structures.-.J.rg.Nievergelt.Klaus.Hinrichs.pdf) | [link](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) |
 | Algorithms Course Materials | Jeff Erickson |  | [link](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
 | Algorithms for Decision Making | Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray |  | [link](https://algorithmsbook.com/decisionmaking/) |
 | Algorithms Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/AlgorithmsBook) |
 | An Open Guide to Data Structures and Algorithms | Paul W. Bible, Lucas Moser |  | [link](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) |
 | Annotated Algorithms in Python: Applications in Physics, Biology, and Finance | Massimo Di Pierro |  | [link](https://github.com/mdipierro/nlib) |
-| Binary Trees | Nick Parlante | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Binary.Trees.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190107/http://cslibrary.stanford.edu/110/BinaryTrees.pdf) |
-| Data Structures | Aditya CSE | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Data.Structures.-.Aditya.CSE.pdf) | [link](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) |
+| Binary Trees | Nick Parlante | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Binary.Trees.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190107/http://cslibrary.stanford.edu/110/BinaryTrees.pdf) |
+| Data Structures | Aditya CSE | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Data.Structures.-.Aditya.CSE.pdf) | [link](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) |
 | Data Structures | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Data_Structures) |
-| Data Structures and Algorithm Analysis in C++ | Clifford A. Shaffer | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Data.Structures.and.Algorithm.Analysis.in.C%2B%2B.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) |
-| Data Structures and Algorithm Analysis in Java | Clifford A. Shaffer | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Data.Structures.and.Algorithm.Analysis.in.Java.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf) |
+| Data Structures and Algorithm Analysis in C++ | Clifford A. Shaffer | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Data.Structures.and.Algorithm.Analysis.in.C%2B%2B.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) |
+| Data Structures and Algorithm Analysis in Java | Clifford A. Shaffer | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Data.Structures.and.Algorithm.Analysis.in.Java.-.Clifford.A..Shaffer.pdf) | [link](https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf) |
 | Data Structures and Algorithms | YiteAI |  | [link](https://tools.yiteai.com/en/books/dsa) |
 | Data Structures and Algorithms: Annotated Reference with Examples | G. Barnett, L. Del Tongo |  | [link](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) |
 | Data Structures Succinctly Part 1, Syncfusion | Robert Horvick |  | [link](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) |
@@ -2829,22 +2829,22 @@
 | Elementary Algorithms | Larry Liu Xinyu |  | [link](https://github.com/liuxinyu95/AlgoXY) |
 | Essential Algorithms | Krzysztof Kowalczyk and Stack Overflow Documentation project |  | [link](https://www.programming-books.io/essential/algorithms/) |
 | Foundations of Computer Science | Al Aho, Jeff Ullman |  | [link](http://infolab.stanford.edu/~ullman/focs.html) |
-| Learning Algorithm | Compiled from StackOverflow documentation | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Learning.Algorithm.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/algorithm.pdf) |
+| Learning Algorithm | Compiled from StackOverflow documentation | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Learning.Algorithm.-.Compiled.from.StackOverflow.documentation.pdf) | [link](https://riptutorial.com/Download/algorithm.pdf) |
 | Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition) | Ian Parberry |  | [link](https://ianparberry.com/books/free/license.html) |
 | LEDA: A Platform for Combinatorial and Geometric Computing | K. Mehlhorn, St. Näher |  | [link](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) |
-| Linked List Basics | Nick Parlante | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Linked.List.Basics.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260602012858/http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) |
-| Linked List Problems | Nick Parlante | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Linked.List.Problems.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190109/http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) |
-| Matters Computational: Ideas, Algorithms, Source Code | Jörg Arndt | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Matters.Computational.Ideas.Algorithms.Source.Code.-.J.rg.Arndt.pdf) | [link](https://www.jjj.de/fxt/fxtbook.pdf) |
+| Linked List Basics | Nick Parlante | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Linked.List.Basics.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260602012858/http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) |
+| Linked List Problems | Nick Parlante | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Linked.List.Problems.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190109/http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) |
+| Matters Computational: Ideas, Algorithms, Source Code | Jörg Arndt | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Matters.Computational.Ideas.Algorithms.Source.Code.-.J.rg.Arndt.pdf) | [link](https://www.jjj.de/fxt/fxtbook.pdf) |
 | Open Data Structures: An Introduction | Pat Morin |  | [link](https://opendatastructures.org) |
 | Planning Algorithms | Steven M. LaValle |  | [link](http://lavalle.pl/planning/) |
 | Problems on Algorithms (Second Edition) | Ian Parberry |  | [link](https://ianparberry.com/books/free/license.html) |
-| Purely Functional Data Structures | Chris Okasaki | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Purely.Functional.Data.Structures.-.Chris.Okasaki.pdf) | [link](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) |
+| Purely Functional Data Structures | Chris Okasaki | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Purely.Functional.Data.Structures.-.Chris.Okasaki.pdf) | [link](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) |
 | Sequential and parallel sorting algorithms | Hans Werner Lang |  | [link](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) |
-| Text Algorithms | Maxime Crochemore, Wojciech Rytter | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/Text.Algorithms.-.Maxime.Crochemore.Wojciech.Rytter.pdf) | [link](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) |
+| Text Algorithms | Maxime Crochemore, Wojciech Rytter | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/Text.Algorithms.-.Maxime.Crochemore.Wojciech.Rytter.pdf) | [link](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) |
 | The Algorithm Design Manual | Steven S. Skiena |  | [link](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) |
 | The Algorithms |  |  | [link](https://the-algorithms.com) |
-| The Design of Approximation Algorithms | David P. Williamson, David B. Shmoys | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/The.Design.of.Approximation.Algorithms.-.David.P..Williamson.David.B..Shmoys.pdf) | [link](https://www.designofapproxalgs.com/book.pdf) |
-| The Great Tree List Recursion Problem | Nick Parlante | [download](https://github.com/Squidly1408/programming-books/releases/download/algorithms-data-structures/The.Great.Tree.List.Recursion.Problem.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190115/http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) |
+| The Design of Approximation Algorithms | David P. Williamson, David B. Shmoys | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/The.Design.of.Approximation.Algorithms.-.David.P..Williamson.David.B..Shmoys.pdf) | [link](https://www.designofapproxalgs.com/book.pdf) |
+| The Great Tree List Recursion Problem | Nick Parlante | [PDF](books/subjects/Algorithms%20%26%20Data%20Structures/The.Great.Tree.List.Recursion.Problem.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260429190115/http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) |
 | The Kademlia Protocol Succinctly | Marc Clifton |  | [link](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) |
 | Think Complexity (2nd Edition) | Allen B. Downey |  | [link](https://greenteapress.com/wp/think-complexity-2e/) |
 
@@ -2855,22 +2855,22 @@
 | AI Agent Evaluation | Hallie Ren |  | [link](https://hallieren.github.io/ai-agent-evaluation/) |
 | AI: From First Principles | Addy |  | [link](https://www.thequery.in/books/ai-from-first-principles) |
 | AI Safety for Fleshy Humans | Nicky Case and Hack Club |  | [link](https://aisafety.dance) |
-| AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1) | Jeremy Schoemaker | [download](https://github.com/Squidly1408/programming-books/releases/download/artificial-intelligence/AiBook.A.Human.Survival.Guide.for.When.the.AI.Steals.Your.Girlfriend.Becomes.Your.Dog.s.Best.Friend.and.Has.Your.Wi-Fi.P.pdf) | [link](https://cdn.shoemoney.com/aibook/AiBook.pdf) |
-| Artificial Intelligence, 3rd Edition (1993) | Patrick Henry Winston | [download](https://github.com/Squidly1408/programming-books/releases/download/artificial-intelligence/Artificial.Intelligence.3rd.Edition.1993.-.Patrick.Henry.Winston.pdf) | [link](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) |
+| AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1) | Jeremy Schoemaker | [PDF](books/subjects/Artificial%20Intelligence/AiBook.A.Human.Survival.Guide.for.When.the.AI.Steals.Your.Girlfriend.Becomes.Your.Dog.s.Best.Friend.and.Has.Your.Wi-Fi.P.pdf) | [link](https://cdn.shoemoney.com/aibook/AiBook.pdf) |
+| Artificial Intelligence, 3rd Edition (1993) | Patrick Henry Winston | [PDF](books/subjects/Artificial%20Intelligence/Artificial.Intelligence.3rd.Edition.1993.-.Patrick.Henry.Winston.pdf) | [link](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) |
 | Artificial Intelligence and the Future for Teaching and Learning | Office of Educational Technology |  | [link](https://www2.ed.gov/documents/ai-report/ai-report.pdf) |
 | Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies | Bernd Carsten Stahl |  | [link](https://link.springer.com/book/10.1007/978-3-030-69978-9) |
 | Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition | David L. Poole, Alan K. Mackworth @ Cambridge University Press |  | [link](https://artint.info/aifca1e.html) |
 | Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition | David L. Poole, Alan K. Mackworth @ Cambridge University Press |  | [link](https://artint.info) |
 | Clever Algorithms Nature-Inspired Programming Recipes | Jason Brownlee |  | [link](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) |
 | Generative AI in Higher Education: The ChatGPT Effect | Cecilia Ka Yuk Chan, Tom Colloton |  | [link](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) |
-| Getting Started with Artificial Intelligence , 2nd Edition | Tom Markiewicz, Josh Zheng | [download](https://github.com/Squidly1408/programming-books/releases/download/artificial-intelligence/Getting.Started.with.Artificial.Intelligence.2nd.Edition.-.Tom.Markiewicz.Josh.Zheng.pdf) | [link](https://www.ibm.com/downloads/cas/OJ6WX73V) |
+| Getting Started with Artificial Intelligence , 2nd Edition | Tom Markiewicz, Josh Zheng | [PDF](books/subjects/Artificial%20Intelligence/Getting.Started.with.Artificial.Intelligence.2nd.Edition.-.Tom.Markiewicz.Josh.Zheng.pdf) | [link](https://www.ibm.com/downloads/cas/OJ6WX73V) |
 | Graph Representational Learning Book | William L. Hamilton |  | [link](https://www.cs.mcgill.ca/~wlh/grl_book/) |
 | How to Build Optimal AI Agents That Actually Work | Tiago Monteiro |  | [link](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) |
 | How Transformer LLMs Work | Jay Alammar, Maarten Grootendorst |  | [link](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) |
 | Hugging Face LLM Course |  |  | [link](https://huggingface.co/learn/llm-course/en/chapter1/1) |
 | Introduction to Autonomous Robots | Nikolaus Correll |  | [link](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) |
 | Large Language Models from Scratch | freeCodeCamp |  | [link](https://www.youtube.com/watch?v=lnA9DMvHtfI) |
-| Machine Learning For Dummies®, IBM Limited Edition | Daniel Kirsch, Judith Hurwitz | [download](https://github.com/Squidly1408/programming-books/releases/download/artificial-intelligence/Machine.Learning.For.Dummies.IBM.Limited.Edition.-.Daniel.Kirsch.Judith.Hurwitz.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
+| Machine Learning For Dummies®, IBM Limited Edition | Daniel Kirsch, Judith Hurwitz | [PDF](books/subjects/Artificial%20Intelligence/Machine.Learning.For.Dummies.IBM.Limited.Edition.-.Daniel.Kirsch.Judith.Hurwitz.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
 | Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists | Data Science Horizons |  | [link](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) |
 | On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age | Thomas D. Grant, Damon J. Wischik |  | [link](https://link.springer.com/book/10.1007/978-3-030-43582-0) |
 | Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp | Peter Norvig |  | [link](https://github.com/norvig/paip-lisp) |
@@ -2892,12 +2892,12 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Bitcoin and Cryptocurrency Technologies | Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark |  | [link](https://bitcoinbook.cs.princeton.edu) |
-| Blockchain for Dummies, 2nd IBM Limited Edition | Manav Gupta | [download](https://github.com/Squidly1408/programming-books/releases/download/blockchain/Blockchain.for.Dummies.2nd.IBM.Limited.Edition.-.Manav.Gupta.pdf) | [link](https://www.ibm.com/downloads/cas/36KBMBOG) |
+| Blockchain for Dummies, 2nd IBM Limited Edition | Manav Gupta | [PDF](books/subjects/Blockchain/Blockchain.for.Dummies.2nd.IBM.Limited.Edition.-.Manav.Gupta.pdf) | [link](https://www.ibm.com/downloads/cas/36KBMBOG) |
 | Build a Blockchain from Scratch in Go with gRPC | Volodymyr Prokopyuk |  | [link](https://github.com/volodymyrprokopyuk/go-blockchain) |
 | chain.courses | James Gan, Rishub Kumar |  | [link](https://web.archive.org/web/20220127020549/https://chain.courses/) |
-| Getting Started with Enterprise Blockchain: A Guide to Design and Development | Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk | [download](https://github.com/Squidly1408/programming-books/releases/download/blockchain/Getting.Started.with.Enterprise.Blockchain.A.Guide.to.Design.and.Development.-.Michael.Bradley.David.Gorman.Matt.Lucas.M.pdf) | [link](https://www.ibm.com/downloads/cas/RYWXAR0M) |
+| Getting Started with Enterprise Blockchain: A Guide to Design and Development | Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk | [PDF](books/subjects/Blockchain/Getting.Started.with.Enterprise.Blockchain.A.Guide.to.Design.and.Development.-.Michael.Bradley.David.Gorman.Matt.Lucas.M.pdf) | [link](https://www.ibm.com/downloads/cas/RYWXAR0M) |
 | Grokking Bitcoin | Kalle Rosenbaum |  | [link](https://rosenbaum.se/book/) |
-| IBM Blockchain: The Founder’s Handbook, Third Edition | Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. | [download](https://github.com/Squidly1408/programming-books/releases/download/blockchain/IBM.Blockchain.The.Founder.s.Handbook.Third.Edition.-.Antonio.Banda.Matthew.Hamilton.Eileen.Lowry.John.Widdifield.et.al.pdf) | [link](https://www.ibm.com/downloads/cas/GZPPMWM5) |
+| IBM Blockchain: The Founder’s Handbook, Third Edition | Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. | [PDF](books/subjects/Blockchain/IBM.Blockchain.The.Founder.s.Handbook.Third.Edition.-.Antonio.Banda.Matthew.Hamilton.Eileen.Lowry.John.Widdifield.et.al.pdf) | [link](https://www.ibm.com/downloads/cas/GZPPMWM5) |
 | Learning Bitcoin from the Command Line | Christopher Allen, Shannon Appelcline, et al. |  | [link](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) |
 | Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition | Andreas M. Antonopoulos |  | [link](https://github.com/bitcoinbook/bitcoinbook) |
 | Mastering Ethereum (2018), 1st Edition | Andreas M. Antonopoulos, Gavin Wood |  | [link](https://github.com/ethereumbook/ethereumbook) |
@@ -2909,8 +2909,8 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A New Kind of Science | Stephen Wolfram |  | [link](https://www.wolframscience.com/nksonline/toc.html) |
-| An Introduction to Cellular Automata | Hélène Vivien | [download](https://github.com/Squidly1408/programming-books/releases/download/cellular-automata/An.Introduction.to.Cellular.Automata.-.H.l.ne.Vivien.pdf) | [link](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) |
-| Cellular Automata Machines | Norman Margolus, Tommaso Toffoli | [download](https://github.com/Squidly1408/programming-books/releases/download/cellular-automata/Cellular.Automata.Machines.-.Norman.Margolus.Tommaso.Toffoli.pdf) | [link](https://people.csail.mit.edu/nhm/cam-book.pdf) |
+| An Introduction to Cellular Automata | Hélène Vivien | [PDF](books/subjects/Cellular%20Automata/An.Introduction.to.Cellular.Automata.-.H.l.ne.Vivien.pdf) | [link](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) |
+| Cellular Automata Machines | Norman Margolus, Tommaso Toffoli | [PDF](books/subjects/Cellular%20Automata/Cellular.Automata.Machines.-.Norman.Margolus.Tommaso.Toffoli.pdf) | [link](https://people.csail.mit.edu/nhm/cam-book.pdf) |
 | Introduction to the Modeling and Analysis of Complex Systems | Hiroki Sayama |  | [link](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) |
 
 ### Cloud Computing
@@ -2939,10 +2939,10 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Competitive Programmer's Handbook | Antti Laaksonen | [download](https://github.com/Squidly1408/programming-books/releases/download/competitive-programming/Competitive.Programmer.s.Handbook.-.Antti.Laaksonen.pdf) | [link](https://cses.fi/book/book.pdf) |
+| Competitive Programmer's Handbook | Antti Laaksonen | [PDF](books/subjects/Competitive%20Programming/Competitive.Programmer.s.Handbook.-.Antti.Laaksonen.pdf) | [link](https://cses.fi/book/book.pdf) |
 | Competitive Programming, 1st Edition | Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) |  | [link](https://cpbook.net/#CP1details) |
 | Competitive Programming, 2nd Edition | Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf) |  | [link](https://cpbook.net/#CP2details) |
-| Principles of Algorithmic Problem Solving | Johan Sannemo | [download](https://github.com/Squidly1408/programming-books/releases/download/competitive-programming/Principles.of.Algorithmic.Problem.Solving.-.Johan.Sannemo.pdf) | [link](https://jsannemo.se/latest.pdf) |
+| Principles of Algorithmic Problem Solving | Johan Sannemo | [PDF](books/subjects/Competitive%20Programming/Principles.of.Algorithmic.Problem.Solving.-.Johan.Sannemo.pdf) | [link](https://jsannemo.se/latest.pdf) |
 
 ### Compiler Design
 
@@ -2950,17 +2950,17 @@
 |---|---|---|---|
 | An Introduction to GCC | Brian Gough |  | [link](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) |
 | Basics of Compiler Design (Anniversary Edition) | Torben Mogensen |  | [link](http://www.diku.dk/~torbenm/Basics/) |
-| Compiler Construction using C# (SLANGFOR.NET) | Praseed Pai | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Compiler.Construction.using.C.SLANGFOR.NET.-.Praseed.Pai.pdf) | [link](https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf) |
-| Compiler Design in C (1990) | Allen Holub, Prentice Hall | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Compiler.Design.in.C.1990.-.Allen.Holub.Prentice.Hall.pdf) | [link](https://holub.com/goodies/compiler/compilerDesignInC.pdf) |
-| Compiler Design: Theory, Tools, and Examples, C/C++ Edition | Seth D. Bergmann | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Compiler.Design.Theory.Tools.and.Examples.C.C%2B%2B.Edition.-.Seth.D..Bergmann.pdf) | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) |
-| Compiler Design: Theory, Tools, and Examples, Java Edition | Seth D. Bergmann | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Compiler.Design.Theory.Tools.and.Examples.Java.Edition.-.Seth.D..Bergmann.pdf) | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) |
-| Compiling Scala for the Java Virtual Machine | Michel Schinz | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Compiling.Scala.for.the.Java.Virtual.Machine.-.Michel.Schinz.pdf) | [link](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) |
+| Compiler Construction using C# (SLANGFOR.NET) | Praseed Pai | [PDF](books/subjects/Compiler%20Design/Compiler.Construction.using.C.SLANGFOR.NET.-.Praseed.Pai.pdf) | [link](https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf) |
+| Compiler Design in C (1990) | Allen Holub, Prentice Hall | [PDF](books/subjects/Compiler%20Design/Compiler.Design.in.C.1990.-.Allen.Holub.Prentice.Hall.pdf) | [link](https://holub.com/goodies/compiler/compilerDesignInC.pdf) |
+| Compiler Design: Theory, Tools, and Examples, C/C++ Edition | Seth D. Bergmann |  | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) |
+| Compiler Design: Theory, Tools, and Examples, Java Edition | Seth D. Bergmann | [PDF](books/subjects/Compiler%20Design/Compiler.Design.Theory.Tools.and.Examples.Java.Edition.-.Seth.D..Bergmann.pdf) | [link](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) |
+| Compiling Scala for the Java Virtual Machine | Michel Schinz | [PDF](books/subjects/Compiler%20Design/Compiling.Scala.for.the.Java.Virtual.Machine.-.Michel.Schinz.pdf) | [link](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) |
 | Compiling Techniques (1969) | F.R.A. Hopgood, Macdonald |  | [link](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) |
 | Crafting Interpreters | Bob Nystrom |  | [link](https://www.craftinginterpreters.com/contents.html) |
 | EXPL NITC: Build your own Compiler | Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology |  | [link](https://silcnitc.github.io) |
 | Implementing Functional Languages: A Tutorial | Simon Peyton Jones, David Lester |  | [link](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) |
 | Introduction to Compilers and Language Design | Douglas Thain |  | [link](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) |
-| Let's Build a Compiler | Jack W. Crenshaw | [download](https://github.com/Squidly1408/programming-books/releases/download/compiler-design/Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf) | [link](https://www.stack.nl/~marcov/compiler.pdf) |
+| Let's Build a Compiler | Jack W. Crenshaw | [PDF](books/subjects/Compiler%20Design/Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf) | [link](https://www.stack.nl/~marcov/compiler.pdf) |
 | Practical and Theoretical Aspects of Compiler Construction |  |  | [link](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) |
 | The ANTLR Mega Tutorial |  |  | [link](https://tomassetti.me/antlr-mega-tutorial/) |
 
@@ -2978,9 +2978,9 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | A Data-Centric Introduction to Computing | Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz |  | [link](https://dcic-world.org) |
-| Computational Thinking | Jeannette Wing, Carnegie-Mellon University | [download](https://github.com/Squidly1408/programming-books/releases/download/computer-science/Computational.Thinking.-.Jeannette.Wing.Carnegie-Mellon.University.pdf) | [link](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) |
-| Computer Science Class XI | CBSE | [download](https://github.com/Squidly1408/programming-books/releases/download/computer-science/Computer.Science.Class.XI.-.CBSE.pdf) | [link](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) |
-| Computer Science Class XII | CBSE | [download](https://github.com/Squidly1408/programming-books/releases/download/computer-science/Computer.Science.Class.XII.-.CBSE.pdf) | [link](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) |
+| Computational Thinking | Jeannette Wing, Carnegie-Mellon University | [PDF](books/subjects/Computer%20Science/Computational.Thinking.-.Jeannette.Wing.Carnegie-Mellon.University.pdf) | [link](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) |
+| Computer Science Class XI | CBSE | [PDF](books/subjects/Computer%20Science/Computer.Science.Class.XI.-.CBSE.pdf) | [link](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) |
+| Computer Science Class XII | CBSE | [PDF](books/subjects/Computer%20Science/Computer.Science.Class.XII.-.CBSE.pdf) | [link](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) |
 | Computer Science I | Chris Bourke |  | [link](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) |
 | Computer Science II | Chris Bourke |  | [link](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) |
 | CS Principles: Big Ideas in Programming | Mark Guzdial, Barbara Ericson |  | [link](https://www.openbookproject.net/books/StudentCSP/) |
@@ -3008,7 +3008,7 @@
 | Docker Tutorial | Anthony Baire |  | [link](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) |
 | Docker Tutorial | Tutorials Point |  | [link](https://www.tutorialspoint.com/docker/) |
 | Dotnet Microservices Architecture for Containerized NET Applications | Cesar de la Torre, Bill Wagner, Mike Rousos |  | [link](https://aka.ms/microservicesebook) |
-| Kubernetes Deployment & Security Patterns | Alex Williams | [download](https://github.com/Squidly1408/programming-books/releases/download/containers/Kubernetes.Deployment.Security.Patterns.-.Alex.Williams.pdf) | [link](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) |
+| Kubernetes Deployment & Security Patterns | Alex Williams | [PDF](books/subjects/Containers/Kubernetes.Deployment.Security.Patterns.-.Alex.Williams.pdf) | [link](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) |
 | Kubernetes for Full-Stack Developers | Jamon Camisso, Hanif Jetha, Katherine Juell |  | [link](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) |
 | Uncomplicating Kubernetes | Jeferson Fernando |  | [link](https://livro.descomplicandokubernetes.com.br/en/) |
 
@@ -3019,16 +3019,16 @@
 | A Programmer's Guide to Data Mining | Ron Zacharski |  | [link](http://guidetodatamining.com) |
 | Data Jujitsu: The Art of Turning Data into Product |  |  | [link](http://www.oreilly.com/data/free/data-jujitsu.csp) |
 | Data Mining Algorithms In R | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) |
-| Data Mining Concepts and Techniques | Jiawei Han, Micheline Kamber, Jian Pei | [download](https://github.com/Squidly1408/programming-books/releases/download/data-science/Data.Mining.Concepts.and.Techniques.-.Jiawei.Han.Micheline.Kamber.Jian.Pei.pdf) | [link](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) |
+| Data Mining Concepts and Techniques | Jiawei Han, Micheline Kamber, Jian Pei | [PDF](books/subjects/Data%20Science/Data.Mining.Concepts.and.Techniques.-.Jiawei.Han.Micheline.Kamber.Jian.Pei.pdf) | [link](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) |
 | Data Science at the Command Line | Jeroen Janssens |  | [link](https://datascienceatthecommandline.com/2e/) |
 | Data Science with Python | freeCodeCamp |  | [link](https://www.youtube.com/watch?v=LHBE6Q9XlzI) |
 | Elements of Data Science | Allen B. Downey |  | [link](https://allendowney.github.io/ElementsOfDataScience/README.html) |
 | Feature Engineering and Selection: A Practical Approach for Predictive Models | Max Kuhn, Kjell Johnson |  | [link](https://bookdown.org/max/FES/) |
-| Foundations of Data Science | Avrim Blum, John Hopcroft, Ravindran Kannan | [download](https://github.com/Squidly1408/programming-books/releases/download/data-science/Foundations.of.Data.Science.-.Avrim.Blum.John.Hopcroft.Ravindran.Kannan.pdf) | [link](https://www.cs.cornell.edu/jeh/book.pdf) |
+| Foundations of Data Science | Avrim Blum, John Hopcroft, Ravindran Kannan | [PDF](books/subjects/Data%20Science/Foundations.of.Data.Science.-.Avrim.Blum.John.Hopcroft.Ravindran.Kannan.pdf) | [link](https://www.cs.cornell.edu/jeh/book.pdf) |
 | Fundamentals of Data Visualization | Claus O. Wilke |  | [link](https://clauswilke.com/dataviz/) |
 | Hands-On Data Visualization | Jack Dougherty, Ilya Ilyankou |  | [link](https://handsondataviz.org) |
-| High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications | John Wright, Yi Ma | [download](https://github.com/Squidly1408/programming-books/releases/download/data-science/High-Dimensional.Data.Analysis.with.Low-Dimensional.Models.Principles.Computation.and.Applications.-.John.Wright.Yi.Ma.pdf) | [link](https://book-wright-ma.github.io/Book-WM-20210422.pdf) |
-| Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users |  | [download](https://github.com/Squidly1408/programming-books/releases/download/data-science/Internet.Advertising.An.Interplay.among.Advertisers.Online.Publishers.Ad.Exchanges.and.Web.Users.pdf) | [link](https://arxiv.org/pdf/1206.1754v2.pdf) |
+| High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications | John Wright, Yi Ma | [PDF](books/subjects/Data%20Science/High-Dimensional.Data.Analysis.with.Low-Dimensional.Models.Principles.Computation.and.Applications.-.John.Wright.Yi.Ma.pdf) | [link](https://book-wright-ma.github.io/Book-WM-20210422.pdf) |
+| Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users |  | [PDF](books/subjects/Data%20Science/Internet.Advertising.An.Interplay.among.Advertisers.Online.Publishers.Ad.Exchanges.and.Web.Users.pdf) | [link](https://arxiv.org/pdf/1206.1754v2.pdf) |
 | Introduction to Cultural Analytics & Python | Melanie Walsh |  | [link](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) |
 | Introduction to Data Science | Jeffrey Stanton |  | [link](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) |
 | Introduction to Data Science in Python | Christopher Brooks |  | [link](https://www.coursera.org/learn/python-data-analysis) |
@@ -3048,10 +3048,10 @@
 |---|---|---|---|
 | Database Design – 2nd Edition | Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks |  | [link](https://opentextbc.ca/dbdesign01/) |
 | Database Design Succinctly | Joseph D. Booth |  | [link](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) |
-| Database Explorations | C.J. Date, Hugh Darwen | [download](https://github.com/Squidly1408/programming-books/releases/download/database/Database.Explorations.-.C.J..Date.Hugh.Darwen.pdf) | [link](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) |
-| Database Fundamentals | Neeraj Sharma et al. | [download](https://github.com/Squidly1408/programming-books/releases/download/database/Database.Fundamentals.-.Neeraj.Sharma.et.al.pdf) | [link](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) |
-| Database Management Systems Solutions Manual Third Edition | Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu | [download](https://github.com/Squidly1408/programming-books/releases/download/database/Database.Management.Systems.Solutions.Manual.Third.Edition.-.Raghu.Ramakrishnan.Johannes.Gehrke.Jeff.Derstadt.Scott.Seli.pdf) | [link](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) |
-| Databases, Types, and The Relational Model: The Third Manifesto | C.J. Date, Hugh Darwen | [download](https://github.com/Squidly1408/programming-books/releases/download/database/Databases.Types.and.The.Relational.Model.The.Third.Manifesto.-.C.J..Date.Hugh.Darwen.pdf) | [link](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) |
+| Database Explorations | C.J. Date, Hugh Darwen | [PDF](books/subjects/Database/Database.Explorations.-.C.J..Date.Hugh.Darwen.pdf) | [link](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) |
+| Database Fundamentals | Neeraj Sharma et al. | [PDF](books/subjects/Database/Database.Fundamentals.-.Neeraj.Sharma.et.al.pdf) | [link](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) |
+| Database Management Systems Solutions Manual Third Edition | Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu | [PDF](books/subjects/Database/Database.Management.Systems.Solutions.Manual.Third.Edition.-.Raghu.Ramakrishnan.Johannes.Gehrke.Jeff.Derstadt.Scott.Seli.pdf) | [link](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) |
+| Databases, Types, and The Relational Model: The Third Manifesto | C.J. Date, Hugh Darwen | [PDF](books/subjects/Database/Databases.Types.and.The.Relational.Model.The.Third.Manifesto.-.C.J..Date.Hugh.Darwen.pdf) | [link](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) |
 | Foundations of Databases |  |  | [link](http://webdam.inria.fr/Alice/) |
 | Readings in Database Systems, 5th Ed. |  |  | [link](http://www.redbook.io) |
 | Temporal Database Management | Christian S. Jensen |  | [link](https://people.cs.aau.dk/~csj/Thesis/) |
@@ -3062,11 +3062,11 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Control and Embedded Systems |  |  | [link](http://www.learn-c.com) |
-| Discovering the STM32 Microcontroller |  |  | [link](https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf) |
-| First Steps with Embedded Systems | Byte Craft Limited | [download](https://github.com/Squidly1408/programming-books/releases/download/embedded-systems/First.Steps.with.Embedded.Systems.-.Byte.Craft.Limited.pdf) | [link](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) |
-| Introduction to Embedded Systems, Second Edition | Edward Ashford Lee, Sanjit Arunkumar Seshia | [download](https://github.com/Squidly1408/programming-books/releases/download/embedded-systems/Introduction.to.Embedded.Systems.Second.Edition.-.Edward.Ashford.Lee.Sanjit.Arunkumar.Seshia.pdf) | [link](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) |
+| Discovering the STM32 Microcontroller |  | [PDF](books/subjects/Embedded%20Systems/Discovering.the.STM32.Microcontroller.pdf) | [link](https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf) |
+| First Steps with Embedded Systems | Byte Craft Limited | [PDF](books/subjects/Embedded%20Systems/First.Steps.with.Embedded.Systems.-.Byte.Craft.Limited.pdf) | [link](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) |
+| Introduction to Embedded Systems, Second Edition | Edward Ashford Lee, Sanjit Arunkumar Seshia | [PDF](books/subjects/Embedded%20Systems/Introduction.to.Embedded.Systems.Second.Edition.-.Edward.Ashford.Lee.Sanjit.Arunkumar.Seshia.pdf) | [link](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) |
 | Introduction to Microcontrollers |  |  | [link](http://www.embeddedrelated.com/showarticle/453.php) |
-| Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide | freertos.org | [download](https://github.com/Squidly1408/programming-books/releases/download/embedded-systems/Mastering.the.FreeRTOS.Real.Time.Kernel.-.a.Hands.On.Tutorial.Guide.-.freertos.org.pdf) | [link](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) |
+| Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide | freertos.org | [PDF](books/subjects/Embedded%20Systems/Mastering.the.FreeRTOS.Real.Time.Kernel.-.a.Hands.On.Tutorial.Guide.-.freertos.org.pdf) | [link](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf) |
 
 ### Game Development
 
@@ -3075,7 +3075,7 @@
 | 2D Game Development: From Zero To Hero | Daniele Penazzo |  | [link](https://github.com/Penaz91/2DGD_F0TH) |
 | 3D Math Primer for Graphics and Game Development | Fletcher Dunn |  | [link](https://gamemath.com/book/intro.html) |
 | AI Workflow for Game Designers | Minsoo Lee |  | [link](https://github.com/eremes81/game-design-ai-practice-en) |
-| Designing Virtual Worlds | Richard A. Bartle | [download](https://github.com/Squidly1408/programming-books/releases/download/game-development/Designing.Virtual.Worlds.-.Richard.A..Bartle.pdf) | [link](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) |
+| Designing Virtual Worlds | Richard A. Bartle | [PDF](books/subjects/Game%20Development/Designing.Virtual.Worlds.-.Richard.A..Bartle.pdf) | [link](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) |
 | Game AI Pro | Steve Rabin |  | [link](https://www.gameaipro.com) |
 | Game Design with AGS | Dave Ensminger, A. G. Madi |  | [link](https://ensadi.github.io/AGSBook/) |
 | Game Programming Patterns | Bob Nystrom |  | [link](https://gameprogrammingpatterns.com) |
@@ -3137,10 +3137,10 @@
 | Learn Vim Progressively | Yann Esposito |  | [link](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) |
 | Learn Vimscript the Hard Way | Steve Losh |  | [link](https://learnvimscriptthehardway.stevelosh.com) |
 | The Craft of Text Editing or Emacs for the Modern World | Craig A. Finseth |  | [link](https://www.finseth.com/craft/) |
-| Vi Improved -- Vim | Steve Oualline | [download](https://github.com/Squidly1408/programming-books/releases/download/ide-and-editors/Vi.Improved.--.Vim.-.Steve.Oualline.pdf) | [link](https://www.truth.sk/vim/vimbook-OPL.pdf) |
+| Vi Improved -- Vim | Steve Oualline | [PDF](books/subjects/IDE%20and%20editors/Vi.Improved.--.Vim.-.Steve.Oualline.pdf) | [link](https://www.truth.sk/vim/vimbook-OPL.pdf) |
 | Vim Book | Dariush Abbasi |  | [link](https://github.com/dariubs/vim-book) |
 | VIM-GALORE - All things Vim! | Marco Hinz |  | [link](https://github.com/mhinz/vim-galore#readme) |
-| Vim Recipes | Run Paint Run Run, Run Paint Press | [download](https://github.com/Squidly1408/programming-books/releases/download/ide-and-editors/Vim.Recipes.-.Run.Paint.Run.Run.Run.Paint.Press.pdf) | [link](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) |
+| Vim Recipes | Run Paint Run Run, Run Paint Press | [PDF](books/subjects/IDE%20and%20editors/Vim.Recipes.-.Run.Paint.Run.Run.Run.Paint.Press.pdf) | [link](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) |
 | Vim Reference Guide | Sundeep Agarwal |  | [link](https://learnbyexample.github.io/vim_reference/) |
 | Vim Regular Expressions 101 | Oleg Raisky |  | [link](https://vimregex.com) |
 | Visual Studio .NET Tips and Tricks | Minh T. Nguyen |  | [link](https://www.infoq.com/minibooks/vsnettt) |
@@ -3151,28 +3151,28 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Information Retrieval: A Survey |  | [download](https://github.com/Squidly1408/programming-books/releases/download/information-retrieval/Information.Retrieval.A.Survey.pdf) | [link](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) |
-| Information Retrieval: Implementing and Evaluating Search Engines | Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack | [download](https://github.com/Squidly1408/programming-books/releases/download/information-retrieval/Information.Retrieval.Implementing.and.Evaluating.Search.Engines.-.Stefan.B.ttcher.Charles.L..A..Clarke.Gordon.V..Cormac.pdf) | [link](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) |
+| Information Retrieval: A Survey |  | [PDF](books/subjects/Information%20Retrieval/Information.Retrieval.A.Survey.pdf) | [link](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) |
+| Information Retrieval: Implementing and Evaluating Search Engines | Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack | [PDF](books/subjects/Information%20Retrieval/Information.Retrieval.Implementing.and.Evaluating.Search.Engines.-.Stefan.B.ttcher.Charles.L..A..Clarke.Gordon.V..Cormac.pdf) | [link](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) |
 | Introduction to Information Retrieval |  |  | [link](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) |
 
 ### Licensing
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Creative Commons: a user guide | Simone Aliprandi | [download](https://github.com/Squidly1408/programming-books/releases/download/licensing/Creative.Commons.a.user.guide.-.Simone.Aliprandi.pdf) | [link](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) |
+| Creative Commons: a user guide | Simone Aliprandi | [PDF](books/subjects/Licensing/Creative.Commons.a.user.guide.-.Simone.Aliprandi.pdf) | [link](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) |
 | The Public Domain: Enclosing the Commons of the Mind | James Boyle |  | [link](https://www.thepublicdomain.org/download/) |
 
 ### Machine Learning
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A Brief Introduction to Machine Learning for Engineers | Osvaldo Simeone | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/A.Brief.Introduction.to.Machine.Learning.for.Engineers.-.Osvaldo.Simeone.pdf) | [link](https://arxiv.org/pdf/1709.02840.pdf) |
+| A Brief Introduction to Machine Learning for Engineers | Osvaldo Simeone | [PDF](books/subjects/Machine%20Learning/A.Brief.Introduction.to.Machine.Learning.for.Engineers.-.Osvaldo.Simeone.pdf) | [link](https://arxiv.org/pdf/1709.02840.pdf) |
 | A Brief Introduction to Neural Networks |  |  | [link](https://www.dkriesel.com/en/science/neural_networks) |
 | A Comprehensive Guide to Machine Learning | Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang |  | [link](https://www.eecs189.org/static/resources/comprehensive-guide.pdf) |
-| A Course in Machine Learning |  | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/A.Course.in.Machine.Learning.pdf) | [link](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) |
-| A First Encounter with Machine Learning | Max Welling | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/A.First.Encounter.with.Machine.Learning.-.Max.Welling.pdf) | [link](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) |
+| A Course in Machine Learning |  | [PDF](books/subjects/Machine%20Learning/A.Course.in.Machine.Learning.pdf) | [link](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) |
+| A First Encounter with Machine Learning | Max Welling | [PDF](books/subjects/Machine%20Learning/A.First.Encounter.with.Machine.Learning.-.Max.Welling.pdf) | [link](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) |
 | A Selective Overview of Deep Learning | Fan, Ma, Zhong |  | [link](https://arxiv.org/abs/1904.05526) |
-| Algorithms for Reinforcement Learning | Csaba Szepesvári | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Algorithms.for.Reinforcement.Learning.-.Csaba.Szepesv.ri.pdf) | [link](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) |
+| Algorithms for Reinforcement Learning | Csaba Szepesvári | [PDF](books/subjects/Machine%20Learning/Algorithms.for.Reinforcement.Learning.-.Csaba.Szepesv.ri.pdf) | [link](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) |
 | An Introduction to Statistical Learning | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |  | [link](https://www.statlearning.com) |
 | Applied Machine Learning for Tabular Data | Max Kuhn, Kjell Johnson |  | [link](https://aml4td.org) |
 | Approaching Almost Any Machine Learning Problem | Abhishek Thakur |  | [link](https://github.com/abhishekkrthakur/approachingalmost) |
@@ -3187,12 +3187,12 @@
 | Foundations of Machine Learning, Second Edition | Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar |  | [link](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) |
 | Free and Open Machine Learning | Maikel Mardjan |  | [link](https://nocomplexity.com/documents/fossml/) |
 | Gaussian Processes for Machine Learning | Carl Edward Rasmussen, Christopher K.I. Williams |  | [link](https://www.gaussianprocess.org/gpml/) |
-| IBM Machine Learning for Dummies | Judith Hurwitz, Daniel Kirsch | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
+| IBM Machine Learning for Dummies | Judith Hurwitz, Daniel Kirsch | [PDF](books/subjects/Machine%20Learning/IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf) | [link](https://www.ibm.com/downloads/cas/GB8ZMQZ3) |
 | Information Theory, Inference, and Learning Algorithms | David J.C. MacKay |  | [link](http://www.inference.phy.cam.ac.uk/itila/) |
 | Interpretable Machine Learning | Christoph Molnar |  | [link](https://christophm.github.io/interpretable-ml-book/) |
 | Introduction to CNTK Succinctly | James McCaffrey |  | [link](https://www.syncfusion.com/ebooks/cntk_succinctly) |
 | Introduction to Machine Learning | Amnon Shashua |  | [link](https://arxiv.org/abs/0904.3664v1) |
-| Introduction to Machine Learning Systems | Vijay Janapa Reddi | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Introduction.to.Machine.Learning.Systems.-.Vijay.Janapa.Reddi.pdf) | [link](https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf) |
+| Introduction to Machine Learning Systems | Vijay Janapa Reddi | [PDF](books/subjects/Machine%20Learning/Introduction.to.Machine.Learning.Systems.-.Vijay.Janapa.Reddi.pdf) | [link](https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf) |
 | Keras Succinctly | James McCaffrey |  | [link](https://www.syncfusion.com/ebooks/keras-succinctly) |
 | Learn Tensorflow | Jupyter Notebooks |  | [link](https://bitbucket.org/hrojas/learn-tensorflow) |
 | Learning Deep Architectures for AI | Yoshua Bengio |  | [link](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) |
@@ -3204,22 +3204,22 @@
 | Machine Learning, Neural and Statistical Classification | D. Michie, D.J. Spiegelhalter, C.C. Taylor |  | [link](https://www1.maths.leeds.ac.uk/~charles/statlog/) |
 | Machine Learning Simplified | Andrew Wolf |  | [link](https://themlsbook.com/read) |
 | Machine Learning with Python | Tutorials Point |  | [link](https://www.tutorialspoint.com/machine_learning_with_python/) |
-| Mathematics for Machine Learning | Garrett Thomas | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Mathematics.for.Machine.Learning.-.Garrett.Thomas.pdf) | [link](https://gwthomas.github.io/docs/math4ml.pdf) |
+| Mathematics for Machine Learning | Garrett Thomas | [PDF](books/subjects/Machine%20Learning/Mathematics.for.Machine.Learning.-.Garrett.Thomas.pdf) | [link](https://gwthomas.github.io/docs/math4ml.pdf) |
 | Mathematics for Machine Learning | Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong |  | [link](https://mml-book.github.io) |
 | Neural Network Design (2nd Edition) | Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús |  | [link](https://hagan.okstate.edu/NNDesign.pdf) |
 | Neural Networks and Deep Learning |  |  | [link](http://neuralnetworksanddeeplearning.com) |
-| Pattern Recognition and Machine Learning | Christopher M. Bishop | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Pattern.Recognition.and.Machine.Learning.-.Christopher.M..Bishop.pdf) | [link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) |
-| Patterns, Predictions, And Actions: A story about machine learning | Moritz Hardt, Benjamin Recht | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Patterns.Predictions.And.Actions.A.story.about.machine.learning.-.Moritz.Hardt.Benjamin.Recht.pdf) | [link](https://mlstory.org/pdf/patterns.pdf) |
+| Pattern Recognition and Machine Learning | Christopher M. Bishop | [PDF](books/subjects/Machine%20Learning/Pattern.Recognition.and.Machine.Learning.-.Christopher.M..Bishop.pdf) | [link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) |
+| Patterns, Predictions, And Actions: A story about machine learning | Moritz Hardt, Benjamin Recht | [PDF](books/subjects/Machine%20Learning/Patterns.Predictions.And.Actions.A.story.about.machine.learning.-.Moritz.Hardt.Benjamin.Recht.pdf) | [link](https://mlstory.org/pdf/patterns.pdf) |
 | Practical Deep Learning for Coders | fast.ai |  | [link](https://course.fast.ai) |
-| Practitioners guide to MLOps | Khalid Samala, Jarek Kazmierczak, Donna Schut | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Practitioners.guide.to.MLOps.-.Khalid.Samala.Jarek.Kazmierczak.Donna.Schut.pdf) | [link](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) |
-| Probabilistic Machine Learning - An Introduction | Kevin P. Murphy | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Probabilistic.Machine.Learning.-.An.Introduction.-.Kevin.P..Murphy.pdf) | [link](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) |
+| Practitioners guide to MLOps | Khalid Samala, Jarek Kazmierczak, Donna Schut | [PDF](books/subjects/Machine%20Learning/Practitioners.guide.to.MLOps.-.Khalid.Samala.Jarek.Kazmierczak.Donna.Schut.pdf) | [link](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) |
+| Probabilistic Machine Learning - An Introduction | Kevin P. Murphy | [PDF](books/subjects/Machine%20Learning/Probabilistic.Machine.Learning.-.An.Introduction.-.Kevin.P..Murphy.pdf) | [link](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) |
 | Probabilistic Machine Learning: Advanced Topics | Kevin P. Murphy |  | [link](https://probml.github.io/pml-book/book2.html) |
 | Python Machine Learning Projects | Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan |  | [link](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) |
-| Reinforcement Learning: An Introduction | Richard S. Sutton, Andrew G. Barto | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Reinforcement.Learning.An.Introduction.-.Richard.S..Sutton.Andrew.G..Barto.pdf) | [link](http://incompleteideas.net/book/RLbook2020.pdf) |
-| Speech and Language Processing (3rd Edition Draft) | Daniel Jurafsky, James H. Martin | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/Speech.and.Language.Processing.3rd.Edition.Draft.-.Daniel.Jurafsky.James.H..Martin.pdf) | [link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) |
+| Reinforcement Learning: An Introduction | Richard S. Sutton, Andrew G. Barto | [PDF](books/subjects/Machine%20Learning/Reinforcement.Learning.An.Introduction.-.Richard.S..Sutton.Andrew.G..Barto.pdf) | [link](http://incompleteideas.net/book/RLbook2020.pdf) |
+| Speech and Language Processing (3rd Edition Draft) | Daniel Jurafsky, James H. Martin | [PDF](books/subjects/Machine%20Learning/Speech.and.Language.Processing.3rd.Edition.Draft.-.Daniel.Jurafsky.James.H..Martin.pdf) | [link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) |
 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, and Jerome Friedman |  | [link](https://web.stanford.edu/~hastie/ElemStatLearn/) |
-| The LION Way: Machine Learning plus Intelligent Optimization | Roberto Battiti, Mauro Brunato | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/The.LION.Way.Machine.Learning.plus.Intelligent.Optimization.-.Roberto.Battiti.Mauro.Brunato.pdf) | [link](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) |
-| The Little Book of Deep Learning | François Fleuret | [download](https://github.com/Squidly1408/programming-books/releases/download/machine-learning/The.Little.Book.of.Deep.Learning.-.Fran.ois.Fleuret.pdf) | [link](https://fleuret.org/public/lbdl.pdf) |
+| The LION Way: Machine Learning plus Intelligent Optimization | Roberto Battiti, Mauro Brunato | [PDF](books/subjects/Machine%20Learning/The.LION.Way.Machine.Learning.plus.Intelligent.Optimization.-.Roberto.Battiti.Mauro.Brunato.pdf) | [link](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) |
+| The Little Book of Deep Learning | François Fleuret | [PDF](books/subjects/Machine%20Learning/The.Little.Book.of.Deep.Learning.-.Fran.ois.Fleuret.pdf) | [link](https://fleuret.org/public/lbdl.pdf) |
 | The Mathematical Engineering of Deep Learning | Benoit Liquet, Sarat Moka, Yoni Nazarathy |  | [link](https://deeplearningmath.org) |
 | The Mechanics of Machine Learning | Terence Parr, Jeremy Howard |  | [link](https://mlbook.explained.ai) |
 | Top 10 Machine Learning Algorithms Every Engineer Should Know | Binny Mathews, Omair Aasim |  | [link](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) |
@@ -3230,21 +3230,21 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A Computational Logic (1979) | Robert S. Boyer, J Strother Moore | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/A.Computational.Logic.1979.-.Robert.S..Boyer.J.Strother.Moore.pdf) | [link](https://www.cs.utexas.edu/users/boyer/acl.pdf) |
-| A Cool Brisk Walk Through Discrete Mathematics | Stephen Davies | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/A.Cool.Brisk.Walk.Through.Discrete.Mathematics.-.Stephen.Davies.pdf) | [link](http://stephendavies.org/brisk.pdf) |
+| A Computational Logic (1979) | Robert S. Boyer, J Strother Moore | [PDF](books/subjects/Mathematics/A.Computational.Logic.1979.-.Robert.S..Boyer.J.Strother.Moore.pdf) | [link](https://www.cs.utexas.edu/users/boyer/acl.pdf) |
+| A Cool Brisk Walk Through Discrete Mathematics | Stephen Davies | [PDF](books/subjects/Mathematics/A.Cool.Brisk.Walk.Through.Discrete.Mathematics.-.Stephen.Davies.pdf) | [link](http://stephendavies.org/brisk.pdf) |
 | A First Course in Complex Analysis | Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka |  | [link](https://matthbeck.github.io/papers/complexorth.pdf) |
 | A Friendly Introduction to Mathematical Logic | Christopher C. Leary, Lars Kristiansen |  | [link](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) |
 | A Gentle Introduction to the Art of Mathematics | Joseph E. Fields |  | [link](https://osj1961.github.io/giam/) |
 | A Programmer's Introduction to Mathematics | Jeremy Kun |  | [link](https://pimbook.org) |
 | An Infinite Descent into Pure Mathematics | Clive Newstead |  | [link](https://infinitedescent.xyz/dl/infdesc.pdf) |
 | An Introduction to the Theory of Numbers | Leo Moser |  | [link](http://www.trillia.com/moser-number.html) |
-| Analytic Geometry (1922) | Lewis Parker Siceloff, George Wentworth, David Eugene Smith | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Analytic.Geometry.1922.-.Lewis.Parker.Siceloff.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) |
+| Analytic Geometry (1922) | Lewis Parker Siceloff, George Wentworth, David Eugene Smith | [PDF](books/subjects/Mathematics/Analytic.Geometry.1922.-.Lewis.Parker.Siceloff.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) |
 | Applied Combinatorics | Mitchel T. Keller, William T. Trotter |  | [link](https://rellek.net/book/app-comb.html) |
 | Applied Discrete Structures | Alan Doerr, Kenneth Levasseur |  | [link](https://faculty.uml.edu/klevasseur/ads2/) |
 | Applied Quantitative Finance: Theory and Computational Tools |  |  | [link](http://inis.jinr.ru/sl/M_Mathematics/MV_Probability/MVspf_Stochastics%20in%20finance/Haerdle%20et%20al.%20Applied%20Quantitative%20Finance%20(Springer) |
 | Basic Analysis: Introduction to Real Analysis | Jiří Lebl |  | [link](https://www.jirka.org/ra/) |
 | Bayesian Methods for Hackers | Cameron Davidson-Pilon |  | [link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) |
-| Book of Proof | Richard Hammack | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Book.of.Proof.-.Richard.Hammack.pdf) | [link](https://richardhammack.github.io/BookOfProof/Main.pdf) |
+| Book of Proof | Richard Hammack | [PDF](books/subjects/Mathematics/Book.of.Proof.-.Richard.Hammack.pdf) | [link](https://richardhammack.github.io/BookOfProof/Main.pdf) |
 | Category Theory for the Sciences | David I. Spivak |  | [link](https://math.mit.edu/~dspivak/CT4S.pdf) |
 | CK-12 Probability and Statistics - Advanced |  |  | [link](https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/) |
 | Collaborative Statistics |  |  | [link](https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9) |
@@ -3256,25 +3256,25 @@
 | Computational Mathematics with SageMath | Paul Zimmermann, Alexandre Casamayou, Nathann Cohen, Guillaume Connan, et al. |  | [link](https://www.sagemath.org/sagebook/) |
 | Concepts & Applications of Inferential Statistics |  |  | [link](http://vassarstats.net/textbook/) |
 | Convex Optimization | Stephen Boyd, Lieven Vandenberghe |  | [link](https://web.stanford.edu/~boyd/cvxbook) |
-| Coordinate Geometry (1911) | Henry Buchard Fine, Henry Dallas Thompson | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Coordinate.Geometry.1911.-.Henry.Buchard.Fine.Henry.Dallas.Thompson.pdf) | [link](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) |
+| Coordinate Geometry (1911) | Henry Buchard Fine, Henry Dallas Thompson | [PDF](books/subjects/Mathematics/Coordinate.Geometry.1911.-.Henry.Buchard.Fine.Henry.Dallas.Thompson.pdf) | [link](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) |
 | Differential Equations | Paul Dawkins |  | [link](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx) |
-| Differential Equations (1922) | H. B. Phillips | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Differential.Equations.1922.-.H..B..Phillips.pdf) | [link](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) |
+| Differential Equations (1922) | H. B. Phillips | [PDF](books/subjects/Mathematics/Differential.Equations.1922.-.H..B..Phillips.pdf) | [link](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) |
 | Discrete Mathematics: An Open Introduction | Oscar Levin |  | [link](https://discrete.openmathbooks.org/dmoi3.html) |
 | Discrete Mathematics: First and Second Course | Edward A. Bender, S. Gill Williamson |  | [link](https://cseweb.ucsd.edu/~gill/BWLectSite/) |
-| Elementary Differential Equations | William F. Trench | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Elementary.Differential.Equations.-.William.F..Trench.pdf) | [link](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) |
+| Elementary Differential Equations | William F. Trench | [PDF](books/subjects/Mathematics/Elementary.Differential.Equations.-.William.F..Trench.pdf) | [link](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) |
 | Elementary Differential Equations (with Boundary Value Problems) | William F. Trench |  | [link](https://digitalcommons.trinity.edu/mono/9/) |
 | Elementary Number Theory: Primes, Congruences, and Secrets | William Stein |  | [link](https://wstein.org/ent/) |
 | Elementary Real Analysis | Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner |  | [link](https://www.classicalrealanalysis.info/com/Elementary-Real-Analysis.php) |
 | Essentials of Metaheuristics | Sean Luke |  | [link](https://cs.gmu.edu/~sean/book/metaheuristics/) |
 | Foundations of Combinatorics with Applications | Edward A. Bender, S. Gill Williamson |  | [link](https://www.math.ucsd.edu/~ebender/CombText/) |
-| Foundations of Constructive Probability Theory | Yuen-Kwok Chan | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Foundations.of.Constructive.Probability.Theory.-.Yuen-Kwok.Chan.pdf) | [link](https://arxiv.org/pdf/1906.01803.pdf) |
+| Foundations of Constructive Probability Theory | Yuen-Kwok Chan | [PDF](books/subjects/Mathematics/Foundations.of.Constructive.Probability.Theory.-.Yuen-Kwok.Chan.pdf) | [link](https://arxiv.org/pdf/1906.01803.pdf) |
 | Fundamentals of Quantitative Analysis | Danielle Zhu |  | [link](https://psyteachr.github.io/quant-fun-v3/) |
 | Geometry with an Introduction to Cosmic Topology | Michael P. Hitchman |  | [link](https://mphitchman.com) |
 | Graph Theory |  |  | [link](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) |
 | Guide to Discrete Mathematics | David Gries, Fred B. Schneider |  | [link](https://core.ac.uk/download/pdf/326762636.pdf) |
 | How We Got from There to Here: A Story of Real Analysis | Robert Rogers, Eugene Boman |  | [link](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) |
 | Introduction to Modern Statistics | Mine Çetinkaya-Rundel, Johanna Hardin |  | [link](https://openintro-ims.netlify.app) |
-| Introduction to Probability | Charles M. Grinstead, J. Laurie Snell | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Introduction.to.Probability.-.Charles.M..Grinstead.J..Laurie.Snell.pdf) | [link](https://math.dartmouth.edu/~prob/prob/prob.pdf) |
+| Introduction to Probability | Charles M. Grinstead, J. Laurie Snell | [PDF](books/subjects/Mathematics/Introduction.to.Probability.-.Charles.M..Grinstead.J..Laurie.Snell.pdf) | [link](https://math.dartmouth.edu/~prob/prob/prob.pdf) |
 | Introduction to Probability and Statistics Spring 2022 |  |  | [link](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) |
 | Introduction to Proofs | Jim Hefferon |  | [link](http://joshua.smcvt.edu/proofs/) |
 | Introduction to Real Analysis | William F. Trench |  | [link](https://digitalcommons.trinity.edu/mono/7/) |
@@ -3282,9 +3282,9 @@
 | Introductory Statistics for the Life and Biomedical Sciences | Julie Vu, David Harrington |  | [link](https://www.openintro.org/book/isrs/) |
 | Kalman and Bayesian Filters in Python |  |  | [link](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) |
 | Knapsack Problems - Algorithms and Computer Implementations | Silvano Martello, Paolo Toth |  | [link](http://www.or.deis.unibo.it/knapsack.html) |
-| Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics | Jonathan A. Poritz | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Lies.Damned.Lies.or.Statistics.How.to.Tell.the.Truth.with.Statistics.-.Jonathan.A..Poritz.pdf) | [link](https://www.poritz.net/jonathan/share/ldlos.pdf) |
+| Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics | Jonathan A. Poritz | [PDF](books/subjects/Mathematics/Lies.Damned.Lies.or.Statistics.How.to.Tell.the.Truth.with.Statistics.-.Jonathan.A..Poritz.pdf) | [link](https://www.poritz.net/jonathan/share/ldlos.pdf) |
 | Linear Methods of Applied Mathematics | Evans M. Harrell II, James V. Herod |  | [link](http://www.mathphysics.com/pde) |
-| Magic Squares and Cubes (1917) | W. S. Anderson | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Magic.Squares.and.Cubes.1917.-.W..S..Anderson.pdf) | [link](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) |
+| Magic Squares and Cubes (1917) | W. S. Anderson | [PDF](books/subjects/Mathematics/Magic.Squares.and.Cubes.1917.-.W..S..Anderson.pdf) | [link](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) |
 | Math in Society | David Lippman |  | [link](https://www.opentextbookstore.com/mathinsociety/) |
 | Mathematical Analysis I | Elias Zakon |  | [link](http://www.trillia.com/zakon-analysisI.html) |
 | Mathematical Discovery | Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner |  | [link](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) |
@@ -3299,23 +3299,23 @@
 | Online Statistics Education | David Lane |  | [link](https://onlinestatbook.com) |
 | OpenIntro Statistics | David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel |  | [link](https://www.openintro.org/stat/textbook.php) |
 | Ordinary Differential Equations | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) |
-| Plane Geometry (1913) | George Wentworth, David Eugene Smith | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Plane.Geometry.1913.-.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) |
-| Planes and Spherical Trigonometry (1915) | George Wentworth, David Eugene Smith | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Planes.and.Spherical.Trigonometry.1915.-.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) |
+| Plane Geometry (1913) | George Wentworth, David Eugene Smith | [PDF](books/subjects/Mathematics/Plane.Geometry.1913.-.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) |
+| Planes and Spherical Trigonometry (1915) | George Wentworth, David Eugene Smith | [PDF](books/subjects/Mathematics/Planes.and.Spherical.Trigonometry.1915.-.George.Wentworth.David.Eugene.Smith.pdf) | [link](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) |
 | Probability and Statistics Cookbook |  |  | [link](http://statistics.zone) |
 | Probability and Statistics EBook |  |  | [link](https://wiki.socr.umich.edu/index.php/Probability_and_statistics_EBook) |
 | Probability: Lectures and Labs | Mark Huber |  | [link](https://www.markhuberdatascience.org/probability-textbook) |
 | Proofs and Types | Jean-Yves Girard, Yves Lafont, Paul Taylor |  | [link](https://www.paultaylor.eu/stable/Proofs+Types) |
-| Recreations in Math | H. E. Licks | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Recreations.in.Math.-.H..E..Licks.pdf) | [link](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) |
+| Recreations in Math | H. E. Licks | [PDF](books/subjects/Mathematics/Recreations.in.Math.-.H..E..Licks.pdf) | [link](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) |
 | Sage for Undergraduates | Gregory Bard |  | [link](http://www.gregorybard.com/books.html) |
-| Seven Sketches in Compositionality: An Invitation to Applied Category Theory | Brendan Fong, David I. Spivak | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Seven.Sketches.in.Compositionality.An.Invitation.to.Applied.Category.Theory.-.Brendan.Fong.David.I..Spivak.pdf) | [link](https://arxiv.org/pdf/1803.05316.pdf) |
+| Seven Sketches in Compositionality: An Invitation to Applied Category Theory | Brendan Fong, David I. Spivak | [PDF](books/subjects/Mathematics/Seven.Sketches.in.Compositionality.An.Invitation.to.Applied.Category.Theory.-.Brendan.Fong.David.I..Spivak.pdf) | [link](https://arxiv.org/pdf/1803.05316.pdf) |
 | Statistical Thinking for the 21st Century | Russell A. Poldrack |  | [link](https://statsthinking21.org) |
 | Statistics Done Wrong | Alex Reinhart |  | [link](https://www.statisticsdonewrong.com) |
 | SticiGui | Philip Stark |  | [link](https://www.stat.berkeley.edu/~stark/SticiGui/) |
 | Tea Time Numerical Analysis | Leon Q. Brin |  | [link](https://lqbrin.github.io/tea-time-numerical/) |
-| The Open Logic Text | Open Logic Project | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/The.Open.Logic.Text.-.Open.Logic.Project.pdf) | [link](https://builds.openlogicproject.org/open-logic-complete.pdf) |
+| The Open Logic Text | Open Logic Project | [PDF](books/subjects/Mathematics/The.Open.Logic.Text.-.Open.Logic.Project.pdf) | [link](https://builds.openlogicproject.org/open-logic-complete.pdf) |
 | Think Bayes: Bayesian Statistics Made Simple | Allen B. Downey |  | [link](https://www.greenteapress.com/thinkbayes/) |
 | Think Stats: Probability and Statistics for Programmers | Allen B. Downey |  | [link](https://greenteapress.com/thinkstats/) |
-| Yet Another Introductory Number Theory Textbook | Jonathan A. Poritz | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics/Yet.Another.Introductory.Number.Theory.Textbook.-.Jonathan.A..Poritz.pdf) | [link](https://www.poritz.net/jonathan/share/yaintt.pdf) |
+| Yet Another Introductory Number Theory Textbook | Jonathan A. Poritz | [PDF](books/subjects/Mathematics/Yet.Another.Introductory.Number.Theory.Textbook.-.Jonathan.A..Poritz.pdf) | [link](https://www.poritz.net/jonathan/share/yaintt.pdf) |
 
 ### Mathematics / Algebra
 
@@ -3323,29 +3323,29 @@
 |---|---|---|---|
 | A Computational Introduction to Number Theory and Algebra | Victor Shoup |  | [link](https://shoup.net/ntb/) |
 | A First Course in Linear Algebra | Rob Beezer |  | [link](http://linear.ups.edu) |
-| A Quick Steep Climb Up Linear Algebra | Stephen Davies | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/A.Quick.Steep.Climb.Up.Linear.Algebra.-.Stephen.Davies.pdf) | [link](http://stephendavies.org/quick.pdf) |
+| A Quick Steep Climb Up Linear Algebra | Stephen Davies | [PDF](books/subjects/Mathematics/Algebra/A.Quick.Steep.Climb.Up.Linear.Algebra.-.Stephen.Davies.pdf) | [link](http://stephendavies.org/quick.pdf) |
 | Abstract Algebra: Theory and Applications | Tom Judson |  | [link](http://abstract.ups.edu) |
-| Advanced Algebra | Anthony W. Knapp | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Advanced.Algebra.-.Anthony.W..Knapp.pdf) | [link](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) |
+| Advanced Algebra | Anthony W. Knapp | [PDF](books/subjects/Mathematics/Algebra/Advanced.Algebra.-.Anthony.W..Knapp.pdf) | [link](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) |
 | Algebra: Abstract and Concrete | Frederick Goodman |  | [link](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html) |
-| Algebra: An Elementary Text-Book, Part I (1904) | G. Chrystal | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Algebra.An.Elementary.Text-Book.Part.I.1904.-.G..Chrystal.pdf) | [link](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) |
-| Algebra: An Elementary Text-Book, Part II (1900) | G. Chrystal | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Algebra.An.Elementary.Text-Book.Part.II.1900.-.G..Chrystal.pdf) | [link](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) |
+| Algebra: An Elementary Text-Book, Part I (1904) | G. Chrystal | [PDF](books/subjects/Mathematics/Algebra/Algebra.An.Elementary.Text-Book.Part.I.1904.-.G..Chrystal.pdf) | [link](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) |
+| Algebra: An Elementary Text-Book, Part II (1900) | G. Chrystal | [PDF](books/subjects/Mathematics/Algebra/Algebra.An.Elementary.Text-Book.Part.II.1900.-.G..Chrystal.pdf) | [link](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) |
 | Algebraic Topology | Allen Hatcher |  | [link](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) |
-| Basic Algebra | Anthony W. Knapp | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Basic.Algebra.-.Anthony.W..Knapp.pdf) | [link](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) |
-| Basics of Algebra, Topology, and Differential Calculus |  | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
+| Basic Algebra | Anthony W. Knapp | [PDF](books/subjects/Mathematics/Algebra/Basic.Algebra.-.Anthony.W..Knapp.pdf) | [link](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) |
+| Basics of Algebra, Topology, and Differential Calculus |  | [PDF](books/subjects/Mathematics/Algebra/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
 | Beginning and Intermediate Algebra | Tyler Wallace |  | [link](http://www.wallace.ccfaculty.org/book/book.html) |
-| Course Of Linear Algebra And Multidimensional Geometry | Ruslan Sharipov(PDF) | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Course.Of.Linear.Algebra.And.Multidimensional.Geometry.-.Ruslan.Sharipov.PDF.pdf) | [link](https://arxiv.org/pdf/math/0405323) |
+| Course Of Linear Algebra And Multidimensional Geometry | Ruslan Sharipov(PDF) | [PDF](books/subjects/Mathematics/Algebra/Course.Of.Linear.Algebra.And.Multidimensional.Geometry.-.Ruslan.Sharipov.PDF.pdf) | [link](https://arxiv.org/pdf/math/0405323) |
 | Elements of Abstract and Linear Algebra | E. H. Connell |  | [link](https://www.math.miami.edu/~ec/book/) |
-| First Course in Algebra (1910) | Herbert E. Hawkes, William A. Luby, Frank C. Touton | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/First.Course.in.Algebra.1910.-.Herbert.E..Hawkes.William.A..Luby.Frank.C..Touton.pdf) | [link](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) |
+| First Course in Algebra (1910) | Herbert E. Hawkes, William A. Luby, Frank C. Touton | [PDF](books/subjects/Mathematics/Algebra/First.Course.in.Algebra.1910.-.Herbert.E..Hawkes.William.A..Luby.Frank.C..Touton.pdf) | [link](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) |
 | Lecture Notes of Linear Algebra | P. Shunmugaraj, IIT Kanpur |  | [link](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) |
 | Lecture Notes on Linear Algebra | Dr. Arbind K Lal, Sukant Pati |  | [link](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) |
-| Linear Algebra | David Cherney et al. | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Linear.Algebra.-.David.Cherney.et.al.pdf) | [link](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) |
+| Linear Algebra | David Cherney et al. | [PDF](books/subjects/Mathematics/Algebra/Linear.Algebra.-.David.Cherney.et.al.pdf) | [link](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) |
 | Linear Algebra | Jim Hefferon |  | [link](http://joshua.smcvt.edu/linearalgebra/) |
 | Linear Algebra Done Right | Sheldon Axler |  | [link](https://linear.axler.net) |
 | Linear Algebra Done Wrong | Sergei Treil |  | [link](https://www.math.brown.edu/streil/papers/LADW/LADW.html) |
 | Linear Algebra, Infinite Dimensions, and Maple | James Herod |  | [link](https://web.archive.org/web/20240313042212/https://herod.math.gatech.edu/Hspace/Hspace.html) |
 | ORCCA: Open Resources for Community College Algebra | Portland Community College |  | [link](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) |
 | Paul's Online Notes: Algebra, Calculus I-III and Differential Equations | Paul Dawkins @ Lamar University |  | [link](https://tutorial.math.lamar.edu) |
-| Second Course in Algebra | Herbert E. Hawkes, William A. Luby, Frank C. Touton | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-algebra/Second.Course.in.Algebra.-.Herbert.E..Hawkes.William.A..Luby.Frank.C..Touton.pdf) | [link](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) |
+| Second Course in Algebra | Herbert E. Hawkes, William A. Luby, Frank C. Touton | [PDF](books/subjects/Mathematics/Algebra/Second.Course.in.Algebra.-.Herbert.E..Hawkes.William.A..Luby.Frank.C..Touton.pdf) | [link](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) |
 
 ### Mathematics / Calculus
 
@@ -3353,7 +3353,7 @@
 |---|---|---|---|
 | Active Calculus | Matt Boelkins |  | [link](https://scholarworks.gvsu.edu/books/20/) |
 | APEX Calculus | Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar |  | [link](https://www.apexcalculus.com) |
-| Basics of Algebra, Topology, and Differential Calculus |  | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-calculus/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
+| Basics of Algebra, Topology, and Differential Calculus |  | [PDF](books/subjects/Mathematics/Calculus/Basics.of.Algebra.Topology.and.Differential.Calculus.pdf) | [link](https://www.cis.upenn.edu/~jean/math-basics.pdf) |
 | Calculus | Gilbert Strang |  | [link](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/) |
 | Calculus I | Jerrold E. Marsden, Alan Weinstein |  | [link](https://resolver.caltech.edu/CaltechBOOK:1985.001) |
 | Calculus in Context | James Callahan |  | [link](http://www.math.smith.edu/~callahan/intromine.html) |
@@ -3365,7 +3365,7 @@
 | CLP-2 Integral Calculus | Joel Feldman, Andrew Rechnitzer, Elyse Yeager |  | [link](https://www.math.ubc.ca/~CLP/CLP2/) |
 | CLP-3 Multivariable Calculus | Joel Feldman, Andrew Rechnitzer, Elyse Yeager |  | [link](https://www.math.ubc.ca/~CLP/CLP3/) |
 | CLP-4 Vector Calculus | Joel Feldman, Andrew Rechnitzer, Elyse Yeager |  | [link](https://www.math.ubc.ca/~CLP/CLP4/) |
-| Elements of Differential and Integral Calculus (1911) | William Anthony Granville | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-calculus/Elements.of.Differential.and.Integral.Calculus.1911.-.William.Anthony.Granville.pdf) | [link](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) |
+| Elements of Differential and Integral Calculus (1911) | William Anthony Granville | [PDF](books/subjects/Mathematics/Calculus/Elements.of.Differential.and.Integral.Calculus.1911.-.William.Anthony.Granville.pdf) | [link](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) |
 | Multivariable Calculus | George Cain, James Herod |  | [link](https://people.math.gatech.edu/~cain/notes/calculus.html) |
 | Paul's Online Notes: Algebra, Calculus I-III and Differential Equations | Paul Dawkins @ Lamar University |  | [link](https://tutorial.math.lamar.edu) |
 | Precalculus | Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf) |  | [link](https://stitz-zeager.com) |
@@ -3381,7 +3381,7 @@
 | Exploring Math for Programmers and Data Scientists | Paul Orland |  | [link](https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/) |
 | Graph Theory Exercises | Paulo Feofiloff |  | [link](https://www.ime.usp.br/~pf/graph-exercises/) |
 | Isomorphism -- Mathematics of Programming | Larry LIU Xinyu |  | [link](https://github.com/liuxinyu95/unplugged) |
-| Mathematics for Computer Science | Eric Lehman, F. Thomson Leighton, Albert R. Meyer | [download](https://github.com/Squidly1408/programming-books/releases/download/mathematics-mathematics-for-computer-science/Mathematics.for.Computer.Science.-.Eric.Lehman.F..Thomson.Leighton.Albert.R..Meyer.pdf) | [link](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) |
+| Mathematics for Computer Science | Eric Lehman, F. Thomson Leighton, Albert R. Meyer | [PDF](books/subjects/Mathematics/Mathematics%20For%20Computer%20Science/Mathematics.for.Computer.Science.-.Eric.Lehman.F..Thomson.Leighton.Albert.R..Meyer.pdf) | [link](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) |
 | PROGRAM = PROOF | Samuel Mimram |  | [link](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) |
 
 ### Misc
@@ -3395,7 +3395,7 @@
 | Ansible Up & Running (first three chapters) |  |  | [link](https://www.ansible.com/ebooks) |
 | Asterisk™: The Definitive Guide | Leif Madsen, Jim Van Meggelen, Russell Bryant |  | [link](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) |
 | Atomic Design | Brad Frost |  | [link](https://atomicdesign.bradfrost.com) |
-| Barcode Overview |  | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Barcode.Overview.pdf) | [link](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) |
+| Barcode Overview |  | [PDF](books/subjects/Misc/Barcode.Overview.pdf) | [link](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) |
 | Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems | Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |  | [link](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
 | Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts | David Harel, Rami Marelly |  | [link](https://www.wisdom.weizmann.ac.il/~playbook/) |
 | Communicating Sequential Processes | Tony Hoare |  | [link](http://www.usingcsp.com/cspbook.pdf) |
@@ -3404,14 +3404,14 @@
 | Design With FontForge |  |  | [link](http://designwithfontforge.com/en-US/index.html) |
 | Designing Interfaces | Jennifer Tidwell |  | [link](http://designinginterfaces.com) |
 | DevDocs | Documents for Developers in 1 place |  | [link](https://devdocs.io) |
-| DevOps For Dummies, 3rd IBM Limited Edition | Sanjeev Sharma, Bernie Coyne | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/DevOps.For.Dummies.3rd.IBM.Limited.Edition.-.Sanjeev.Sharma.Bernie.Coyne.pdf) | [link](https://www.ibm.com/downloads/cas/P9NYOK3B) |
+| DevOps For Dummies, 3rd IBM Limited Edition | Sanjeev Sharma, Bernie Coyne | [PDF](books/subjects/Misc/DevOps.For.Dummies.3rd.IBM.Limited.Edition.-.Sanjeev.Sharma.Bernie.Coyne.pdf) | [link](https://www.ibm.com/downloads/cas/P9NYOK3B) |
 | Digital Signal Processing For Communications | Paolo Prandoni, Martin Vetterli |  | [link](https://www.sp4comm.org) |
 | Digital Signal Processing For Engineers and Scientists | Steven W. Smith |  | [link](https://www.dspguide.com) |
 | Digital Signal Processing in Python | Allen B. Downey |  | [link](https://greenteapress.com/wp/think-dsp) |
 | "DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software | Luis A. Enríquez |  | [link](https://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) |
 | Encyclopedia of Human Computer Interaction 2nd Edition |  |  | [link](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed) |
 | Essential Image Optimization | Addy Osmani |  | [link](https://images.guide) |
-| Foundations of Programming | Karl Seguin | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Foundations.of.Programming.-.Karl.Seguin.pdf) | [link](https://openmymind.net/FoundationsOfProgramming.pdf) |
+| Foundations of Programming | Karl Seguin | [PDF](books/subjects/Misc/Foundations.of.Programming.-.Karl.Seguin.pdf) | [link](https://openmymind.net/FoundationsOfProgramming.pdf) |
 | Front-end Debugging Tools Handbook | Lala Hakobyan |  | [link](https://github.com/lala-hakobyan/front-end-debugging-handbook) |
 | Front-End Developer Handbook 2016 | Cody Lindley |  | [link](https://frontendmasters.com/guides/front-end-handbook/2016/) |
 | Front-End Developer Handbook 2017 | Cody Lindley |  | [link](https://frontendmasters.com/guides/front-end-handbook/2017/) |
@@ -3429,8 +3429,8 @@
 | How To Manage Remote Servers with Ansible | Erika Heidi |  | [link](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) |
 | How to Think Like a Computer Scientist | Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers |  | [link](https://openbookproject.net/thinkcs/) |
 | Image Processing in C: Analyzing and Enhancing Digital Images | Dwayne Phillips |  | [link](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) |
-| Information Technology and the Networked Economy | Patrick McKeown |  | [link](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) |
-| Introduction to Scientific Programming in C++ and Fortran | Victor Eijkhout | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Introduction.to.Scientific.Programming.in.C%2B%2B.and.Fortran.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) |
+| Information Technology and the Networked Economy | Patrick McKeown | [PDF](books/subjects/Misc/Information.Technology.and.the.Networked.Economy.-.Patrick.McKeown.pdf) | [link](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) |
+| Introduction to Scientific Programming in C++ and Fortran | Victor Eijkhout | [PDF](books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) |
 | IRPF90 Fortran code generator | Anthony Scemama |  | [link](https://www.gitbook.com/book/scemama/irpf90/details) |
 | Learn Programming | Antti Salonen |  | [link](https://progbook.org) |
 | Learn to Program | Chris Pine |  | [link](https://pine.fm/LearnToProgram/) |
@@ -3444,9 +3444,9 @@
 | Object-Oriented Reengineering Patterns | Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz |  | [link](http://win.ua.ac.be/~sdemey/) |
 | Open Government; Collaboration, Transparency, and Participation in Practice | Daniel Lathrop, Laurel Ruma |  | [link](https://github.com/oreillymedia/open_government) |
 | PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology | Jeff Franz-Lien |  | [link](https://leanpub.com/PDQ) |
-| Philosophy of Computer Science |  | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Philosophy.of.Computer.Science.pdf) | [link](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) |
+| Philosophy of Computer Science |  | [PDF](books/subjects/Misc/Philosophy.of.Computer.Science.pdf) | [link](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) |
 | PNG: The Definitive Guide | Greg Roelofs |  | [link](http://www.libpng.org/pub/png/book/) |
-| Pointers And Memory | Nick Parlante | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Pointers.And.Memory.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260518211016/http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) |
+| Pointers And Memory | Nick Parlante | [PDF](books/subjects/Misc/Pointers.And.Memory.-.Nick.Parlante.pdf) | [link](https://web.archive.org/web/20260518211016/http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) |
 | Programming Fundamentals | Kenneth Leroy Busbee, Dave Braunschweig |  | [link](https://press.rebus.community/programmingfundamentals/) |
 | Programming with Unicode |  |  | [link](https://unicodebook.readthedocs.org) |
 | Real-World Maintainable Software | Abraham Marin-Perez |  | [link](https://www.oreilly.com/ideas/real-world-maintainable-software) |
@@ -3456,15 +3456,15 @@
 | Site Reliability Engineering - How Google run production systems | Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy |  | [link](https://sre.google/sre-book/table-of-contents/) |
 | Small Memory Software | Charles Weir, James Noble |  | [link](https://smallmemory.charlesweir.com/book.html) |
 | Software-Defined Radio for Engineers | Travis Collins, et al. |  | [link](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) |
-| Software Technical Writing: A Guidebook | James Gallagher | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Software.Technical.Writing.A.Guidebook.-.James.Gallagher.pdf) | [link](https://jamesg.blog/book.pdf) |
+| Software Technical Writing: A Guidebook | James Gallagher | [PDF](books/subjects/Misc/Software.Technical.Writing.A.Guidebook.-.James.Gallagher.pdf) | [link](https://jamesg.blog/book.pdf) |
 | The Art of High Perfomance Computing - Volume 1: The Science of Computing | Victor Eijkhout |  | [link](https://theartofhpc.com/istc/index.html) |
 | The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering | Victor Eijkhout |  | [link](https://theartofhpc.com/pcse/index.html) |
-| The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming | Victor Eijkhout | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) |
-| The Art of High Perfomance Computing - Volume 4: HPC Carpentry | Victor Eijkhout | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/The.Art.of.High.Perfomance.Computing.-.Volume.4.HPC.Carpentry.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) |
+| The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming | Victor Eijkhout | [PDF](books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) |
+| The Art of High Perfomance Computing - Volume 4: HPC Carpentry | Victor Eijkhout | [PDF](books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.4.HPC.Carpentry.-.Victor.Eijkhout.pdf) | [link](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) |
 | The Site Reliability Workbook - Practical Ways to Implement SRE | Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne |  | [link](https://sre.google/workbook/table-of-contents/) |
 | The Web Development Glossary |  |  | [link](https://github.com/frontenddogma/web-development-glossary) |
 | Using Z Specification, Refinement, and Proof | Jim Woodcock, Jim Davies |  | [link](http://www.usingz.com/usingz.pdf) |
-| Web Almanac |  | [download](https://github.com/Squidly1408/programming-books/releases/download/misc/Web.Almanac.pdf) | [link](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) |
+| Web Almanac |  | [PDF](books/subjects/Misc/Web.Almanac.pdf) | [link](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) |
 | Writing Native Mobile Apps in a Functional Language Succinctly | Vassili Kaplan |  | [link](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) |
 
 ### Networking
@@ -3474,7 +3474,7 @@
 | An Introduction to Computer Networks |  |  | [link](https://intronetworks.cs.luc.edu) |
 | Beej's Guide to Network Programming - Using Internet Sockets | Brian "Beej Jorgensen" Hall |  | [link](https://beej.us/guide/bgnet/) |
 | Bits, Signals, and Packets: An Introduction to Digital Communications and Networks |  |  | [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/) |
-| Code Connected vol.1 |  | [download](https://github.com/Squidly1408/programming-books/releases/download/networking/Code.Connected.vol.1.pdf) | [link](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) |
+| Code Connected vol.1 |  | [PDF](books/subjects/Networking/Code.Connected.vol.1.pdf) | [link](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) |
 | Computer Networking : Principles, Protocols and Practice |  |  | [link](https://www.computer-networking.info) |
 | Computer Networks: A Systems Approach | Larry Peterson, Bruce Davie |  | [link](https://book.systemsapproach.org) |
 | Distributed systems for fun and profit |  |  | [link](https://book.mixu.net/distsys/single-page.html) |
@@ -3485,24 +3485,24 @@
 | Introduction to HTTP | Launch School |  | [link](https://launchschool.com/books/http) |
 | IPv6 for IPv4 Experts | Yar Tikhiy |  | [link](https://sites.google.com/site/yartikhiy/home/ipv6book) |
 | Kafka gentle introduction | Mitch Seymour |  | [link](https://www.gentlydownthe.stream) |
-| Kafka, The definitive Guide | Neha Narkhede | [download](https://github.com/Squidly1408/programming-books/releases/download/networking/Kafka.The.definitive.Guide.-.Neha.Narkhede.pdf) | [link](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) |
+| Kafka, The definitive Guide | Neha Narkhede | [PDF](books/subjects/Networking/Kafka.The.definitive.Guide.-.Neha.Narkhede.pdf) | [link](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) |
 | Linux IP Stacks Commentary | Stephen Satchell, H. B. J. Clifford |  | [link](https://www.satchell.net/ipstacks/) |
-| Linux Networking | Paul Cobbaut | [download](https://github.com/Squidly1408/programming-books/releases/download/networking/Linux.Networking.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxnet.pdf) |
+| Linux Networking | Paul Cobbaut | [PDF](books/subjects/Networking/Linux.Networking.-.Paul.Cobbaut.pdf) | [link](https://linux-training.be/linuxnet.pdf) |
 | Mininet Walkthrough |  |  | [link](https://mininet.org/walkthrough/) |
 | Network Science | Albert-Laszló Barabási |  | [link](http://networksciencebook.com) |
 | Networking! ACK! | Julia Evans |  | [link](https://wizardzines.com/zines/networking/) |
 | Securing Wireless Networks for the Home User Guide | Mohamed Adel |  | [link](https://mohamedation.com/securing-wifi/en/) |
 | The TCP/IP Guide |  |  | [link](http://www.tcpipguide.com/free/t_toc.htm) |
-| Understanding IP Addressing: Everything you ever wanted to know |  | [download](https://github.com/Squidly1408/programming-books/releases/download/networking/Understanding.IP.Addressing.Everything.you.ever.wanted.to.know.pdf) | [link](http://pages.di.unipi.it/ricci/501302.pdf) |
+| Understanding IP Addressing: Everything you ever wanted to know |  | [PDF](books/subjects/Networking/Understanding.IP.Addressing.Everything.you.ever.wanted.to.know.pdf) | [link](http://pages.di.unipi.it/ricci/501302.pdf) |
 | ZeroMQ Guide |  |  | [link](https://zguide.zeromq.org) |
 
 ### Object Oriented Programming
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| Object Oriented Programming | Robert Harle | [download](https://github.com/Squidly1408/programming-books/releases/download/object-oriented-programming/Object.Oriented.Programming.-.Robert.Harle.pdf) | [link](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) |
-| OOP – Learn Object Oriented Thinking and Programming | Rudolf Pecinovsky | [download](https://github.com/Squidly1408/programming-books/releases/download/object-oriented-programming/OOP.Learn.Object.Oriented.Thinking.and.Programming.-.Rudolf.Pecinovsky.pdf) | [link](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) |
-| Principles of Object-Oriented Programming | Stephen Wong, Dung Nguyen, Mark Husband | [download](https://github.com/Squidly1408/programming-books/releases/download/object-oriented-programming/Principles.of.Object-Oriented.Programming.-.Stephen.Wong.Dung.Nguyen.Mark.Husband.pdf) | [link](https://www.opentextbooks.org.hk/system/files/export/8/8163/pdf/Principles_of_ObjectOriented_Programming_8163_r.pdf) |
+| Object Oriented Programming | Robert Harle | [PDF](books/subjects/Object%20Oriented%20Programming/Object.Oriented.Programming.-.Robert.Harle.pdf) | [link](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) |
+| OOP – Learn Object Oriented Thinking and Programming | Rudolf Pecinovsky | [PDF](books/subjects/Object%20Oriented%20Programming/OOP.Learn.Object.Oriented.Thinking.and.Programming.-.Rudolf.Pecinovsky.pdf) | [link](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) |
+| Principles of Object-Oriented Programming | Stephen Wong, Dung Nguyen, Mark Husband | [PDF](books/subjects/Object%20Oriented%20Programming/Principles.of.Object-Oriented.Programming.-.Stephen.Wong.Dung.Nguyen.Mark.Husband.pdf) | [link](https://www.opentextbooks.org.hk/system/files/export/8/8163/pdf/Principles_of_ObjectOriented_Programming_8163_r.pdf) |
 
 ### Open Source Ecosystem
 
@@ -3515,11 +3515,11 @@
 | Free for All | Peter Wayner |  | [link](https://unglue.it/work/136445/) |
 | Free Software, Free Society: Selected Essays of Richard M. Stallman |  |  | [link](https://shop.fsf.org/product/free-software-free-society-2/) |
 | Getting Started with InnerSource |  |  | [link](https://www.oreilly.com/programming/free/getting-started-with-innersource.csp) |
-| Getting started with Open source development |  | [download](https://github.com/Squidly1408/programming-books/releases/download/open-source-ecosystem/Getting.started.with.Open.source.development.pdf) | [link](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) |
+| Getting started with Open source development |  | [PDF](books/subjects/Open%20Source%20Ecosystem/Getting.started.with.Open.source.development.pdf) | [link](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) |
 | GitLab Handbook |  |  | [link](https://about.gitlab.com/handbook/) |
 | How to get started with open source |  |  | [link](https://opensource.com/resources/ebook/how-get-started-open-source) |
 | Innovation Happens Elsewhere | Ron Goldman, Richard P. Gabriel |  | [link](https://dreamsongs.com/IHE/IHE.html) |
-| Introduction to Networking | Charles Severance | [download](https://github.com/Squidly1408/programming-books/releases/download/open-source-ecosystem/Introduction.to.Networking.-.Charles.Severance.pdf) | [link](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) |
+| Introduction to Networking | Charles Severance | [PDF](books/subjects/Open%20Source%20Ecosystem/Introduction.to.Networking.-.Charles.Severance.pdf) | [link](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) |
 | Open Advice: FOSS: What We Wish We Had Known When We Started |  |  | [link](http://open-advice.org) |
 | Open Source Essentials | by Linux Professional Institute |  | [link](https://learning.lpi.org/en/learning-materials/050-100/) |
 | Open source in Brazil | Andy Oram |  | [link](https://www.oreilly.com/ideas/open-source-in-brazil) |
@@ -3536,7 +3536,7 @@
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| A short introduction to operating systems (2001) | Mark Burgess | [download](https://github.com/Squidly1408/programming-books/releases/download/operating-systems/A.short.introduction.to.operating.systems.2001.-.Mark.Burgess.pdf) | [link](https://markburgess.org/os/os.pdf) |
+| A short introduction to operating systems (2001) | Mark Burgess | [PDF](books/subjects/Operating%20Systems/A.short.introduction.to.operating.systems.2001.-.Mark.Burgess.pdf) | [link](https://markburgess.org/os/os.pdf) |
 | Computer Science from the Bottom Up | Ian Wienand |  | [link](https://www.bottomupcs.com) |
 | Flexible Operating System Internals: The Design and Implementation of the Anykernel and Rump Kernels | Antti Kantee |  | [link](https://aaltodoc.aalto.fi/handle/123456789/6318) |
 | How to Make a Computer Operating System | Samy Pesse |  | [link](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) |
@@ -3545,7 +3545,7 @@
 | Making Servers Work: A Practical Guide to Linux System Administration | Jamon Camisso |  | [link](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) |
 | Operating Systems: From 0 to 1 | Tu, Ho Doang |  | [link](https://github.com/tuhdo/os01/releases/tag/0.0.1) |
 | Operating Systems: Three Easy Pieces | Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau |  | [link](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
-| Practical File System Design: The Be File System | Dominic Giampaolo | [download](https://github.com/Squidly1408/programming-books/releases/download/operating-systems/Practical.File.System.Design.The.Be.File.System.-.Dominic.Giampaolo.pdf) | [link](https://www.nobius.org/~dbg/practical-file-system-design.pdf) |
+| Practical File System Design: The Be File System | Dominic Giampaolo | [PDF](books/subjects/Operating%20Systems/Practical.File.System.Design.The.Be.File.System.-.Dominic.Giampaolo.pdf) | [link](https://www.nobius.org/~dbg/practical-file-system-design.pdf) |
 | Project Oberon: The Design of an Operating System, a Compiler, and a Computer | Niklaus Wirth, Jürg Gutknecht |  | [link](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) |
 | The Art of Unix Programming | Eric S. Raymond |  | [link](http://catb.org/esr/writings/taoup/html/) |
 | The Little Book About OS Development | Erik Helin, Adam Renberg - |  | [link](https://littleosbook.github.io) |
@@ -3580,11 +3580,11 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Clean Code Developer: An initiative for more professionalism in software development |  |  | [link](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) |
-| Confessions of an IT Manager | Phil Factor | [download](https://github.com/Squidly1408/programming-books/releases/download/professional-development/Confessions.of.an.IT.Manager.-.Phil.Factor.pdf) | [link](https://assets.red-gate.com/community/books/confessions-of-an-it-manager-ebook.pdf) |
-| Don't Just Roll the Dice | Neil Davidson | [download](https://github.com/Squidly1408/programming-books/releases/download/professional-development/Don.t.Just.Roll.the.Dice.-.Neil.Davidson.pdf) | [link](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf) |
+| Confessions of an IT Manager | Phil Factor | [PDF](books/subjects/Professional%20Development/Confessions.of.an.IT.Manager.-.Phil.Factor.pdf) | [link](https://assets.red-gate.com/community/books/confessions-of-an-it-manager-ebook.pdf) |
+| Don't Just Roll the Dice | Neil Davidson | [PDF](books/subjects/Professional%20Development/Don.t.Just.Roll.the.Dice.-.Neil.Davidson.pdf) | [link](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf) |
 | How to Do What You Love & Earn What You’re Worth as a Programmer | Reginald Braithwaite |  | [link](https://leanpub.com/dowhatyoulove/read) |
 | How to Learn to Code & Get a Developer Job in 2023 | Quincy Larson |  | [link](https://www.freecodecamp.org/news/learn-to-code-book) |
-| How to Stand Out as a Software Engineer | Landry Monga | [download](https://github.com/Squidly1408/programming-books/releases/download/professional-development/How.to.Stand.Out.as.a.Software.Engineer.-.Landry.Monga.pdf) | [link](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) |
+| How to Stand Out as a Software Engineer | Landry Monga | [PDF](books/subjects/Professional%20Development/How.to.Stand.Out.as.a.Software.Engineer.-.Landry.Monga.pdf) | [link](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) |
 | Professional Software Development For Students | Mike G. Miller |  | [link](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) |
 | Software Engineering at Google | Titus Winters, Tom Manshreck, Hyrum Wright |  | [link](https://abseil.io/resources/swe-book) |
 | Software Environment Concepts | Amr Elmohamady |  | [link](https://softwareconcepts.vercel.app) |
@@ -3604,8 +3604,8 @@
 | Principled Programming / Introduction to Coding in Any Imperative Language | Tim Teitelbaum |  | [link](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) |
 | Programming and Programming Languages | Shriram Krishnamurthi |  | [link](https://papl.cs.brown.edu/2019/) |
 | Programming Languages: Application and Interpretation (2nd Edition) | Shriram Krishnamurthi |  | [link](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) |
-| Programming Languages: Application and Interpretation (3rd Edition) | Shiriram Krishnamurthi | [download](https://github.com/Squidly1408/programming-books/releases/download/programming/Programming.Languages.Application.and.Interpretation.3rd.Edition.-.Shiriram.Krishnamurthi.pdf) | [link](https://www.plai.org/3/5/plai-v325.pdf) |
-| Structure and Interpretation of Computer Programs | Harold Abelson, Gerald Jay Sussman, Julie Sussman | [download](https://github.com/Squidly1408/programming-books/releases/download/programming/Structure.and.Interpretation.of.Computer.Programs.-.Harold.Abelson.Gerald.Jay.Sussman.Julie.Sussman.pdf) | [link](https://web.mit.edu/6.001/6.037/sicp.pdf) |
+| Programming Languages: Application and Interpretation (3rd Edition) | Shiriram Krishnamurthi | [PDF](books/subjects/Programming/Programming.Languages.Application.and.Interpretation.3rd.Edition.-.Shiriram.Krishnamurthi.pdf) | [link](https://www.plai.org/3/5/plai-v325.pdf) |
+| Structure and Interpretation of Computer Programs | Harold Abelson, Gerald Jay Sussman, Julie Sussman | [PDF](books/subjects/Programming/Structure.and.Interpretation.of.Computer.Programs.-.Harold.Abelson.Gerald.Jay.Sussman.Julie.Sussman.pdf) | [link](https://web.mit.edu/6.001/6.037/sicp.pdf) |
 | Structure and Interpretation of Computer Programs | Harold Abelson, Gerald Jay Sussman, Julie Sussman |  | [link](https://sarabander.github.io/sicp/html/index.xhtml) |
 | The Black Art of Programming | Mark McIlroy |  | [link](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) |
 | The Craft of Programming | John C. Reynolds |  | [link](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) |
@@ -3620,7 +3620,7 @@
 | Flow based Programming | J Paul Morrison |  | [link](https://jpaulmorrison.com/fbp/) |
 | Introduction to Functional Programming | J. Harrison |  | [link](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) |
 | Learn Functional Programming | G. Jovic |  | [link](https://learn-functional-programming.com) |
-| Making Sense of Stream Processing | Martin Kleppmann | [download](https://github.com/Squidly1408/programming-books/releases/download/programming-paradigms/Making.Sense.of.Stream.Processing.-.Martin.Kleppmann.pdf) | [link](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) |
+| Making Sense of Stream Processing | Martin Kleppmann | [PDF](books/subjects/Programming%20Paradigms/Making.Sense.of.Stream.Processing.-.Martin.Kleppmann.pdf) | [link](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) |
 | Mostly Adequate Guide to Functional Programming | Mostly Adequate Core Team |  | [link](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) |
 | The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory | Lin Pengcheng |  | [link](https://github.com/linpengcheng/PurefunctionPipelineDataflow) |
 | Type Theory and Functional Programming | Simon Thompson |  | [link](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) |
@@ -3633,7 +3633,7 @@
 | Delta: Closing the Specification Gap | Sandeep Dhuri |  | [link](https://acuity.press) |
 | Guide to Prompt Engineering | CodeAhoy |  | [link](https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/) |
 | LLM Prompt Engineering Simplified Book | Katikapalli Subramanyam Kalyan |  | [link](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) |
-| Prompt Engineering | Lee Boonstra | [download](https://github.com/Squidly1408/programming-books/releases/download/prompt-engineering/Prompt.Engineering.-.Lee.Boonstra.pdf) | [link](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) |
+| Prompt Engineering | Lee Boonstra | [PDF](books/subjects/Prompt%20Engineering/Prompt.Engineering.-.Lee.Boonstra.pdf) | [link](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) |
 | Prompt Engineering Guide | LearnPrompting |  | [link](https://learnprompting.org/docs/introduction) |
 | Prompt Engineering Guide | DAIR.AI |  | [link](https://www.promptingguide.ai) |
 
@@ -3642,11 +3642,11 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Introduction to Classical and Quantum Computing | Thomas G. Wong |  | [link](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) |
-| Introduction to Quantum Information | Stephen M. Barnett | [download](https://github.com/Squidly1408/programming-books/releases/download/quantum-computing/Introduction.to.Quantum.Information.-.Stephen.M..Barnett.pdf) | [link](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) |
+| Introduction to Quantum Information | Stephen M. Barnett | [PDF](books/subjects/Quantum%20Computing/Introduction.to.Quantum.Information.-.Stephen.M..Barnett.pdf) | [link](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) |
 | Learn Quantum Computation using Qiskit | Frank Harkins, et al. |  | [link](https://qiskit.org/textbook/preface.html) |
-| Quantum Algorithms | Michele Mosca | [download](https://github.com/Squidly1408/programming-books/releases/download/quantum-computing/Quantum.Algorithms.-.Michele.Mosca.pdf) | [link](https://arxiv.org/pdf/0808.0369v1) |
+| Quantum Algorithms | Michele Mosca | [PDF](books/subjects/Quantum%20Computing/Quantum.Algorithms.-.Michele.Mosca.pdf) | [link](https://arxiv.org/pdf/0808.0369v1) |
 | Quantum Computing for the Quantum Curious | Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner |  | [link](https://link.springer.com/book/10.1007/978-3-030-61601-4) |
-| Quantum Information Theory | Mark M. Wilde | [download](https://github.com/Squidly1408/programming-books/releases/download/quantum-computing/Quantum.Information.Theory.-.Mark.M..Wilde.pdf) | [link](https://markwilde.com/qit-notes.pdf) |
+| Quantum Information Theory | Mark M. Wilde | [PDF](books/subjects/Quantum%20Computing/Quantum.Information.Theory.-.Mark.M..Wilde.pdf) | [link](https://markwilde.com/qit-notes.pdf) |
 | The Functional Analysis of Quantum Information Theory | Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder |  | [link](https://arxiv.org/abs/1410.7188) |
 
 ### Regular Expressions
@@ -3687,12 +3687,12 @@
 | Cryptography | Wikibooks |  | [link](https://en.wikibooks.org/wiki/Cryptography) |
 | CryptoParty Handbook |  |  | [link](https://unglue.it/work/141611/) |
 | Fuzzing Book | Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler |  | [link](https://www.fuzzingbook.org) |
-| Gray Hat Hacking: The Ethical Hacker's Handbook | Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams | [download](https://github.com/Squidly1408/programming-books/releases/download/security-privacy/Gray.Hat.Hacking.The.Ethical.Hacker.s.Handbook.-.Allen.Harper.Jonathan.Ness.Chris.Eagle.Shon.Harris.Gideon.Lenkey.Terron.pdf) | [link](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) |
+| Gray Hat Hacking: The Ethical Hacker's Handbook | Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams | [PDF](books/subjects/Security%20%26%20Privacy/Gray.Hat.Hacking.The.Ethical.Hacker.s.Handbook.-.Allen.Harper.Jonathan.Ness.Chris.Eagle.Shon.Harris.Gideon.Lenkey.Terron.pdf) | [link](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) |
 | Handbook of Applied Cryptography |  |  | [link](https://cacr.uwaterloo.ca/hac/index.html) |
 | How HTTPS works | dnsimple |  | [link](https://howhttps.works) |
 | How to deal with Passwords |  |  | [link](https://github.com/MHM5000/pass) |
 | Information Security Management | Marcos Sêmola |  | [link](https://www.infosecuritybook.com) |
-| Intrusion Detection Systems with Snort |  | [download](https://github.com/Squidly1408/programming-books/releases/download/security-privacy/Intrusion.Detection.Systems.with.Snort.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) |
+| Intrusion Detection Systems with Snort |  | [PDF](books/subjects/Security%20%26%20Privacy/Intrusion.Detection.Systems.with.Snort.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) |
 | Modern Cryptography Volume 1: A Classical Introduction | Zhiyong Zheng, Kun Tian, Fengxia Liu |  | [link](https://link.springer.com/book/10.1007/978-981-19-0920-7) |
 | Modern Cryptography Volume 2: A Classical Introduction | Zhiyong Zheng, Kun Tian, Fengxia Liu |  | [link](https://link.springer.com/book/10.1007/978-981-19-7644-5) |
 | Network Security | OpenLearn |  | [link](https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable) |
@@ -3705,7 +3705,7 @@
 | SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders | Alex Yarotsky |  | [link](https://leanpub.com/secops-bit-by-bit) |
 | Security Engineering |  |  | [link](https://www.cl.cam.ac.uk/~rja14/book.html) |
 | Security Essentials | by Linux Professional Institute |  | [link](https://learning.lpi.org/en/learning-materials/020-100/) |
-| The Joy of Cryptography (2021) | Mike Rosulek | [download](https://github.com/Squidly1408/programming-books/releases/download/security-privacy/The.Joy.of.Cryptography.2021.-.Mike.Rosulek.pdf) | [link](https://joyofcryptography.com/pdf/book.pdf) |
+| The Joy of Cryptography (2021) | Mike Rosulek | [PDF](books/subjects/Security%20%26%20Privacy/The.Joy.of.Cryptography.2021.-.Mike.Rosulek.pdf) | [link](https://joyofcryptography.com/pdf/book.pdf) |
 | The MoonMath Manual to zk-SNARKs | Least Authority |  | [link](https://leastauthority.com/community-matters/moonmath-manual/) |
 | The SELINUX Coloring Book | Daniel J Walsh, Máirín Duffy |  | [link](https://github.com/mairin/selinux-coloring-book) |
 | The SELinux Notebook | Richard Haines, Paul Moore, SELinux Community |  | [link](https://github.com/SELinuxProject/selinux-notebook) |
@@ -3719,9 +3719,9 @@
 | Architectural Styles and the Design of Network-based Software Architectures | Roy Thomas Fielding |  | [link](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) |
 | Best Kept Secrets of Peer Code Review |  |  | [link](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/) |
 | Building Secure & Reliable Systems | Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |  | [link](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) |
-| Code Simplicity: The Fundamentals of Software | Max Kanat-Alexander | [download](https://github.com/Squidly1408/programming-books/releases/download/software-architecture/Code.Simplicity.The.Fundamentals.of.Software.-.Max.Kanat-Alexander.pdf) | [link](https://www.codesimplicity.com/book.pdf) |
+| Code Simplicity: The Fundamentals of Software | Max Kanat-Alexander | [PDF](books/subjects/Software%20Architecture/Code.Simplicity.The.Fundamentals.of.Software.-.Max.Kanat-Alexander.pdf) | [link](https://www.codesimplicity.com/book.pdf) |
 | Data-Oriented Design |  |  | [link](https://www.dataorienteddesign.com/dodmain/dodmain.html) |
-| Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka | Ben Stopford | [download](https://github.com/Squidly1408/programming-books/releases/download/software-architecture/Designing.Event-Driven.Systems..Concepts.and.Patterns.for.Streaming.Services.with.Apache.Kafka.-.Ben.Stopford.pdf) | [link](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) |
+| Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka | Ben Stopford | [PDF](books/subjects/Software%20Architecture/Designing.Event-Driven.Systems..Concepts.and.Patterns.for.Streaming.Services.with.Apache.Kafka.-.Ben.Stopford.pdf) | [link](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) |
 | Developing Reactive Microservices |  |  | [link](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) |
 | Domain Driven Design Quickly |  |  | [link](https://www.infoq.com/minibooks/domain-driven-design-quickly) |
 | Domain-Driven Design Reference | Eric Evans |  | [link](https://www.domainlanguage.com/ddd/reference) |
@@ -3734,7 +3734,7 @@
 | How to Write Unmaintainable Code |  |  | [link](https://mindprod.com/jgloss/unmain.html) |
 | Kanban and Scrum - making the most of both |  |  | [link](https://www.infoq.com/minibooks/kanban-scrum-minibook) |
 | Load-Bearing: Which Software Principles Hold, and Where They Stop | Mike Akdeniz |  | [link](https://github.com/mike-akdeniz/load-bearing) |
-| Microservices AntiPatterns and Pitfalls | Mark Richards | [download](https://github.com/Squidly1408/programming-books/releases/download/software-architecture/Microservices.AntiPatterns.and.Pitfalls.-.Mark.Richards.pdf) | [link](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) |
+| Microservices AntiPatterns and Pitfalls | Mark Richards | [PDF](books/subjects/Software%20Architecture/Microservices.AntiPatterns.and.Pitfalls.-.Mark.Richards.pdf) | [link](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) |
 | Microservices vs. Service-Oriented Architecture | Mark Richards |  | [link](https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/) |
 | Migrating to Cloud-Native Application Architectures |  |  | [link](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) |
 | Naked objects | Richard Pawson |  | [link](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) |
@@ -3775,11 +3775,11 @@
 | Book | Author | Copy | Original |
 |---|---|---|---|
 | Building Blocks for Theoretical Computer Science | Margaret M. Fleck |  | [link](https://mfleck.cs.illinois.edu/building-blocks/index.html) |
-| Category Theory for Computing Science |  | [download](https://github.com/Squidly1408/programming-books/releases/download/theoretical-computer-science/Category.Theory.for.Computing.Science.pdf) | [link](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) |
+| Category Theory for Computing Science |  | [PDF](books/subjects/Theoretical%20Computer%20Science/Category.Theory.for.Computing.Science.pdf) | [link](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) |
 | Category Theory for Programmers | Bartosz Milewski |  | [link](https://github.com/hmemcpy/milewski-ctfp-pdf) |
 | Delftse Foundations of Computation | Stefan Hugtenburgand, Neil Yorke-Smith @ TU Delft Open |  | [link](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) |
 | Homotopy Type Theory: Univalent Foundations of Mathematics |  |  | [link](https://homotopytypetheory.org/book/) |
-| Introduction to Theoretical Computer Science | Boaz Barak | [download](https://github.com/Squidly1408/programming-books/releases/download/theoretical-computer-science/Introduction.to.Theoretical.Computer.Science.-.Boaz.Barak.pdf) | [link](https://files.boazbarak.org/introtcs/lnotes_book.pdf) |
+| Introduction to Theoretical Computer Science | Boaz Barak | [PDF](books/subjects/Theoretical%20Computer%20Science/Introduction.to.Theoretical.Computer.Science.-.Boaz.Barak.pdf) | [link](https://files.boazbarak.org/introtcs/lnotes_book.pdf) |
 | Introduction to Theory of Computation | Anil Maheshwari, Michiel Smid |  | [link](https://cglab.ca/~michiel/TheoryOfComputation/) |
 | Learning Lean Through Architecture \\| Volume 2: The Curry-Howard Correspondence | Madhav Dhiman |  | [link](https://zenodo.org/records/23073217) |
 | Models of Computation | John E. Savage |  | [link](https://cs.brown.edu/people/jes/book/) |
@@ -3787,7 +3787,7 @@
 | Programming in Martin-Löf's Type Theory | Bengt Nordstroem |  | [link](https://www.cse.chalmers.se/research/group/logic/book/) |
 | Programming Languages: Application and Interpretation (2nd Edition) | Shriram Krishnamurthi |  | [link](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) |
 | Programming Languages: Theory and Practice | Robert Harper |  | [link](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) |
-| Semantics with Applications: A Formal Introduction | Hanne Riis Nielson, Flemming Nielson | [download](https://github.com/Squidly1408/programming-books/releases/download/theoretical-computer-science/Semantics.with.Applications.A.Formal.Introduction.-.Hanne.Riis.Nielson.Flemming.Nielson.pdf) | [link](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) |
+| Semantics with Applications: A Formal Introduction | Hanne Riis Nielson, Flemming Nielson | [PDF](books/subjects/Theoretical%20Computer%20Science/Semantics.with.Applications.A.Formal.Introduction.-.Hanne.Riis.Nielson.Flemming.Nielson.pdf) | [link](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) |
 
 ### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>Version Control Systems
 
@@ -3803,7 +3803,7 @@
 | Git From The Bottom Up | J. Wiegley |  | [link](https://jwiegley.github.io/git-from-the-bottom-up/) |
 | Git Immersion | Jim Weirich |  | [link](https://gitimmersion.com) |
 | Git In The Trenches | Peter Savage |  | [link](https://cbx33.github.io/gitt/index.html) |
-| Git internals | Scott Chacon | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems/Git.internals.-.Scott.Chacon.pdf) | [link](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) |
+| Git internals | Scott Chacon | [PDF](books/subjects/a%20id%3D-version-control-systems-a-a%20id%3D-git-a-a%20id%3D-svn-a-a%20id%3D-subversion-a-a%20id%3D-mercurial-a-Version%20Control%20Systems/Git.internals.-.Scott.Chacon.pdf) | [link](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) |
 | Git Magic | Ben Lynn, et al. |  | [link](http://www-cs-students.stanford.edu/~blynn/gitmagic/) |
 | Git Notes for Professionals | Compiled from StackOverflow Documentation |  | [link](https://goalkicker.com/GitBook) |
 | Git Pocket Guide | Richard E. Silverman |  | [link](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) |
@@ -3824,7 +3824,7 @@
 | Pro Git | Scott Chacon, Ben Straub |  | [link](https://git-scm.com/book/en/) |
 | Pro Git Reedited | Jon Forrest |  | [link](https://leanpub.com/progitreedited/read) |
 | Ry's Git Tutorial | Ryan Hodson |  | [link](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) |
-| Subversion Version Control | William Nagel | [download](https://github.com/Squidly1408/programming-books/releases/download/a-id-version-control-systems-a-a-id-git-a-a-id-svn-a-a-id-subversion-a-a-id-mercurial-a-version-control-systems/Subversion.Version.Control.-.William.Nagel.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) |
+| Subversion Version Control | William Nagel | [PDF](books/subjects/a%20id%3D-version-control-systems-a-a%20id%3D-git-a-a%20id%3D-svn-a-a%20id%3D-subversion-a-a%20id%3D-mercurial-a-Version%20Control%20Systems/Subversion.Version.Control.-.William.Nagel.pdf) | [link](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) |
 | Think Like (a) Git: A Guide for the Perplexed | Sam Livingston-Gray |  | [link](https://think-like-a-git.net) |
 | Version Control with Subversion | Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato |  | [link](https://svnbook.red-bean.com/index.en.html) |
 
@@ -3836,13 +3836,13 @@
 | Designing for Performance | Lara Hogan |  | [link](https://designingforperformance.com) |
 | High Performance Accelerated Websites | Anshul |  | [link](https://thisisyuu.github.io/ebook) |
 | High Performance Browser Networking | Ilya Grigorik |  | [link](https://hpbn.co) |
-| Mature Optimization | Carlos Bueno | [download](https://github.com/Squidly1408/programming-books/releases/download/web-performance/Mature.Optimization.-.Carlos.Bueno.pdf) | [link](https://carlos.bueno.org/optimization/mature-optimization.pdf) |
+| Mature Optimization | Carlos Bueno | [PDF](books/subjects/Web%20Performance/Mature.Optimization.-.Carlos.Bueno.pdf) | [link](https://carlos.bueno.org/optimization/mature-optimization.pdf) |
 
 ### Web Services
 
 | Book | Author | Copy | Original |
 |---|---|---|---|
-| RESTful Web Services |  | [download](https://github.com/Squidly1408/programming-books/releases/download/web-services/RESTful.Web.Services.pdf) | [link](http://restfulwebapis.org/RESTful_Web_Services.pdf) |
+| RESTful Web Services |  | [PDF](books/languages/Web%20Services/RESTful.Web.Services.pdf) | [link](http://restfulwebapis.org/RESTful_Web_Services.pdf) |
 
 ### Workflow
 
