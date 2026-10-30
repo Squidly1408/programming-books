@@ -5129,7 +5129,7 @@
   "author": "John Russel",
   "url": "https://web.archive.org/web/20220120101021/https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf",
   "notes": "- John Russel (PDF) *( :card_file_box: archived)*",
-  "asset": "Cloudera.Impala.-.John.Russel.pdf"
+  "file": "books/languages/Hadoop/Cloudera.Impala.-.John.Russel.pdf"
  },
  {
   "list": "By Programming Language",
@@ -5142,7 +5142,7 @@
   "author": "",
   "url": "http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
   "notes": "(Jimmy Lin and Chris Dyer) (PDF)",
-  "asset": "Data-Intensive.Text.Processing.with.MapReduce.pdf"
+  "file": "books/languages/Hadoop/Data-Intensive.Text.Processing.with.MapReduce.pdf"
  },
  {
   "list": "By Programming Language",
