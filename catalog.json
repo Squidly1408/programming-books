@@ -3896,7 +3896,7 @@
   "author": "",
   "url": "http://www.erlang.org/download/erlang-book-part1.pdf",
   "notes": "(PDF)",
-  "asset": "Concurrent.Programming.in.ERLANG.pdf"
+  "file": "books/languages/Erlang/Concurrent.Programming.in.ERLANG.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3909,7 +3909,7 @@
   "author": "",
   "url": "https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf",
   "notes": "(PDF)",
-  "asset": "Erlang.Handbook.pdf"
+  "file": "books/languages/Erlang/Erlang.Handbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3958,7 +3958,7 @@
   "author": "Joe Armstrong",
   "url": "http://www.erlang.org/download/armstrong_thesis_2003.pdf",
   "notes": "- Joe Armstrong (PDF)",
-  "asset": "Making.reliable.distributed.systems.in.the.presence.of.software.errors.-.Joe.Armstrong.pdf"
+  "file": "books/languages/Erlang/Making.reliable.distributed.systems.in.the.presence.of.software.errors.-.Joe.Armstrong.pdf"
  },
  {
   "list": "By Programming Language",
