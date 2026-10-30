@@ -16143,7 +16143,7 @@
   "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
   "url": "https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf",
   "notes": "- Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)",
-  "asset": "An.Introduction.to.Statistical.Learning.with.Applications.in.R.-.Gareth.James.Daniela.Witten.Trevor.Hastie.Robert.Tibshi.pdf"
+  "file": "books/languages/R/An.Introduction.to.Statistical.Learning.with.Applications.in.R.-.Gareth.James.Daniela.Witten.Trevor.Hastie.Robert.Tibshi.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16408,7 +16408,7 @@
   "author": "Julian J. Faraway",
   "url": "http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf",
   "notes": "- Julian J. Faraway (PDF)",
-  "asset": "Practical.Regression.and.Anova.using.R.-.Julian.J..Faraway.pdf"
+  "file": "books/languages/R/Practical.Regression.and.Anova.using.R.-.Julian.J..Faraway.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16433,7 +16433,7 @@
   "author": "",
   "url": "http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf",
   "notes": "(PDF)",
-  "asset": "R.for.Spatial.Analysis.pdf"
+  "file": "books/languages/R/R.for.Spatial.Analysis.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16482,7 +16482,7 @@
   "author": "",
   "url": "http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf",
   "notes": "(PDF)",
-  "asset": "R.Practicals.pdf"
+  "file": "books/languages/R/R.Practicals.pdf"
  },
  {
   "list": "By Programming Language",
@@ -16579,7 +16579,7 @@
   "author": "Patrick Burns",
   "url": "http://www.burns-stat.com/pages/Tutor/R_inferno.pdf",
   "notes": "- Patrick Burns (PDF)",
-  "asset": "The.R.Inferno.-.Patrick.Burns.pdf"
+  "file": "books/languages/R/The.R.Inferno.-.Patrick.Burns.pdf"
  },
  {
   "list": "By Programming Language",
