@@ -20723,8 +20723,7 @@
   "title": "A Field Guide To Genetic Programming",
   "author": "Riccardo Poli, William B. Langdon, Nicholas F. McPhee",
   "url": "https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf",
-  "notes": "- Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *( :card_file_box: archived)* (CC BY-NC-ND)",
-  "asset": "A.Field.Guide.To.Genetic.Programming.-.Riccardo.Poli.William.B..Langdon.Nicholas.F..McPhee.pdf"
+  "notes": "- Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *( :card_file_box: archived)* (CC BY-NC-ND)"
  },
  {
   "list": "By Subject",
@@ -20785,7 +20784,7 @@
   "author": "Jeff Erickson",
   "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf",
   "notes": "- Jeff Erickson (PDF)",
-  "asset": "Algorithms.-.Jeff.Erickson.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Algorithms.-.Jeff.Erickson.pdf"
  },
  {
   "list": "By Subject",
@@ -20822,7 +20821,7 @@
   "author": "Herbert S. Wilf",
   "url": "https://www.math.upenn.edu/~wilf/AlgoComp.pdf",
   "notes": "- Herbert S. Wilf (PDF)",
-  "asset": "Algorithms.and.Complexity.-.Herbert.S..Wilf.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Algorithms.and.Complexity.-.Herbert.S..Wilf.pdf"
  },
  {
   "list": "By Subject",
@@ -20835,7 +20834,7 @@
   "author": "J\u00fcrg Nievergelt, Klaus Hinrichs",
   "url": "https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf",
   "notes": "- J\u00fcrg Nievergelt, Klaus Hinrichs (PDF)",
-  "asset": "Algorithms.and.Data.Structures.-.J.rg.Nievergelt.Klaus.Hinrichs.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Algorithms.and.Data.Structures.-.J.rg.Nievergelt.Klaus.Hinrichs.pdf"
  },
  {
   "list": "By Subject",
@@ -20908,7 +20907,7 @@
   "author": "Nick Parlante",
   "url": "https://web.archive.org/web/20260429190107/http://cslibrary.stanford.edu/110/BinaryTrees.pdf",
   "notes": "- Nick Parlante (PDF) *( :card_file_box: archived)*",
-  "asset": "Binary.Trees.-.Nick.Parlante.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Binary.Trees.-.Nick.Parlante.pdf"
  },
  {
   "list": "By Subject",
@@ -20921,7 +20920,7 @@
   "author": "Aditya CSE",
   "url": "https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf",
   "notes": "- Aditya CSE (PDF)",
-  "asset": "Data.Structures.-.Aditya.CSE.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Data.Structures.-.Aditya.CSE.pdf"
  },
  {
   "list": "By Subject",
@@ -20946,7 +20945,7 @@
   "author": "Clifford A. Shaffer",
   "url": "https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf",
   "notes": "- Clifford A. Shaffer (PDF)",
-  "asset": "Data.Structures.and.Algorithm.Analysis.in.C++.-.Clifford.A..Shaffer.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Data.Structures.and.Algorithm.Analysis.in.C++.-.Clifford.A..Shaffer.pdf"
  },
  {
   "list": "By Subject",
@@ -20959,7 +20958,7 @@
   "author": "Clifford A. Shaffer",
   "url": "https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf",
   "notes": "- Clifford A. Shaffer (PDF)",
-  "asset": "Data.Structures.and.Algorithm.Analysis.in.Java.-.Clifford.A..Shaffer.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Data.Structures.and.Algorithm.Analysis.in.Java.-.Clifford.A..Shaffer.pdf"
  },
  {
   "list": "By Subject",
@@ -21056,7 +21055,7 @@
   "author": "Compiled from StackOverflow documentation",
   "url": "https://riptutorial.com/Download/algorithm.pdf",
   "notes": "- Compiled from StackOverflow documentation (PDF) (CC BY-SA)",
-  "asset": "Learning.Algorithm.-.Compiled.from.StackOverflow.documentation.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Learning.Algorithm.-.Compiled.from.StackOverflow.documentation.pdf"
  },
  {
   "list": "By Subject",
@@ -21093,7 +21092,7 @@
   "author": "Nick Parlante",
   "url": "https://web.archive.org/web/20260602012858/http://cslibrary.stanford.edu/103/LinkedListBasics.pdf",
   "notes": "- Nick Parlante (PDF) *( :card_file_box: archived)*",
-  "asset": "Linked.List.Basics.-.Nick.Parlante.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Linked.List.Basics.-.Nick.Parlante.pdf"
  },
  {
   "list": "By Subject",
@@ -21106,7 +21105,7 @@
   "author": "Nick Parlante",
   "url": "https://web.archive.org/web/20260429190109/http://cslibrary.stanford.edu/105/LinkedListProblems.pdf",
   "notes": "- Nick Parlante (PDF) *( :card_file_box: archived)*",
-  "asset": "Linked.List.Problems.-.Nick.Parlante.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Linked.List.Problems.-.Nick.Parlante.pdf"
  },
  {
   "list": "By Subject",
@@ -21119,7 +21118,7 @@
   "author": "J\u00f6rg Arndt",
   "url": "https://www.jjj.de/fxt/fxtbook.pdf",
   "notes": "- J\u00f6rg Arndt (PDF)",
-  "asset": "Matters.Computational.Ideas.Algorithms.Source.Code.-.J.rg.Arndt.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Matters.Computational.Ideas.Algorithms.Source.Code.-.J.rg.Arndt.pdf"
  },
  {
   "list": "By Subject",
@@ -21168,7 +21167,7 @@
   "author": "Chris Okasaki",
   "url": "https://www.cs.cmu.edu/~rwh/students/okasaki.pdf",
   "notes": "- Chris Okasaki (PDF)",
-  "asset": "Purely.Functional.Data.Structures.-.Chris.Okasaki.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Purely.Functional.Data.Structures.-.Chris.Okasaki.pdf"
  },
  {
   "list": "By Subject",
@@ -21193,7 +21192,7 @@
   "author": "Maxime Crochemore, Wojciech Rytter",
   "url": "http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf",
   "notes": "- Maxime Crochemore, Wojciech Rytter (PDF)",
-  "asset": "Text.Algorithms.-.Maxime.Crochemore.Wojciech.Rytter.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/Text.Algorithms.-.Maxime.Crochemore.Wojciech.Rytter.pdf"
  },
  {
   "list": "By Subject",
@@ -21230,7 +21229,7 @@
   "author": "David P. Williamson, David B. Shmoys",
   "url": "https://www.designofapproxalgs.com/book.pdf",
   "notes": "- David P. Williamson, David B. Shmoys (PDF)",
-  "asset": "The.Design.of.Approximation.Algorithms.-.David.P..Williamson.David.B..Shmoys.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/The.Design.of.Approximation.Algorithms.-.David.P..Williamson.David.B..Shmoys.pdf"
  },
  {
   "list": "By Subject",
@@ -21243,7 +21242,7 @@
   "author": "Nick Parlante",
   "url": "https://web.archive.org/web/20260429190115/http://cslibrary.stanford.edu/109/TreeListRecursion.pdf",
   "notes": "- Nick Parlante (PDF) *( :card_file_box: archived)*",
-  "asset": "The.Great.Tree.List.Recursion.Problem.-.Nick.Parlante.pdf"
+  "file": "books/subjects/Algorithms & Data Structures/The.Great.Tree.List.Recursion.Problem.-.Nick.Parlante.pdf"
  },
  {
   "list": "By Subject",
