@@ -29126,7 +29126,7 @@
   "author": "Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams",
   "url": "https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf",
   "notes": "- Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)",
-  "asset": "Gray.Hat.Hacking.The.Ethical.Hacker.s.Handbook.-.Allen.Harper.Jonathan.Ness.Chris.Eagle.Shon.Harris.Gideon.Lenkey.Terron.pdf"
+  "file": "books/subjects/Security & Privacy/Gray.Hat.Hacking.The.Ethical.Hacker.s.Handbook.-.Allen.Harper.Jonathan.Ness.Chris.Eagle.Shon.Harris.Gideon.Lenkey.Terron.pdf"
  },
  {
   "list": "By Subject",
@@ -29187,7 +29187,7 @@
   "author": "",
   "url": "https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf",
   "notes": "(PDF)",
-  "asset": "Intrusion.Detection.Systems.with.Snort.pdf"
+  "file": "books/subjects/Security & Privacy/Intrusion.Detection.Systems.with.Snort.pdf"
  },
  {
   "list": "By Subject",
@@ -29344,7 +29344,7 @@
   "author": "Mike Rosulek",
   "url": "https://joyofcryptography.com/pdf/book.pdf",
   "notes": "- Mike Rosulek (PDF)",
-  "asset": "The.Joy.of.Cryptography.2021.-.Mike.Rosulek.pdf"
+  "file": "books/subjects/Security & Privacy/The.Joy.of.Cryptography.2021.-.Mike.Rosulek.pdf"
  },
  {
   "list": "By Subject",
