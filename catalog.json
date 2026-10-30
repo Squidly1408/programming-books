@@ -3697,7 +3697,7 @@
   "author": "Oracle",
   "url": "https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf",
   "notes": "- Oracle (PDF)",
-  "asset": "Solaris.Dynamic.Tracing.Guide.-.Oracle.pdf"
+  "file": "books/languages/DTrace/Solaris.Dynamic.Tracing.Guide.-.Oracle.pdf"
  },
  {
   "list": "By Programming Language",
