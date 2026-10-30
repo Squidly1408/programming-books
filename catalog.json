@@ -18750,7 +18750,7 @@
   "author": "Richard T. Snodgrass",
   "url": "https://www2.cs.arizona.edu/~rts/tdbbook.pdf",
   "notes": "- Richard T. Snodgrass (PDF)",
-  "asset": "Developing.Time-Oriented.Database.Applications.in.SQL.-.Richard.T..Snodgrass.pdf"
+  "file": "books/languages/SQL (implementation agnostic)/Developing.Time-Oriented.Database.Applications.in.SQL.-.Richard.T..Snodgrass.pdf"
  },
  {
   "list": "By Programming Language",
@@ -18799,7 +18799,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/sql.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Learning.SQL.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/SQL (implementation agnostic)/Learning.SQL.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
@@ -18812,7 +18812,7 @@
   "author": "",
   "url": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf",
   "notes": "Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Oracle.Database.Notes.for.Professionals.pdf"
+  "file": "books/languages/SQL (implementation agnostic)/Oracle.Database.Notes.for.Professionals.pdf"
  },
  {
   "list": "By Programming Language",
