@@ -6542,7 +6542,7 @@
   "author": "Daniel Selman",
   "url": "https://web.archive.org/web/20251124074959/https://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf",
   "notes": "- Daniel Selman (PDF) *( :card_file_box: archived)*",
-  "asset": "3D.Programming.in.Java.-.Daniel.Selman.pdf"
+  "file": "books/languages/Java/3D.Programming.in.Java.-.Daniel.Selman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6555,7 +6555,7 @@
   "author": "Clifford A. Shaffer",
   "url": "https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf",
   "notes": "- Clifford A. Shaffer (PDF)",
-  "asset": "A.Practical.Introduction.to.Data.Structures.and.Algorithm.Analysis.Third.Edition.Java.Version.-.Clifford.A..Shaffer.pdf"
+  "file": "books/languages/Java/A.Practical.Introduction.to.Data.Structures.and.Algorithm.Analysis.Third.Edition.Java.Version.-.Clifford.A..Shaffer.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6568,7 +6568,7 @@
   "author": "Darren Yao",
   "url": "https://darrenyao.com/usacobook/java.pdf",
   "notes": "- Darren Yao (PDF)",
-  "asset": "An.Introduction.to.the.USA.Computing.Olympiad.Java.Edition.-.Darren.Yao.pdf"
+  "file": "books/languages/Java/An.Introduction.to.the.USA.Computing.Olympiad.Java.Edition.-.Darren.Yao.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6581,7 +6581,7 @@
   "author": "Will Iverson",
   "url": "http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf",
   "notes": "- Will Iverson (PDF)",
-  "asset": "Apache.Jakarta.Commons.Reusable.Java.Components.-.Will.Iverson.pdf"
+  "file": "books/languages/Java/Apache.Jakarta.Commons.Reusable.Java.Components.-.Will.Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6774,7 +6774,7 @@
   "author": "Carl Albing, Michael Schwarz",
   "url": "https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf",
   "notes": "- Carl Albing, Michael Schwarz (PDF)",
-  "asset": "Java.Application.Development.on.Linux.2005.-.Carl.Albing.Michael.Schwarz.pdf"
+  "file": "books/languages/Java/Java.Application.Development.on.Linux.2005.-.Carl.Albing.Michael.Schwarz.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6811,7 +6811,7 @@
   "author": "Oracle",
   "url": "https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf",
   "notes": "- Oracle (PDF)",
-  "asset": "Java.ME.3.4.Developer.s.Guide.for.NetBeans.on.Windows.-.Oracle.pdf"
+  "file": "books/languages/Java/Java.ME.3.4.Developer.s.Guide.for.NetBeans.on.Windows.-.Oracle.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6884,7 +6884,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/java-language.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Learning.Java.Language.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/Java/Learning.Java.Language.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6897,7 +6897,7 @@
   "author": "",
   "url": "https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf",
   "notes": "(PDF)",
-  "asset": "Microservices.Best.Practices.for.Java.pdf"
+  "file": "books/languages/Java/Microservices.Best.Practices.for.Java.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6910,7 +6910,7 @@
   "author": "Richard L. Halterman",
   "url": "https://www.cs.southern.edu/halterman/oopj.pdf",
   "notes": "- Richard L. Halterman (draft) (PDF) (CC)",
-  "asset": "Object-Oriented.Programming.in.JavaTM.Textbook.-.Richard.L..Halterman.pdf"
+  "file": "books/languages/Java/Object-Oriented.Programming.in.JavaTM.Textbook.-.Richard.L..Halterman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6935,7 +6935,7 @@
   "author": "Pat Morin",
   "url": "http://opendatastructures.org/ods-java.pdf",
   "notes": "- Pat Morin (PDF) (CC BY)",
-  "asset": "Open.Data.Structures.in.Java.-.Pat.Morin.pdf"
+  "file": "books/languages/Java/Open.Data.Structures.in.Java.-.Pat.Morin.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6972,7 +6972,7 @@
   "author": "Ashik Ahmed Bhuiyan, Md Amiruzzaman",
   "url": "https://paadopt.org/wp-content/uploads/2025/03/Programming-With-Java-ABhuiyan-MAmiruzzaman-2025031201.pdf",
   "notes": "- Ashik Ahmed Bhuiyan, Md Amiruzzaman (PDF)",
-  "asset": "Programming.With.Java.-.Ashik.Ahmed.Bhuiyan.Md.Amiruzzaman.pdf"
+  "file": "books/languages/Java/Programming.With.Java.-.Ashik.Ahmed.Bhuiyan.Md.Amiruzzaman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6985,7 +6985,7 @@
   "author": "",
   "url": "https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf",
   "notes": "(PDF)",
-  "asset": "The.Java.EE6.Tutorial.pdf"
+  "file": "books/languages/Java/The.Java.EE6.Tutorial.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6998,7 +6998,7 @@
   "author": "Eric Jendrock, et al.",
   "url": "https://docs.oracle.com/javaee/7/JEETT.pdf",
   "notes": "- Eric Jendrock, et al. (PDF)",
-  "asset": "The.Java.EE7.Tutorial.-.Eric.Jendrock.et.al.pdf"
+  "file": "books/languages/Java/The.Java.EE7.Tutorial.-.Eric.Jendrock.et.al.pdf"
  },
  {
   "list": "By Programming Language",
@@ -7119,7 +7119,7 @@
   "author": "Calvin Austin, Monica Pawlan",
   "url": "http://www.pawlan.com/monica/books/AdvBk.pdf",
   "notes": "- Calvin Austin, Monica Pawlan (PDF)",
-  "asset": "Writing.Advanced.Applications.for.the.Java.2.Platform.-.Calvin.Austin.Monica.Pawlan.pdf"
+  "file": "books/languages/Java/Writing.Advanced.Applications.for.the.Java.2.Platform.-.Calvin.Austin.Monica.Pawlan.pdf"
  },
  {
   "list": "By Programming Language",
