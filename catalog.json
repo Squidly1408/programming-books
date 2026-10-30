@@ -26490,7 +26490,7 @@
   "author": "",
   "url": "https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf",
   "notes": "(PDF)",
-  "asset": "Barcode.Overview.pdf"
+  "file": "books/subjects/Misc/Barcode.Overview.pdf"
  },
  {
   "list": "By Subject",
@@ -26599,7 +26599,7 @@
   "author": "Sanjeev Sharma, Bernie Coyne",
   "url": "https://www.ibm.com/downloads/cas/P9NYOK3B",
   "notes": "- Sanjeev Sharma, Bernie Coyne (PDF)",
-  "asset": "DevOps.For.Dummies.3rd.IBM.Limited.Edition.-.Sanjeev.Sharma.Bernie.Coyne.pdf"
+  "file": "books/subjects/Misc/DevOps.For.Dummies.3rd.IBM.Limited.Edition.-.Sanjeev.Sharma.Bernie.Coyne.pdf"
  },
  {
   "list": "By Subject",
@@ -26684,7 +26684,7 @@
   "author": "Karl Seguin",
   "url": "https://openmymind.net/FoundationsOfProgramming.pdf",
   "notes": "- Karl Seguin (PDF)",
-  "asset": "Foundations.of.Programming.-.Karl.Seguin.pdf"
+  "file": "books/subjects/Misc/Foundations.of.Programming.-.Karl.Seguin.pdf"
  },
  {
   "list": "By Subject",
@@ -26900,7 +26900,8 @@
   "title": "Information Technology and the Networked Economy",
   "author": "Patrick McKeown",
   "url": "https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf",
-  "notes": "- Patrick McKeown (PDF) *( :card_file_box: archived)*"
+  "notes": "- Patrick McKeown (PDF) *( :card_file_box: archived)*",
+  "file": "books/subjects/Misc/Information.Technology.and.the.Networked.Economy.-.Patrick.McKeown.pdf"
  },
  {
   "list": "By Subject",
@@ -26913,7 +26914,7 @@
   "author": "Victor Eijkhout",
   "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf",
   "notes": "- Victor Eijkhout (PDF)",
-  "asset": "The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf"
+  "file": "books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf"
  },
  {
   "list": "By Subject",
@@ -27082,7 +27083,7 @@
   "author": "",
   "url": "https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf",
   "notes": "(PDF)",
-  "asset": "Philosophy.of.Computer.Science.pdf"
+  "file": "books/subjects/Misc/Philosophy.of.Computer.Science.pdf"
  },
  {
   "list": "By Subject",
@@ -27107,7 +27108,7 @@
   "author": "Nick Parlante",
   "url": "https://web.archive.org/web/20260518211016/http://cslibrary.stanford.edu/102/PointersAndMemory.pdf",
   "notes": "- Nick Parlante (PDF) *( :card_file_box: archived)*",
-  "asset": "Pointers.And.Memory.-.Nick.Parlante.pdf"
+  "file": "books/subjects/Misc/Pointers.And.Memory.-.Nick.Parlante.pdf"
  },
  {
   "list": "By Subject",
@@ -27228,7 +27229,7 @@
   "author": "James Gallagher",
   "url": "https://jamesg.blog/book.pdf",
   "notes": "- James Gallagher (PDF)",
-  "asset": "Software.Technical.Writing.A.Guidebook.-.James.Gallagher.pdf"
+  "file": "books/subjects/Misc/Software.Technical.Writing.A.Guidebook.-.James.Gallagher.pdf"
  },
  {
   "list": "By Subject",
@@ -27265,7 +27266,7 @@
   "author": "Victor Eijkhout",
   "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf",
   "notes": "- Victor Eijkhout (PDF)",
-  "asset": "The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf"
+  "file": "books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.3.Introduction.to.Scientific.Programming.-.Victor.Eijkhout.pdf"
  },
  {
   "list": "By Subject",
@@ -27278,7 +27279,7 @@
   "author": "Victor Eijkhout",
   "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf",
   "notes": "- Victor Eijkhout (PDF)",
-  "asset": "The.Art.of.High.Perfomance.Computing.-.Volume.4.HPC.Carpentry.-.Victor.Eijkhout.pdf"
+  "file": "books/subjects/Misc/The.Art.of.High.Perfomance.Computing.-.Volume.4.HPC.Carpentry.-.Victor.Eijkhout.pdf"
  },
  {
   "list": "By Subject",
@@ -27327,7 +27328,7 @@
   "author": "",
   "url": "https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf",
   "notes": "(PDF)",
-  "asset": "Web.Almanac.pdf"
+  "file": "books/subjects/Misc/Web.Almanac.pdf"
  },
  {
   "list": "By Subject",
