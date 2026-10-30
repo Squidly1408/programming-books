@@ -4152,7 +4152,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "Apex.Workbook.pdf"
+  "file": "books/languages/Force.com/Apex.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4165,7 +4165,7 @@
   "author": "",
   "url": "http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf",
   "notes": "(PDF)",
-  "asset": "Force.com.Fundamentals.pdf"
+  "file": "books/languages/Force.com/Force.com.Fundamentals.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4190,7 +4190,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "Force.com.Workbook.pdf"
+  "file": "books/languages/Force.com/Force.com.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4203,7 +4203,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "Heroku.Postgres.pdf"
+  "file": "books/languages/Force.com/Heroku.Postgres.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4216,7 +4216,7 @@
   "author": "",
   "url": "https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf",
   "notes": "(PDF)",
-  "asset": "Heroku.Workbook.pdf"
+  "file": "books/languages/Force.com/Heroku.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4229,7 +4229,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20150919023850/https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "Integration.Workbook.pdf"
+  "file": "books/languages/Force.com/Integration.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4242,7 +4242,7 @@
   "author": "",
   "url": "https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf",
   "notes": "(PDF)",
-  "asset": "Salesforce1.Mobile.App.Workbook.pdf"
+  "file": "books/languages/Force.com/Salesforce1.Mobile.App.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -4255,7 +4255,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "Visualforce.Workbook.pdf"
+  "file": "books/languages/Force.com/Visualforce.Workbook.pdf"
  },
  {
   "list": "By Programming Language",
