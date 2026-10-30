@@ -19343,7 +19343,7 @@
   "author": "Robert Harper",
   "url": "http://www.cs.cmu.edu/~rwh/isml/book.pdf",
   "notes": "- Robert Harper (PDF)",
-  "asset": "Programming.in.Standard.ML.DRAFT.-.Robert.Harper.pdf"
+  "file": "books/languages/Standard ML/Programming.in.Standard.ML.DRAFT.-.Robert.Harper.pdf"
  },
  {
   "list": "By Programming Language",
@@ -19356,7 +19356,7 @@
   "author": "Atsushi Ohori, Katsuhiro Ueno",
   "url": "https://smlsharp.github.io/en/documents/4.0.0/manual.pdf",
   "notes": "- Atsushi Ohori, Katsuhiro Ueno (PDF)",
-  "asset": "SML.Document.-.Atsushi.Ohori.Katsuhiro.Ueno.pdf"
+  "file": "books/languages/Standard ML/SML.Document.-.Atsushi.Ohori.Katsuhiro.Ueno.pdf"
  },
  {
   "list": "By Programming Language",
@@ -19369,7 +19369,7 @@
   "author": "SMLFamily GitHub project",
   "url": "http://sml-family.org/sml97-defn.pdf",
   "notes": "- SMLFamily GitHub project (PDF)",
-  "asset": "The.Definition.of.Standard.ML.Revised.-.SMLFamily.GitHub.project.pdf"
+  "file": "books/languages/Standard ML/The.Definition.of.Standard.ML.Revised.-.SMLFamily.GitHub.project.pdf"
  },
  {
   "list": "By Programming Language",
@@ -19394,7 +19394,7 @@
   "author": "Anthony L. Shipman",
   "url": "http://mlton.org/References.attachments/Shipman02.pdf",
   "notes": "- Anthony L. Shipman (PDF)",
-  "asset": "Unix.System.Programming.with.Standard.ML.-.Anthony.L..Shipman.pdf"
+  "file": "books/languages/Standard ML/Unix.System.Programming.with.Standard.ML.-.Anthony.L..Shipman.pdf"
  },
  {
   "list": "By Programming Language",
