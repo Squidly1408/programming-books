@@ -6403,7 +6403,7 @@
   "author": "Kenneth E. Iverson",
   "url": "http://www.jsoftware.com/books/pdf/arithmetic.pdf",
   "notes": "- Kenneth E. Iverson (PDF)",
-  "asset": "Arithmetic.-.Kenneth.E..Iverson.pdf"
+  "file": "books/languages/J/Arithmetic.-.Kenneth.E..Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6416,7 +6416,7 @@
   "author": "Chris Burke and Clifford Reiter",
   "url": "http://www.jsoftware.com/books/pdf/brief.pdf",
   "notes": "- Chris Burke and Clifford Reiter (PDF)",
-  "asset": "Brief.Reference.-.Chris.Burke.and.Clifford.Reiter.pdf"
+  "file": "books/languages/J/Brief.Reference.-.Chris.Burke.and.Clifford.Reiter.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6429,7 +6429,7 @@
   "author": "Kenneth E. Iverson",
   "url": "http://www.jsoftware.com/books/pdf/calculus.pdf",
   "notes": "- Kenneth E. Iverson (PDF)",
-  "asset": "Calculus.-.Kenneth.E..Iverson.pdf"
+  "file": "books/languages/J/Calculus.-.Kenneth.E..Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6454,7 +6454,7 @@
   "author": "Kenneth E. Iverson",
   "url": "http://www.jsoftware.com/books/pdf/cmc.pdf",
   "notes": "- Kenneth E. Iverson (PDF)",
-  "asset": "Concrete.Math.Companion.-.Kenneth.E..Iverson.pdf"
+  "file": "books/languages/J/Concrete.Math.Companion.-.Kenneth.E..Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6467,7 +6467,7 @@
   "author": "Linda Alvord, Norman Thomson",
   "url": "http://www.jsoftware.com/books/pdf/easyj.pdf",
   "notes": "- Linda Alvord, Norman Thomson (PDF) ([Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip))",
-  "asset": "Easy.J.-.Linda.Alvord.Norman.Thomson.pdf"
+  "file": "books/languages/J/Easy.J.-.Linda.Alvord.Norman.Thomson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6480,7 +6480,7 @@
   "author": "Kenneth E. Iverson",
   "url": "http://www.jsoftware.com/books/pdf/expmath.pdf",
   "notes": "- Kenneth E. Iverson (PDF)",
-  "asset": "Exploring.Math.-.Kenneth.E..Iverson.pdf"
+  "file": "books/languages/J/Exploring.Math.-.Kenneth.E..Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -6529,7 +6529,7 @@
   "author": "Kenneth E. Iverson",
   "url": "http://www.jsoftware.com/books/pdf/mftl.zip",
   "notes": "- Kenneth E. Iverson (zipped HTML+images)",
-  "asset": "Math.for.the.Layman.-.Kenneth.E..Iverson.zip"
+  "file": "books/languages/J/Math.for.the.Layman.-.Kenneth.E..Iverson.zip"
  },
  {
   "list": "By Programming Language",
