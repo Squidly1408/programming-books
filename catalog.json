@@ -436,7 +436,7 @@
   "author": "lady ada",
   "url": "https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf",
   "notes": "- lady ada (PDF)",
-  "asset": "Arduino.Tips.Tricks.and.Techniques.-.lady.ada.pdf"
+  "file": "books/languages/Arduino/Arduino.Tips.Tricks.and.Techniques.-.lady.ada.pdf"
  },
  {
   "list": "By Programming Language",
@@ -449,7 +449,7 @@
   "author": "Brad Kendall",
   "url": "http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf",
   "notes": "- Brad Kendall (PDF)",
-  "asset": "Getting.started.with.Arduino.A.Beginner.s.Guide.-.Brad.Kendall.pdf"
+  "file": "books/languages/Arduino/Getting.started.with.Arduino.A.Beginner.s.Guide.-.Brad.Kendall.pdf"
  },
  {
   "list": "By Programming Language",
@@ -498,7 +498,7 @@
   "author": "Compiled from StackOverflow documentation",
   "url": "https://riptutorial.com/Download/arduino.pdf",
   "notes": "- Compiled from StackOverflow documentation (PDF) (CC BY-SA)",
-  "asset": "Learn.Arduino.-.Compiled.from.StackOverflow.documentation.pdf"
+  "file": "books/languages/Arduino/Learn.Arduino.-.Compiled.from.StackOverflow.documentation.pdf"
  },
  {
   "list": "By Programming Language",
