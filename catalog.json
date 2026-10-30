@@ -301,7 +301,7 @@
   "author": "Kenneth E. Iverson",
   "url": "https://softwarepreservation.computerhistory.org/apl/book/APROGRAMMINGLANGUAGE.pdf",
   "notes": "- Kenneth E. Iverson (PDF)",
-  "asset": "A.Programming.Language.-.Kenneth.E..Iverson.pdf"
+  "file": "books/languages/APL/A.Programming.Language.-.Kenneth.E..Iverson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -314,7 +314,7 @@
   "author": "James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988",
   "url": "https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf",
   "notes": "- James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 (PDF)",
-  "asset": "APL2.at.a.Glance.-.James.A..Brown.Sandra.Pakin.Raymond.P..Polivka.-.1988.pdf"
+  "file": "books/languages/APL/APL2.at.a.Glance.-.James.A..Brown.Sandra.Pakin.Raymond.P..Polivka.-.1988.pdf"
  },
  {
   "list": "By Programming Language",
@@ -327,7 +327,7 @@
   "author": "E. J. LeCuyer",
   "url": "https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf",
   "notes": "- E. J. LeCuyer (PDF)",
-  "asset": "Introduction.to.College.Mathematics.with.A.Programming.Language.1978.-.E..J..LeCuyer.pdf"
+  "file": "books/languages/APL/Introduction.to.College.Mathematics.with.A.Programming.Language.1978.-.E..J..LeCuyer.pdf"
  },
  {
   "list": "By Programming Language",
