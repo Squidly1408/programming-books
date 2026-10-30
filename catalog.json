@@ -24668,7 +24668,7 @@
   "author": "Robert S. Boyer, J Strother Moore",
   "url": "https://www.cs.utexas.edu/users/boyer/acl.pdf",
   "notes": "- Robert S. Boyer, J Strother Moore (PDF)",
-  "asset": "A.Computational.Logic.1979.-.Robert.S..Boyer.J.Strother.Moore.pdf"
+  "file": "books/subjects/Mathematics/A.Computational.Logic.1979.-.Robert.S..Boyer.J.Strother.Moore.pdf"
  },
  {
   "list": "By Subject",
@@ -24681,7 +24681,7 @@
   "author": "Stephen Davies",
   "url": "http://stephendavies.org/brisk.pdf",
   "notes": "- Stephen Davies (PDF)",
-  "asset": "A.Cool.Brisk.Walk.Through.Discrete.Mathematics.-.Stephen.Davies.pdf"
+  "file": "books/subjects/Mathematics/A.Cool.Brisk.Walk.Through.Discrete.Mathematics.-.Stephen.Davies.pdf"
  },
  {
   "list": "By Subject",
@@ -24766,7 +24766,7 @@
   "author": "Lewis Parker Siceloff, George Wentworth, David Eugene Smith",
   "url": "http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf",
   "notes": "- Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)",
-  "asset": "Analytic.Geometry.1922.-.Lewis.Parker.Siceloff.George.Wentworth.David.Eugene.Smith.pdf"
+  "file": "books/subjects/Mathematics/Analytic.Geometry.1922.-.Lewis.Parker.Siceloff.George.Wentworth.David.Eugene.Smith.pdf"
  },
  {
   "list": "By Subject",
@@ -24839,7 +24839,7 @@
   "author": "Richard Hammack",
   "url": "https://richardhammack.github.io/BookOfProof/Main.pdf",
   "notes": "- Richard Hammack (PDF)",
-  "asset": "Book.of.Proof.-.Richard.Hammack.pdf"
+  "file": "books/subjects/Mathematics/Book.of.Proof.-.Richard.Hammack.pdf"
  },
  {
   "list": "By Subject",
@@ -24984,7 +24984,7 @@
   "author": "Henry Buchard Fine, Henry Dallas Thompson",
   "url": "http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf",
   "notes": "- Henry Buchard Fine, Henry Dallas Thompson (PDF)",
-  "asset": "Coordinate.Geometry.1911.-.Henry.Buchard.Fine.Henry.Dallas.Thompson.pdf"
+  "file": "books/subjects/Mathematics/Coordinate.Geometry.1911.-.Henry.Buchard.Fine.Henry.Dallas.Thompson.pdf"
  },
  {
   "list": "By Subject",
@@ -25009,7 +25009,7 @@
   "author": "H. B. Phillips",
   "url": "http://djm.cc/library/Differential_Equations_Phillips_edited.pdf",
   "notes": "- H. B. Phillips (PDF)",
-  "asset": "Differential.Equations.1922.-.H..B..Phillips.pdf"
+  "file": "books/subjects/Mathematics/Differential.Equations.1922.-.H..B..Phillips.pdf"
  },
  {
   "list": "By Subject",
@@ -25046,7 +25046,7 @@
   "author": "William F. Trench",
   "url": "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF",
   "notes": "- William F. Trench (PDF)",
-  "asset": "Elementary.Differential.Equations.-.William.F..Trench.pdf"
+  "file": "books/subjects/Mathematics/Elementary.Differential.Equations.-.William.F..Trench.pdf"
  },
  {
   "list": "By Subject",
@@ -25119,7 +25119,7 @@
   "author": "Yuen-Kwok Chan",
   "url": "https://arxiv.org/pdf/1906.01803.pdf",
   "notes": "- Yuen-Kwok Chan (PDF)",
-  "asset": "Foundations.of.Constructive.Probability.Theory.-.Yuen-Kwok.Chan.pdf"
+  "file": "books/subjects/Mathematics/Foundations.of.Constructive.Probability.Theory.-.Yuen-Kwok.Chan.pdf"
  },
  {
   "list": "By Subject",
@@ -25204,7 +25204,7 @@
   "author": "Charles M. Grinstead, J. Laurie Snell",
   "url": "https://math.dartmouth.edu/~prob/prob/prob.pdf",
   "notes": "- Charles M. Grinstead, J. Laurie Snell (PDF)",
-  "asset": "Introduction.to.Probability.-.Charles.M..Grinstead.J..Laurie.Snell.pdf"
+  "file": "books/subjects/Mathematics/Introduction.to.Probability.-.Charles.M..Grinstead.J..Laurie.Snell.pdf"
  },
  {
   "list": "By Subject",
@@ -25301,7 +25301,7 @@
   "author": "Jonathan A. Poritz",
   "url": "https://www.poritz.net/jonathan/share/ldlos.pdf",
   "notes": "- Jonathan A. Poritz (PDF)",
-  "asset": "Lies.Damned.Lies.or.Statistics.How.to.Tell.the.Truth.with.Statistics.-.Jonathan.A..Poritz.pdf"
+  "file": "books/subjects/Mathematics/Lies.Damned.Lies.or.Statistics.How.to.Tell.the.Truth.with.Statistics.-.Jonathan.A..Poritz.pdf"
  },
  {
   "list": "By Subject",
@@ -25326,7 +25326,7 @@
   "author": "W. S. Anderson",
   "url": "http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf",
   "notes": "- W. S. Anderson (PDF)",
-  "asset": "Magic.Squares.and.Cubes.1917.-.W..S..Anderson.pdf"
+  "file": "books/subjects/Mathematics/Magic.Squares.and.Cubes.1917.-.W..S..Anderson.pdf"
  },
  {
   "list": "By Subject",
@@ -25507,7 +25507,7 @@
   "author": "George Wentworth, David Eugene Smith",
   "url": "http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf",
   "notes": "- George Wentworth, David Eugene Smith (PDF)",
-  "asset": "Plane.Geometry.1913.-.George.Wentworth.David.Eugene.Smith.pdf"
+  "file": "books/subjects/Mathematics/Plane.Geometry.1913.-.George.Wentworth.David.Eugene.Smith.pdf"
  },
  {
   "list": "By Subject",
@@ -25520,7 +25520,7 @@
   "author": "George Wentworth, David Eugene Smith",
   "url": "http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf",
   "notes": "- George Wentworth, David Eugene Smith (PDF)",
-  "asset": "Planes.and.Spherical.Trigonometry.1915.-.George.Wentworth.David.Eugene.Smith.pdf"
+  "file": "books/subjects/Mathematics/Planes.and.Spherical.Trigonometry.1915.-.George.Wentworth.David.Eugene.Smith.pdf"
  },
  {
   "list": "By Subject",
@@ -25581,7 +25581,7 @@
   "author": "H. E. Licks",
   "url": "http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf",
   "notes": "- H. E. Licks (PDF)",
-  "asset": "Recreations.in.Math.-.H..E..Licks.pdf"
+  "file": "books/subjects/Mathematics/Recreations.in.Math.-.H..E..Licks.pdf"
  },
  {
   "list": "By Subject",
@@ -25606,7 +25606,7 @@
   "author": "Brendan Fong, David I. Spivak",
   "url": "https://arxiv.org/pdf/1803.05316.pdf",
   "notes": "- Brendan Fong, David I. Spivak (PDF)",
-  "asset": "Seven.Sketches.in.Compositionality.An.Invitation.to.Applied.Category.Theory.-.Brendan.Fong.David.I..Spivak.pdf"
+  "file": "books/subjects/Mathematics/Seven.Sketches.in.Compositionality.An.Invitation.to.Applied.Category.Theory.-.Brendan.Fong.David.I..Spivak.pdf"
  },
  {
   "list": "By Subject",
@@ -25667,7 +25667,7 @@
   "author": "Open Logic Project",
   "url": "https://builds.openlogicproject.org/open-logic-complete.pdf",
   "notes": "- Open Logic Project (PDF)",
-  "asset": "The.Open.Logic.Text.-.Open.Logic.Project.pdf"
+  "file": "books/subjects/Mathematics/The.Open.Logic.Text.-.Open.Logic.Project.pdf"
  },
  {
   "list": "By Subject",
@@ -25704,7 +25704,7 @@
   "author": "Jonathan A. Poritz",
   "url": "https://www.poritz.net/jonathan/share/yaintt.pdf",
   "notes": "- Jonathan A. Poritz (PDF)",
-  "asset": "Yet.Another.Introductory.Number.Theory.Textbook.-.Jonathan.A..Poritz.pdf"
+  "file": "books/subjects/Mathematics/Yet.Another.Introductory.Number.Theory.Textbook.-.Jonathan.A..Poritz.pdf"
  },
  {
   "list": "By Subject",
