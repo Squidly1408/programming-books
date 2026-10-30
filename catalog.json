@@ -19896,7 +19896,7 @@
   "author": "(PDF)",
   "url": "https://www.uwyo.edu/data-science/_files/docs/unix.pdf",
   "notes": "- (PDF)",
-  "asset": "UNIX.Commands.and.Concepts.-.PDF.pdf"
+  "file": "books/languages/Unix/UNIX.Commands.and.Concepts.-.PDF.pdf"
  },
  {
   "list": "By Programming Language",
@@ -19909,7 +19909,7 @@
   "author": "Kenneth Ward Church",
   "url": "http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf",
   "notes": "- Kenneth Ward Church (PDF)",
-  "asset": "Unix.for.Poets.-.Kenneth.Ward.Church.pdf"
+  "file": "books/languages/Unix/Unix.for.Poets.-.Kenneth.Ward.Church.pdf"
  },
  {
   "list": "By Programming Language",
