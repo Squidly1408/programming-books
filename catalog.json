@@ -23945,7 +23945,7 @@
   "author": "Osvaldo Simeone",
   "url": "https://arxiv.org/pdf/1709.02840.pdf",
   "notes": "- Osvaldo Simeone (PDF)",
-  "asset": "A.Brief.Introduction.to.Machine.Learning.for.Engineers.-.Osvaldo.Simeone.pdf"
+  "file": "books/subjects/Machine Learning/A.Brief.Introduction.to.Machine.Learning.for.Engineers.-.Osvaldo.Simeone.pdf"
  },
  {
   "list": "By Subject",
@@ -23982,7 +23982,7 @@
   "author": "",
   "url": "http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf",
   "notes": "(PDF)",
-  "asset": "A.Course.in.Machine.Learning.pdf"
+  "file": "books/subjects/Machine Learning/A.Course.in.Machine.Learning.pdf"
  },
  {
   "list": "By Subject",
@@ -23995,7 +23995,7 @@
   "author": "Max Welling",
   "url": "https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf",
   "notes": "- Max Welling (PDF) *( :card_file_box: archived)*",
-  "asset": "A.First.Encounter.with.Machine.Learning.-.Max.Welling.pdf"
+  "file": "books/subjects/Machine Learning/A.First.Encounter.with.Machine.Learning.-.Max.Welling.pdf"
  },
  {
   "list": "By Subject",
@@ -24020,7 +24020,7 @@
   "author": "Csaba Szepesv\u00e1ri",
   "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf",
   "notes": "- Csaba Szepesv\u00e1ri (PDF)",
-  "asset": "Algorithms.for.Reinforcement.Learning.-.Csaba.Szepesv.ri.pdf"
+  "file": "books/subjects/Machine Learning/Algorithms.for.Reinforcement.Learning.-.Csaba.Szepesv.ri.pdf"
  },
  {
   "list": "By Subject",
@@ -24201,7 +24201,7 @@
   "author": "Judith Hurwitz, Daniel Kirsch",
   "url": "https://www.ibm.com/downloads/cas/GB8ZMQZ3",
   "notes": "- Judith Hurwitz, Daniel Kirsch",
-  "asset": "IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf"
+  "file": "books/subjects/Machine Learning/IBM.Machine.Learning.for.Dummies.-.Judith.Hurwitz.Daniel.Kirsch.pdf"
  },
  {
   "list": "By Subject",
@@ -24262,7 +24262,7 @@
   "author": "Vijay Janapa Reddi",
   "url": "https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf",
   "notes": "- Vijay Janapa Reddi (PDF)",
-  "asset": "Introduction.to.Machine.Learning.Systems.-.Vijay.Janapa.Reddi.pdf"
+  "file": "books/subjects/Machine Learning/Introduction.to.Machine.Learning.Systems.-.Vijay.Janapa.Reddi.pdf"
  },
  {
   "list": "By Subject",
@@ -24407,7 +24407,7 @@
   "author": "Garrett Thomas",
   "url": "https://gwthomas.github.io/docs/math4ml.pdf",
   "notes": "- Garrett Thomas (PDF)",
-  "asset": "Mathematics.for.Machine.Learning.-.Garrett.Thomas.pdf"
+  "file": "books/subjects/Machine Learning/Mathematics.for.Machine.Learning.-.Garrett.Thomas.pdf"
  },
  {
   "list": "By Subject",
@@ -24456,7 +24456,7 @@
   "author": "Christopher M. Bishop",
   "url": "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
   "notes": "- Christopher M. Bishop (PDF)",
-  "asset": "Pattern.Recognition.and.Machine.Learning.-.Christopher.M..Bishop.pdf"
+  "file": "books/subjects/Machine Learning/Pattern.Recognition.and.Machine.Learning.-.Christopher.M..Bishop.pdf"
  },
  {
   "list": "By Subject",
@@ -24469,7 +24469,7 @@
   "author": "Moritz Hardt, Benjamin Recht",
   "url": "https://mlstory.org/pdf/patterns.pdf",
   "notes": "- Moritz Hardt, Benjamin Recht (PDF)",
-  "asset": "Patterns.Predictions.And.Actions.A.story.about.machine.learning.-.Moritz.Hardt.Benjamin.Recht.pdf"
+  "file": "books/subjects/Machine Learning/Patterns.Predictions.And.Actions.A.story.about.machine.learning.-.Moritz.Hardt.Benjamin.Recht.pdf"
  },
  {
   "list": "By Subject",
@@ -24494,7 +24494,7 @@
   "author": "Khalid Samala, Jarek Kazmierczak, Donna Schut",
   "url": "https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf",
   "notes": "- Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)",
-  "asset": "Practitioners.guide.to.MLOps.-.Khalid.Samala.Jarek.Kazmierczak.Donna.Schut.pdf"
+  "file": "books/subjects/Machine Learning/Practitioners.guide.to.MLOps.-.Khalid.Samala.Jarek.Kazmierczak.Donna.Schut.pdf"
  },
  {
   "list": "By Subject",
@@ -24507,7 +24507,7 @@
   "author": "Kevin P. Murphy",
   "url": "https://github.com/probml/pml-book/releases/latest/download/book1.pdf",
   "notes": "- Kevin P. Murphy (PDF)",
-  "asset": "Probabilistic.Machine.Learning.-.An.Introduction.-.Kevin.P..Murphy.pdf"
+  "file": "books/subjects/Machine Learning/Probabilistic.Machine.Learning.-.An.Introduction.-.Kevin.P..Murphy.pdf"
  },
  {
   "list": "By Subject",
@@ -24544,7 +24544,7 @@
   "author": "Richard S. Sutton, Andrew G. Barto",
   "url": "http://incompleteideas.net/book/RLbook2020.pdf",
   "notes": "- Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)",
-  "asset": "Reinforcement.Learning.An.Introduction.-.Richard.S..Sutton.Andrew.G..Barto.pdf"
+  "file": "books/subjects/Machine Learning/Reinforcement.Learning.An.Introduction.-.Richard.S..Sutton.Andrew.G..Barto.pdf"
  },
  {
   "list": "By Subject",
@@ -24557,7 +24557,7 @@
   "author": "Daniel Jurafsky, James H. Martin",
   "url": "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf",
   "notes": "- Daniel Jurafsky, James H. Martin (PDF)",
-  "asset": "Speech.and.Language.Processing.3rd.Edition.Draft.-.Daniel.Jurafsky.James.H..Martin.pdf"
+  "file": "books/subjects/Machine Learning/Speech.and.Language.Processing.3rd.Edition.Draft.-.Daniel.Jurafsky.James.H..Martin.pdf"
  },
  {
   "list": "By Subject",
@@ -24582,7 +24582,7 @@
   "author": "Roberto Battiti, Mauro Brunato",
   "url": "https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf",
   "notes": "- Roberto Battiti, Mauro Brunato (PDF)",
-  "asset": "The.LION.Way.Machine.Learning.plus.Intelligent.Optimization.-.Roberto.Battiti.Mauro.Brunato.pdf"
+  "file": "books/subjects/Machine Learning/The.LION.Way.Machine.Learning.plus.Intelligent.Optimization.-.Roberto.Battiti.Mauro.Brunato.pdf"
  },
  {
   "list": "By Subject",
@@ -24595,7 +24595,7 @@
   "author": "Fran\u00e7ois Fleuret",
   "url": "https://fleuret.org/public/lbdl.pdf",
   "notes": "- Fran\u00e7ois Fleuret (PDF) (CC BY-NC-SA)",
-  "asset": "The.Little.Book.of.Deep.Learning.-.Fran.ois.Fleuret.pdf"
+  "file": "books/subjects/Machine Learning/The.Little.Book.of.Deep.Learning.-.Fran.ois.Fleuret.pdf"
  },
  {
   "list": "By Subject",
