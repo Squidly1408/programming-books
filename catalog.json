@@ -34,7 +34,7 @@
   "author": "Simon Johnston",
   "url": "https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf",
   "notes": "- Simon Johnston (PDF)",
-  "asset": "A.Guide.to.Ada.for.C.and.C++.Programmers.-.Simon.Johnston.pdf"
+  "file": "books/languages/Ada/A.Guide.to.Ada.for.C.and.C++.Programmers.-.Simon.Johnston.pdf"
  },
  {
   "list": "By Programming Language",
@@ -59,7 +59,7 @@
   "author": "Richard Riehle",
   "url": "http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf",
   "notes": "- Richard Riehle (PDF)",
-  "asset": "Ada.Distilled.-.Richard.Riehle.pdf"
+  "file": "books/languages/Ada/Ada.Distilled.-.Richard.Riehle.pdf"
  },
  {
   "list": "By Programming Language",
@@ -96,7 +96,7 @@
   "author": "",
   "url": "http://www.ada-auth.org/standards/12rm/RM-Final.pdf",
   "notes": "(PDF)",
-  "asset": "Ada.Reference.Manual.-.ISO.IEC.8652.2012.E.Language.and.Standard.Libraries.pdf"
+  "file": "books/languages/Ada/Ada.Reference.Manual.-.ISO.IEC.8652.2012.E.Language.and.Standard.Libraries.pdf"
  },
  {
   "list": "By Programming Language",
