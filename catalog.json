@@ -9694,7 +9694,7 @@
   "author": "",
   "url": "https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf",
   "notes": "(PDF)",
-  "asset": "Jenkins.Starter.Guide.Ebook.pdf"
+  "file": "books/languages/Jenkins/Jenkins.Starter.Guide.Ebook.pdf"
  },
  {
   "list": "By Programming Language",
@@ -9731,7 +9731,7 @@
   "author": "",
   "url": "https://riptutorial.com/Download/jenkins.pdf",
   "notes": "Compiled from StackOverflow Documentation (PDF) (CC BY-SA)",
-  "asset": "Learning.Jenkins.pdf"
+  "file": "books/languages/Jenkins/Learning.Jenkins.pdf"
  },
  {
   "list": "By Programming Language",
