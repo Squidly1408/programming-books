@@ -27389,7 +27389,7 @@
   "author": "",
   "url": "https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf",
   "notes": "(PDF) (book on ZeroMQ)",
-  "asset": "Code.Connected.vol.1.pdf"
+  "file": "books/subjects/Networking/Code.Connected.vol.1.pdf"
  },
  {
   "list": "By Subject",
@@ -27522,7 +27522,7 @@
   "author": "Neha Narkhede",
   "url": "https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf",
   "notes": "- Neha Narkhede (PDF)",
-  "asset": "Kafka.The.definitive.Guide.-.Neha.Narkhede.pdf"
+  "file": "books/subjects/Networking/Kafka.The.definitive.Guide.-.Neha.Narkhede.pdf"
  },
  {
   "list": "By Subject",
@@ -27547,7 +27547,7 @@
   "author": "Paul Cobbaut",
   "url": "https://linux-training.be/linuxnet.pdf",
   "notes": "- Paul Cobbaut (PDF)",
-  "asset": "Linux.Networking.-.Paul.Cobbaut.pdf"
+  "file": "books/subjects/Networking/Linux.Networking.-.Paul.Cobbaut.pdf"
  },
  {
   "list": "By Subject",
@@ -27620,7 +27620,7 @@
   "author": "",
   "url": "http://pages.di.unipi.it/ricci/501302.pdf",
   "notes": "(PDF)",
-  "asset": "Understanding.IP.Addressing.Everything.you.ever.wanted.to.know.pdf"
+  "file": "books/subjects/Networking/Understanding.IP.Addressing.Everything.you.ever.wanted.to.know.pdf"
  },
  {
   "list": "By Subject",
