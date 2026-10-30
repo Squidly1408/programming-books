@@ -11729,7 +11729,7 @@
   "author": "Paul Glavich, Chris Farrell",
   "url": "https://assets.red-gate.com/community/books/dotnet-performance-testing-and-optimization.pdf",
   "notes": "- Paul Glavich, Chris Farrell (PDF)",
-  "asset": "NET.Performance.Testing.and.Optimization.-.The.Complete.Guide.-.Paul.Glavich.Chris.Farrell.pdf"
+  "file": "books/languages/NET Framework/NET.Performance.Testing.and.Optimization.-.The.Complete.Guide.-.Paul.Glavich.Chris.Farrell.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11766,7 +11766,7 @@
   "author": "Chris Farrell, Nick Harrison",
   "url": "https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf",
   "notes": "- Chris Farrell, Nick Harrison (PDF)",
-  "asset": "Under.the.Hood.of..NET.Memory.Management.-.Chris.Farrell.Nick.Harrison.pdf"
+  "file": "books/languages/NET Framework/Under.the.Hood.of..NET.Memory.Management.-.Chris.Farrell.Nick.Harrison.pdf"
  },
  {
   "list": "By Programming Language",
