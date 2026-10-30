@@ -5203,7 +5203,7 @@
   "author": "J.R. Heard",
   "url": "https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf",
   "notes": "- J.R. Heard (PDF) *( :card_file_box: archived)*",
-  "asset": "Beautiful.Code.Compelling.Evidence.-.J.R..Heard.pdf"
+  "file": "books/languages/Haskell/Beautiful.Code.Compelling.Evidence.-.J.R..Heard.pdf"
  },
  {
   "list": "By Programming Language",
@@ -5228,7 +5228,7 @@
   "author": "Andres L\u00f6h",
   "url": "http://www.andres-loeh.de/ExploringGH.pdf",
   "notes": "- Andres L\u00f6h (PDF)",
-  "asset": "Exploring.Generic.Haskell.-.Andres.L.h.pdf"
+  "file": "books/languages/Haskell/Exploring.Generic.Haskell.-.Andres.L.h.pdf"
  },
  {
   "list": "By Programming Language",
@@ -5373,7 +5373,7 @@
   "author": "Kees Doets, Jan van Eijck",
   "url": "https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf",
   "notes": "- Kees Doets, Jan van Eijck (PDF)",
-  "asset": "The.Haskell.Road.to.Logic.Math.and.Programming.-.Kees.Doets.Jan.van.Eijck.pdf"
+  "file": "books/languages/Haskell/The.Haskell.Road.to.Logic.Math.and.Programming.-.Kees.Doets.Jan.van.Eijck.pdf"
  },
  {
   "list": "By Programming Language",
@@ -5386,7 +5386,7 @@
   "author": "Paul Hudak",
   "url": "https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf",
   "notes": "- Paul Hudak (PDF)",
-  "asset": "The.Haskell.School.of.Music.-.From.Signals.to.Symphonies.-.Paul.Hudak.pdf"
+  "file": "books/languages/Haskell/The.Haskell.School.of.Music.-.From.Signals.to.Symphonies.-.Paul.Hudak.pdf"
  },
  {
   "list": "By Programming Language",
@@ -5423,7 +5423,7 @@
   "author": "Hal Daum \u0301e III",
   "url": "http://hal3.name/docs/daume02yaht.pdf",
   "notes": "- Hal Daum \u0301e III (PDF)",
-  "asset": "Yet.Another.Haskell.Tutorial.-.Hal.Daum.e.III.pdf"
+  "file": "books/languages/Haskell/Yet.Another.Haskell.Tutorial.-.Hal.Daum.e.III.pdf"
  },
  {
   "list": "By Programming Language",
