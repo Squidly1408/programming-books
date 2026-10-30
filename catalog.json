@@ -15567,7 +15567,7 @@
   "author": "",
   "url": "https://media.readthedocs.org/pdf/django/1.5.x/django.pdf",
   "notes": "(PDF) (1.5)",
-  "asset": "Django.Official.Documentation.9.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.9.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15581,7 +15581,7 @@
   "author": "",
   "url": "https://media.readthedocs.org/pdf/django/1.7.x/django.pdf",
   "notes": "(PDF) (1.7)",
-  "asset": "Django.Official.Documentation.6.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.6.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15595,7 +15595,7 @@
   "author": "",
   "url": "https://media.readthedocs.org/pdf/django/1.9.x/django.pdf",
   "notes": "(PDF) (1.9)",
-  "asset": "Django.Official.Documentation.4.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.4.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15609,7 +15609,7 @@
   "author": "",
   "url": "https://media.readthedocs.org/pdf/django/1.10.x/django.pdf",
   "notes": "(PDF) (1.10)",
-  "asset": "Django.Official.Documentation.7.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.7.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15623,7 +15623,7 @@
   "author": "",
   "url": "https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf",
   "notes": "(PDF) (2.2)",
-  "asset": "Django.Official.Documentation.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15637,7 +15637,7 @@
   "author": "",
   "url": "https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf",
   "notes": "(PDF) (3.1)",
-  "asset": "Django.Official.Documentation.5.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.5.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15651,7 +15651,7 @@
   "author": "",
   "url": "https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf",
   "notes": "(PDF) (3.2)",
-  "asset": "Django.Official.Documentation.3.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.3.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15665,7 +15665,7 @@
   "author": "",
   "url": "https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf",
   "notes": "(PDF) (4.1)",
-  "asset": "Django.Official.Documentation.8.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.8.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15679,7 +15679,7 @@
   "author": "",
   "url": "https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf",
   "notes": "(PDF) (4.0)",
-  "asset": "Django.Official.Documentation.2.pdf"
+  "file": "books/languages/Python/Django/Django.Official.Documentation.2.pdf"
  },
  {
   "list": "By Programming Language",
@@ -15693,7 +15693,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/django-rest-framework.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Django.Rest.Framework.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/Python/Django/Django.Rest.Framework.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
