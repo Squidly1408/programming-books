@@ -721,7 +721,7 @@
   "author": "David Salomon",
   "url": "https://www.davidsalomon.name/assem.advertis/asl.pdf",
   "notes": "- David Salomon (PDF)",
-  "asset": "Assemblers.And.Loaders.1993.-.David.Salomon.pdf"
+  "file": "books/languages/Assembly Language/Assemblers.And.Loaders.1993.-.David.Salomon.pdf"
  },
  {
   "list": "By Programming Language",
@@ -758,7 +758,7 @@
   "author": "Jonathan Bartlett",
   "url": "https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf",
   "notes": "- Jonathan Bartlett (PDF) (GFDL)",
-  "asset": "Programming.from.the.Ground.Up.-.Jonathan.Bartlett.pdf"
+  "file": "books/languages/Assembly Language/Programming.from.the.Ground.Up.-.Jonathan.Bartlett.pdf"
  },
  {
   "list": "By Programming Language",
@@ -831,7 +831,7 @@
   "author": "Tuomo Tuomo Ven\u00e4l\u00e4inen",
   "url": "https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf",
   "notes": "- Tuomo Tuomo Ven\u00e4l\u00e4inen (PDF) *( :card_file_box: archived)*",
-  "asset": "Wizard.Code.A.View.on.Low-Level.Programming.-.Tuomo.Tuomo.Ven.l.inen.pdf"
+  "file": "books/languages/Assembly Language/Wizard.Code.A.View.on.Low-Level.Programming.-.Tuomo.Tuomo.Ven.l.inen.pdf"
  },
  {
   "list": "By Programming Language",
