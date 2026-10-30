@@ -7,14 +7,19 @@ and [By Subject](https://github.com/EbookFoundation/free-programming-books/blob/
 
 ## Where the books are
 
-- **[CATALOG.md](CATALOG.md)**: every English book, grouped by language or subject, with a
-  **download** link to the mirrored copy (when there is one) and a link to the original.
-- **[Releases](../../releases)**: the actual files. There is one release per section
-  (e.g. `python`, `javascript`, `algorithms-data-structures`). Each book is attached
-  as a PDF, EPUB, MOBI, DjVu or ZIP.
+- **[`books/`](books)**: the actual book files (PDF, EPUB, MOBI, DjVu or ZIP), in folders:
+  - `books/languages/<Language>/`, e.g. `books/languages/Python/`, `books/languages/Python/Django/`
+  - `books/subjects/<Subject>/`, e.g. `books/subjects/Algorithms & Data Structures/`
+- **[CATALOG.md](CATALOG.md)**: every English book, grouped by language or subject, with a link to
+  the file in this repo (when there is one) and a link to the original.
 
-The files are stored as release assets, not in the git history, so cloning this repo stays small.
-Clone it without worrying about size, and download only the books you want.
+The repo is a few GB because of the books. To grab just one folder without cloning everything:
+
+```bash
+git clone --filter=blob:none --sparse https://github.com/Squidly1408/programming-books.git
+```
+
+then `git sparse-checkout set "books/languages/Python"` inside it.
 
 ## What gets mirrored
 
@@ -26,7 +31,10 @@ These are **not** copied, and only the original link is kept:
 
 - Books that are websites or HTML (read online, Leanpub, GitBook, etc.)
 - Landing pages where the download needs a click, a sign-up or a form
-- Dead or very slow links, and files over 1.9 GB
+- Dead or very slow links
+
+GitHub doesn't allow files over 100 MB in a repo, so any book that big is attached to a
+[release](../../releases) instead, and CATALOG.md links to it there.
 
 ## How it works
 
@@ -36,8 +44,8 @@ your own machine. It:
 
 1. Fetches the current English lists from free-programming-books.
 2. Downloads each book file in parallel, section by section.
-3. Uploads new files to the matching release and skips ones already mirrored.
-4. Writes `CATALOG.md` and `catalog.json` and commits them.
+3. Saves each book into its `books/` folder and commits and pushes after every section.
+4. Skips books it already has, then writes `CATALOG.md` and `catalog.json`.
 
 It runs on the 1st of every month to pick up new books. To run it now, go to
 **Actions → Mirror books → Run workflow**, or:

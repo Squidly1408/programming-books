@@ -3,7 +3,8 @@
 
 Runs inside GitHub Actions. For every English book entry it tries to fetch the
 link; if the response is an actual book file (PDF, EPUB, MOBI, DjVu, ZIP) it is
-uploaded as an asset on a GitHub Release named after the book's section.
+saved under books/<languages|subjects>/<section>/ and committed to the repo.
+Files over 95 MB can't go in git, so those become release assets instead.
 Entries that are web pages (HTML books, landing pages, dead links) are kept as
 links only. A CATALOG.md describing everything is written at the end.
 """
@@ -28,6 +29,9 @@ LISTS = {
 }
 REPO = os.environ["GITHUB_REPOSITORY"]
 MAX_BYTES = 1_900_000_000  # release assets are capped at 2 GiB
+GIT_MAX_BYTES = 95_000_000  # GitHub rejects files over 100 MB
+BOOKS_DIR = "books"
+LIST_DIRS = {"By Programming Language": "languages", "By Subject": "subjects"}
 WORKERS = 16
 NAME_LOCK = threading.Lock()
 HEADERS = {"User-Agent": "Mozilla/5.0 (programming-books mirror; +https://github.com/%s)" % REPO}
@@ -65,6 +69,7 @@ def parse(name, filename):
         label = section + (" / " + sub if sub else "")
         books.append({
             "list": name, "section": label, "tag": slug(label),
+            "parts": [section] + ([sub] if sub else []),
             "title": m["title"].strip(), "author": author, "url": m["url"], "notes": rest,
         })
     return books
@@ -143,11 +148,47 @@ def gh(*args, check=True):
     return subprocess.run(["gh", *args], capture_output=True, text=True, check=check)
 
 
+def git(*args, check=True):
+    return subprocess.run(["git", *args], capture_output=True, text=True, check=check)
+
+
 def existing_assets(tag):
     r = gh("release", "view", tag, "--repo", REPO, "--json", "assets", check=False)
     if r.returncode != 0:
         return None
     return {a["name"] for a in json.loads(r.stdout)["assets"]}
+
+
+def book_dir(b):
+    parts = [LIST_DIRS[b["list"]]] + [re.sub(r'[<>:"/\\|?*]+', "-", p).strip(" .-") for p in b["parts"]]
+    return os.path.join(BOOKS_DIR, *parts)
+
+
+def from_release(b, tag, name, dest):
+    """Copy a book mirrored by an earlier run (as a release asset) into the repo."""
+    tmp = tempfile.mkdtemp()
+    r = gh("release", "download", tag, "--repo", REPO, "--pattern", name, "--dir", tmp, check=False)
+    src = os.path.join(tmp, name)
+    if r.returncode != 0 or not os.path.exists(src):
+        shutil.rmtree(tmp, ignore_errors=True)
+        return None
+    os.makedirs(dest, exist_ok=True)
+    path = os.path.join(dest, name)
+    shutil.move(src, path)
+    shutil.rmtree(tmp, ignore_errors=True)
+    return path
+
+
+def commit_and_push(message):
+    git("add", "-A", BOOKS_DIR, "catalog.json")
+    if git("diff", "--cached", "--quiet", check=False).returncode == 0:
+        return
+    git("commit", "-q", "-m", message)
+    for _ in range(3):
+        if git("push", "-q", check=False).returncode == 0:
+            return
+        git("pull", "-q", "--rebase", check=False)
+    print("  ! push failed", flush=True)
 
 
 def main():
@@ -167,47 +208,66 @@ def main():
 
     for tag, items in sections.items():
         label = items[0]["section"]
+        dest = book_dir(items[0])
         assets = existing_assets(tag)
         todo = []
         for b in items:
-            prev = state.get(b["url"])
-            if prev and prev.get("asset") and assets and prev["asset"] in assets:
+            prev = state.get(b["url"]) or {}
+            if prev.get("file") and os.path.exists(prev["file"]):
+                b["file"] = prev["file"]
+            elif prev.get("asset") and assets and prev["asset"] in assets:
                 b["asset"] = prev["asset"]
+                todo.append(b)
             else:
                 todo.append(b)
         if not todo:
             continue
         print("== %s (%d to check)" % (label, len(todo)), flush=True)
-        workdir = tempfile.mkdtemp()
+        os.makedirs(dest, exist_ok=True)
+
+        def get(b):
+            if b.get("asset"):
+                path = from_release(b, tag, b["asset"], dest)
+                if path:
+                    return path
+            return fetch(b, dest)
+
         with cf.ThreadPoolExecutor(WORKERS) as pool:
-            paths = list(pool.map(lambda b: fetch(b, workdir), todo))
-        got = [(b, p) for b, p in zip(todo, paths) if p]
-        if got:
+            paths = list(pool.map(get, todo))
+        for b, p in zip(todo, paths):
+            if not p:
+                continue
+            name = os.path.basename(p)
+            if os.path.getsize(p) <= GIT_MAX_BYTES:
+                b["file"] = p.replace(os.sep, "/")
+                b.pop("asset", None)
+                print("  + %s" % b["file"], flush=True)
+                continue
+            # Too big for a git file (100 MB limit): keep it as a release asset instead.
             if assets is None:
                 gh("release", "create", tag, "--repo", REPO, "--target", os.environ.get("GITHUB_REF_NAME", "main"),
-                   "--title", label, "--notes", "Mirrored English books for **%s**. See CATALOG.md for details." % label)
+                   "--title", label, "--notes", "Books for **%s** too large to store in the repo." % label)
                 assets = set()
-            for b, p in got:
-                name = os.path.basename(p)
-                if name not in assets:
-                    r = gh("release", "upload", tag, p, "--repo", REPO, "--clobber", check=False)
-                    if r.returncode != 0:
-                        print("  ! upload failed for %s: %s" % (name, r.stderr.strip()), flush=True)
-                        continue
+            if name in assets or gh("release", "upload", tag, p, "--repo", REPO, "--clobber", check=False).returncode == 0:
                 b["asset"] = name
-                print("  + %s" % name, flush=True)
-        shutil.rmtree(workdir, ignore_errors=True)
-        # Save progress after every section so a timed-out run can resume.
+                print("  + %s (release, too large for git)" % name, flush=True)
+            os.remove(p)
+        try:
+            os.rmdir(dest)  # only removes it if nothing was saved
+        except OSError:
+            pass
+        # Commit after every section so a timed-out run keeps its progress.
         json.dump(books, open(state_path, "w"), indent=1)
+        commit_and_push("Add books: %s" % label)
 
     json.dump(books, open(state_path, "w"), indent=1)
     write_catalog(books)
 
 
 def write_catalog(books):
-    mirrored = sum(1 for b in books if b.get("asset"))
+    mirrored = sum(1 for b in books if b.get("file") or b.get("asset"))
     out = ["# Catalog", "",
-           "%d English books listed, **%d mirrored** as downloadable files. "
+           "%d English books listed, **%d saved as files** in [`books/`](books). "
            "Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept." % (len(books), mirrored),
            ""]
     current_list = prev_section = None
@@ -219,13 +279,15 @@ def write_catalog(books):
             out += ["", "### " + b["section"], "", "| Book | Author | Copy | Original |", "|---|---|---|---|"]
         prev_section = b["section"]
         copy = ""
-        if b.get("asset"):
+        if b.get("file"):
+            copy = "[%s](%s)" % (b["file"].rsplit(".", 1)[-1].upper(), urllib.parse.quote(b["file"]))
+        elif b.get("asset"):
             copy = "[download](https://github.com/%s/releases/download/%s/%s)" % (
                 REPO, b["tag"], urllib.parse.quote(b["asset"]))
         cell = lambda s: s.replace("|", "\\|")
         out.append("| %s | %s | %s | [link](%s) |" % (cell(b["title"]), cell(b["author"]), copy, b["url"]))
     open("CATALOG.md", "w", encoding="utf-8").write("\n".join(out) + "\n")
-    print("Catalog written: %d/%d mirrored" % (mirrored, len(books)), flush=True)
+    print("Catalog written: %d/%d saved" % (mirrored, len(books)), flush=True)
 
 
 if __name__ == "__main__":
