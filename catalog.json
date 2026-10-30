@@ -12964,7 +12964,7 @@
   "author": "Povilas Korop / LaravelDaily Team",
   "url": "https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf",
   "notes": "- Povilas Korop / LaravelDaily Team (PDF)",
-  "asset": "100.and.counting.Laravel.Quick.Tips.-.Povilas.Korop.LaravelDaily.Team.pdf"
+  "file": "books/languages/PHP/Laravel/100.and.counting.Laravel.Quick.Tips.-.Povilas.Korop.LaravelDaily.Team.pdf"
  },
  {
   "list": "By Programming Language",
@@ -13043,7 +13043,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/laravel.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Learning.Laravel.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/PHP/Laravel/Learning.Laravel.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
