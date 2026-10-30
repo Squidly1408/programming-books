@@ -22630,7 +22630,7 @@
   "author": "Alex Williams",
   "url": "https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf",
   "notes": "- Alex Williams (PDF)",
-  "asset": "Kubernetes.Deployment.Security.Patterns.-.Alex.Williams.pdf"
+  "file": "books/subjects/Containers/Kubernetes.Deployment.Security.Patterns.-.Alex.Williams.pdf"
  },
  {
   "list": "By Subject",
