@@ -29453,7 +29453,7 @@
   "author": "Max Kanat-Alexander",
   "url": "https://www.codesimplicity.com/book.pdf",
   "notes": "- Max Kanat-Alexander (PDF)",
-  "asset": "Code.Simplicity.The.Fundamentals.of.Software.-.Max.Kanat-Alexander.pdf"
+  "file": "books/subjects/Software Architecture/Code.Simplicity.The.Fundamentals.of.Software.-.Max.Kanat-Alexander.pdf"
  },
  {
   "list": "By Subject",
@@ -29478,7 +29478,7 @@
   "author": "Ben Stopford",
   "url": "https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf",
   "notes": "- Ben Stopford (PDF)",
-  "asset": "Designing.Event-Driven.Systems..Concepts.and.Patterns.for.Streaming.Services.with.Apache.Kafka.-.Ben.Stopford.pdf"
+  "file": "books/subjects/Software Architecture/Designing.Event-Driven.Systems..Concepts.and.Patterns.for.Streaming.Services.with.Apache.Kafka.-.Ben.Stopford.pdf"
  },
  {
   "list": "By Subject",
@@ -29635,7 +29635,7 @@
   "author": "Mark Richards",
   "url": "http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf",
   "notes": "- Mark Richards (PDF) *( :card_file_box: archived)*",
-  "asset": "Microservices.AntiPatterns.and.Pitfalls.-.Mark.Richards.pdf"
+  "file": "books/subjects/Software Architecture/Microservices.AntiPatterns.and.Pitfalls.-.Mark.Richards.pdf"
  },
  {
   "list": "By Subject",
