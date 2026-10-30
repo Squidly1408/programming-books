@@ -56,10 +56,12 @@ def parse(name, filename):
     for line in text.splitlines():
         h = HEADING_RE.match(line)
         if h:
+            # Headings can hold anchors and escapes, e.g. '<a id="csharp"></a>C\#'.
+            heading = re.sub(r"<[^>]+>", "", h.group(2)).replace("\\", "").strip()
             if len(h.group(1)) == 3:
-                section, sub = h.group(2), None
+                section, sub = heading, None
             else:
-                sub = h.group(2)
+                sub = heading
             continue
         m = ENTRY_RE.match(line)
         if not m or not section or section.lower() == "index" or m["url"].startswith("#"):
