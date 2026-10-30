@@ -13332,7 +13332,7 @@
   "author": "",
   "url": "https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf",
   "notes": "(PDF)",
-  "asset": "Layman.s.Guide.to.PowerShell.2.0.remoting.pdf"
+  "file": "books/languages/PowerShell/Layman.s.Guide.to.PowerShell.2.0.remoting.pdf"
  },
  {
   "list": "By Programming Language",
@@ -13393,7 +13393,7 @@
   "author": "",
   "url": "https://web.archive.org/web/20210712072756/http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf",
   "notes": "(PDF) *( :card_file_box: archived)*",
-  "asset": "PowerShell.2.0.One.CMDLET.At.A.Time.pdf"
+  "file": "books/languages/PowerShell/PowerShell.2.0.One.CMDLET.At.A.Time.pdf"
  },
  {
   "list": "By Programming Language",
