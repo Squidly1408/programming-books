@@ -11937,7 +11937,7 @@
   "author": "Niklaus Wirth",
   "url": "https://inf.ethz.ch/personal/wirth/AD.pdf",
   "notes": "- Niklaus Wirth (PDF)",
-  "asset": "Algorithms.and.Data-Structures.-.Niklaus.Wirth.pdf"
+  "file": "books/languages/Oberon/Algorithms.and.Data-Structures.-.Niklaus.Wirth.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11950,7 +11950,7 @@
   "author": "Hanspeter M\u00f6ssenb\u00f6ck",
   "url": "http://ssw.jku.at/Research/Books/Oberon2.pdf",
   "notes": "- Hanspeter M\u00f6ssenb\u00f6ck (PDF)",
-  "asset": "Object-Oriented.Programming.in.Oberon-2.-.Hanspeter.M.ssenb.ck.pdf"
+  "file": "books/languages/Oberon/Object-Oriented.Programming.in.Oberon-2.-.Hanspeter.M.ssenb.ck.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11963,7 +11963,7 @@
   "author": "Niklaus Wirth",
   "url": "https://www.inf.ethz.ch/personal/wirth/ProgInOberonWR.pdf",
   "notes": "- Niklaus Wirth (PDF)",
-  "asset": "Programming.in.Oberon.-.Niklaus.Wirth.pdf"
+  "file": "books/languages/Oberon/Programming.in.Oberon.-.Niklaus.Wirth.pdf"
  },
  {
   "list": "By Programming Language",
