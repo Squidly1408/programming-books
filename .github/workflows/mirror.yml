@@ -25,7 +25,11 @@ jobs:
 
       - run: pip install requests
 
-      - name: Download books and upload to releases
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Download books into the repo
         # Leave time for the catalog commit so a long run can resume next time.
         timeout-minutes: 320
         continue-on-error: true

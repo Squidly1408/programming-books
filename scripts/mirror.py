@@ -201,6 +201,12 @@ def main():
     for name, filename in LISTS.items():
         books += parse(name, filename)
     print("Parsed %d English book entries" % len(books), flush=True)
+    # Carry over what earlier runs saved, so a run that stops early doesn't forget it.
+    for b in books:
+        prev = state.get(b["url"]) or {}
+        for key in ("file", "asset"):
+            if prev.get(key):
+                b[key] = prev[key]
 
     sections = {}
     for b in books:
@@ -212,14 +218,12 @@ def main():
         assets = existing_assets(tag)
         todo = []
         for b in items:
-            prev = state.get(b["url"]) or {}
-            if prev.get("file") and os.path.exists(prev["file"]):
-                b["file"] = prev["file"]
-            elif prev.get("asset") and assets and prev["asset"] in assets:
-                b["asset"] = prev["asset"]
-                todo.append(b)
-            else:
-                todo.append(b)
+            if b.get("file") and os.path.exists(b["file"]):
+                continue
+            b.pop("file", None)
+            if b.get("asset") and not (assets and b["asset"] in assets):
+                b.pop("asset")
+            todo.append(b)
         if not todo:
             continue
         print("== %s (%d to check)" % (label, len(todo)), flush=True)
