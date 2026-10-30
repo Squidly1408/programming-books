@@ -11122,7 +11122,7 @@
   "author": "Christos Xenophontos",
   "url": "http://math.loyola.edu/~loberbro/matlab/Beginners_guide_to_MATLAB.pdf",
   "notes": "- Christos Xenophontos (PDF)",
-  "asset": "A.Beginner.s.Guide.to.Matlab.-.Christos.Xenophontos.pdf"
+  "file": "books/languages/MATLAB/A.Beginner.s.Guide.to.Matlab.-.Christos.Xenophontos.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11135,7 +11135,7 @@
   "author": "",
   "url": "http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf",
   "notes": "(PDF)",
-  "asset": "An.Interactive.Introduction.to.MATLAB.pdf"
+  "file": "books/languages/MATLAB/An.Interactive.Introduction.to.MATLAB.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11208,7 +11208,7 @@
   "author": "David Houcque",
   "url": "https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf",
   "notes": "- David Houcque (PDF) (1.2, 2005)",
-  "asset": "Introduction.to.MATLAB.for.Engineering.Students.-.David.Houcque.pdf"
+  "file": "books/languages/MATLAB/Introduction.to.MATLAB.for.Engineering.Students.-.David.Houcque.pdf"
  },
  {
   "list": "By Programming Language",
@@ -11329,7 +11329,7 @@
   "author": "Jeffrey R. Chasnov",
   "url": "https://www.math.ust.hk/~machas/scientific-computing.pdf",
   "notes": "- Jeffrey R. Chasnov (PDF) (CC BY)",
-  "asset": "Scientific.Computing.-.Jeffrey.R..Chasnov.pdf"
+  "file": "books/languages/MATLAB/Scientific.Computing.-.Jeffrey.R..Chasnov.pdf"
  },
  {
   "list": "By Programming Language",
