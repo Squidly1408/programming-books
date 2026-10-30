@@ -17586,7 +17586,7 @@
   "author": "Jarrod Overson",
   "url": "https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf",
   "notes": "- Jarrod Overson (PDF)",
-  "asset": "From.JavaScript.to.Rust.ebook.-.Jarrod.Overson.pdf"
+  "file": "books/languages/Rust/From.JavaScript.to.Rust.ebook.-.Jarrod.Overson.pdf"
  },
  {
   "list": "By Programming Language",
@@ -17647,7 +17647,7 @@
   "author": "StackOverflow Contributors",
   "url": "https://riptutorial.com/Download/rust.pdf",
   "notes": "- StackOverflow Contributors (PDF)",
-  "asset": "Learning.Rust.Ebook.-.StackOverflow.Contributors.pdf"
+  "file": "books/languages/Rust/Learning.Rust.Ebook.-.StackOverflow.Contributors.pdf"
  },
  {
   "list": "By Programming Language",
