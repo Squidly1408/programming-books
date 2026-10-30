@@ -3437,7 +3437,7 @@
   "author": "Nvidia",
   "url": "https://web.archive.org/web/20170517050133/https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf",
   "notes": "- Nvidia (PDF) *( :card_file_box: archived)*",
-  "asset": "CUDA.C.Best.Practices.Guide.-.Nvidia.pdf"
+  "file": "books/languages/CUDA/CUDA.C.Best.Practices.Guide.-.Nvidia.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3450,7 +3450,7 @@
   "author": "Nvidia",
   "url": "https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf",
   "notes": "- Nvidia (PDF) *( :card_file_box: archived)*",
-  "asset": "CUDA.C.Programming.Guide.-.Nvidia.pdf"
+  "file": "books/languages/CUDA/CUDA.C.Programming.Guide.-.Nvidia.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3463,7 +3463,7 @@
   "author": "Nvidia",
   "url": "https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf",
   "notes": "- Nvidia (PDF)",
-  "asset": "CUDA.C++.Best.Practices.Guide.-.Nvidia.pdf"
+  "file": "books/languages/CUDA/CUDA.C++.Best.Practices.Guide.-.Nvidia.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3476,7 +3476,7 @@
   "author": "Nvidia",
   "url": "https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf",
   "notes": "- Nvidia (PDF)",
-  "asset": "CUDA.C++.Programming.guide.-.Nvidia.pdf"
+  "file": "books/languages/CUDA/CUDA.C++.Programming.guide.-.Nvidia.pdf"
  },
  {
   "list": "By Programming Language",
@@ -3489,7 +3489,7 @@
   "author": "Nvidia",
   "url": "http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf",
   "notes": "- Nvidia (PDF)",
-  "asset": "OpenCL.Programming.Guide.for.CUDA.Architecture.-.Nvidia.pdf"
+  "file": "books/languages/CUDA/OpenCL.Programming.Guide.for.CUDA.Architecture.-.Nvidia.pdf"
  },
  {
   "list": "By Programming Language",
