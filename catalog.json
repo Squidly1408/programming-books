@@ -10607,7 +10607,7 @@
   "author": "",
   "url": "https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf",
   "notes": "(PDF)",
-  "asset": "ANSI.Common.Lisp.Standard.draft.version.15.17R.X3J13.94-101R.pdf"
+  "file": "books/languages/Lisp/ANSI.Common.Lisp.Standard.draft.version.15.17R.X3J13.94-101R.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10620,7 +10620,7 @@
   "author": "David J. Cooper Jr.",
   "url": "http://franz.com/resources/educational_resources/cooper.book.pdf",
   "notes": "- David J. Cooper Jr. (PDF)",
-  "asset": "Basic.Lisp.Techniques.-.David.J..Cooper.Jr.pdf"
+  "file": "books/languages/Lisp/Basic.Lisp.Techniques.-.David.J..Cooper.Jr.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10705,7 +10705,7 @@
   "author": "Gary D. Knott",
   "url": "http://www.civilized.com/files/lispbook.pdf",
   "notes": "- Gary D. Knott (PDF)",
-  "asset": "Interpreting.LISP.-.Gary.D..Knott.pdf"
+  "file": "books/languages/Lisp/Interpreting.LISP.-.Gary.D..Knott.pdf"
  },
  {
   "list": "By Programming Language",
@@ -10838,7 +10838,7 @@
   "author": "Guy L. Steele Jr., Richard P. Gabriel",
   "url": "http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf",
   "notes": "- Guy L. Steele Jr., Richard P. Gabriel (PDF)",
-  "asset": "The.Evolution.of.Lisp.-.Guy.L..Steele.Jr..Richard.P..Gabriel.pdf"
+  "file": "books/languages/Lisp/The.Evolution.of.Lisp.-.Guy.L..Steele.Jr..Richard.P..Gabriel.pdf"
  },
  {
   "list": "By Programming Language",
