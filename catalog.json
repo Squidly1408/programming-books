@@ -19029,7 +19029,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://riptutorial.com/Download/microsoft-sql-server.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF)",
-  "asset": "Learning.Microsoft.SQL.Server.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/SQL Server/Learning.Microsoft.SQL.Server.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
@@ -19126,7 +19126,7 @@
   "author": "Grant Fritchey",
   "url": "https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf",
   "notes": "- Grant Fritchey (PDF)",
-  "asset": "SQL.Server.Execution.Plans.Third.Edition.-.Grant.Fritchey.pdf"
+  "file": "books/languages/SQL Server/SQL.Server.Execution.Plans.Third.Edition.-.Grant.Fritchey.pdf"
  },
  {
   "list": "By Programming Language",
