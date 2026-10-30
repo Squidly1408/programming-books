@@ -30008,7 +30008,7 @@
   "author": "",
   "url": "http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf",
   "notes": "(PDF)",
-  "asset": "Category.Theory.for.Computing.Science.pdf"
+  "file": "books/subjects/Theoretical Computer Science/Category.Theory.for.Computing.Science.pdf"
  },
  {
   "list": "By Subject",
@@ -30057,7 +30057,7 @@
   "author": "Boaz Barak",
   "url": "https://files.boazbarak.org/introtcs/lnotes_book.pdf",
   "notes": "- Boaz Barak (PDF)",
-  "asset": "Introduction.to.Theoretical.Computer.Science.-.Boaz.Barak.pdf"
+  "file": "books/subjects/Theoretical Computer Science/Introduction.to.Theoretical.Computer.Science.-.Boaz.Barak.pdf"
  },
  {
   "list": "By Subject",
@@ -30154,7 +30154,7 @@
   "author": "Hanne Riis Nielson, Flemming Nielson",
   "url": "https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf",
   "notes": "- Hanne Riis Nielson, Flemming Nielson (PDF)",
-  "asset": "Semantics.with.Applications.A.Formal.Introduction.-.Hanne.Riis.Nielson.Flemming.Nielson.pdf"
+  "file": "books/subjects/Theoretical Computer Science/Semantics.with.Applications.A.Formal.Introduction.-.Hanne.Riis.Nielson.Flemming.Nielson.pdf"
  },
  {
   "list": "By Subject",
