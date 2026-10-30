@@ -1127,7 +1127,7 @@
   "author": "Anthony Scemama",
   "url": "https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf",
   "notes": "- Anthony Scemama (PDF) *( :card_file_box: archived)*",
-  "asset": "Bash.tutorial.-.Anthony.Scemama.pdf"
+  "file": "books/languages/Bash/Bash.tutorial.-.Anthony.Scemama.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1176,7 +1176,7 @@
   "author": "Richard Smedley",
   "url": "https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf",
   "notes": "- Richard Smedley (PDF)",
-  "asset": "Conquer.the.Command.Line.-.Richard.Smedley.pdf"
+  "file": "books/languages/Bash/Conquer.the.Command.Line.-.Richard.Smedley.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1225,7 +1225,7 @@
   "author": "",
   "url": "https://www.gnu.org/software/bash/manual/bash.pdf",
   "notes": "(PDF)",
-  "asset": "GNU.Bash.manual.pdf"
+  "file": "books/languages/Bash/GNU.Bash.manual.pdf"
  },
  {
   "list": "By Programming Language",
@@ -1298,7 +1298,7 @@
   "author": "Ken O. Burtch",
   "url": "https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf",
   "notes": "- Ken O. Burtch (PDF)",
-  "asset": "Linux.Shell.Scripting.With.Bash.-.Ken.O..Burtch.pdf"
+  "file": "books/languages/Bash/Linux.Shell.Scripting.With.Bash.-.Ken.O..Burtch.pdf"
  },
  {
   "list": "By Programming Language",
