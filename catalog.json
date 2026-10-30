@@ -22166,7 +22166,7 @@
   "author": "Praseed Pai",
   "url": "https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf",
   "notes": "- Praseed Pai (PDF)",
-  "asset": "Compiler.Construction.using.C.SLANGFOR.NET.-.Praseed.Pai.pdf"
+  "file": "books/subjects/Compiler Design/Compiler.Construction.using.C.SLANGFOR.NET.-.Praseed.Pai.pdf"
  },
  {
   "list": "By Subject",
@@ -22179,7 +22179,7 @@
   "author": "Allen Holub, Prentice Hall",
   "url": "https://holub.com/goodies/compiler/compilerDesignInC.pdf",
   "notes": "- Allen Holub, Prentice Hall (PDF)",
-  "asset": "Compiler.Design.in.C.1990.-.Allen.Holub.Prentice.Hall.pdf"
+  "file": "books/subjects/Compiler Design/Compiler.Design.in.C.1990.-.Allen.Holub.Prentice.Hall.pdf"
  },
  {
   "list": "By Subject",
@@ -22191,8 +22191,7 @@
   "title": "Compiler Design: Theory, Tools, and Examples, C/C++ Edition",
   "author": "Seth D. Bergmann",
   "url": "https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf",
-  "notes": "- Seth D. Bergmann (PDF) *( :card_file_box: archived)*",
-  "asset": "Compiler.Design.Theory.Tools.and.Examples.C.C++.Edition.-.Seth.D..Bergmann.pdf"
+  "notes": "- Seth D. Bergmann (PDF) *( :card_file_box: archived)*"
  },
  {
   "list": "By Subject",
@@ -22205,7 +22204,7 @@
   "author": "Seth D. Bergmann",
   "url": "https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf",
   "notes": "- Seth D. Bergmann (PDF) *( :card_file_box: archived)*",
-  "asset": "Compiler.Design.Theory.Tools.and.Examples.Java.Edition.-.Seth.D..Bergmann.pdf"
+  "file": "books/subjects/Compiler Design/Compiler.Design.Theory.Tools.and.Examples.Java.Edition.-.Seth.D..Bergmann.pdf"
  },
  {
   "list": "By Subject",
@@ -22218,7 +22217,7 @@
   "author": "Michel Schinz",
   "url": "https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf",
   "notes": "- Michel Schinz (PDF)",
-  "asset": "Compiling.Scala.for.the.Java.Virtual.Machine.-.Michel.Schinz.pdf"
+  "file": "books/subjects/Compiler Design/Compiling.Scala.for.the.Java.Virtual.Machine.-.Michel.Schinz.pdf"
  },
  {
   "list": "By Subject",
@@ -22291,7 +22290,7 @@
   "author": "Jack W. Crenshaw",
   "url": "https://www.stack.nl/~marcov/compiler.pdf",
   "notes": "- Jack W. Crenshaw (PDF)",
-  "asset": "Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf"
+  "file": "books/subjects/Compiler Design/Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf"
  },
  {
   "list": "By Subject",
