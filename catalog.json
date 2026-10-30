@@ -18093,7 +18093,7 @@
   "author": "Fredrik Skeel L\u00f8kke",
   "url": "http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf",
   "notes": "- Fredrik Skeel L\u00f8kke (PDF)",
-  "asset": "Scala.Design.Patterns.Exploring.Language.Expressivity.-.Fredrik.Skeel.L.kke.pdf"
+  "file": "books/languages/Scala/Scala.Design.Patterns.Exploring.Language.Expressivity.-.Fredrik.Skeel.L.kke.pdf"
  },
  {
   "list": "By Programming Language",
@@ -18118,7 +18118,7 @@
   "author": "M. Odersky",
   "url": "https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf",
   "notes": "- M. Odersky (PDF)",
-  "asset": "Scala.By.Example.-.M..Odersky.pdf"
+  "file": "books/languages/Scala/Scala.By.Example.-.M..Odersky.pdf"
  },
  {
   "list": "By Programming Language",
