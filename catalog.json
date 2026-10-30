@@ -595,7 +595,7 @@
   "author": "Rick Anderson, Scott Hanselman",
   "url": "http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf",
   "notes": "- Rick Anderson, Scott Hanselman (PDF)",
-  "asset": "Intro.to.ASPNET.MVC.4.with.Visual.Studio.2011.Beta.2012.-.Rick.Anderson.Scott.Hanselman.pdf"
+  "file": "books/languages/ASP.NET/Intro.to.ASPNET.MVC.4.with.Visual.Studio.2011.Beta.2012.-.Rick.Anderson.Scott.Hanselman.pdf"
  },
  {
   "list": "By Programming Language",
@@ -608,7 +608,7 @@
   "author": "Mike Pope",
   "url": "https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf",
   "notes": "- Mike Pope (PDF)",
-  "asset": "Introducing.ASP.NET.Web.Pages.2.2012.-.Mike.Pope.pdf"
+  "file": "books/languages/ASP.NET/Introducing.ASP.NET.Web.Pages.2.2012.-.Mike.Pope.pdf"
  },
  {
   "list": "By Programming Language",
@@ -621,7 +621,7 @@
   "author": "Compiled from StackOverflow Documentation",
   "url": "https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf",
   "notes": "- Compiled from StackOverflow Documentation (PDF) (CC BY-SA)",
-  "asset": "NET.Framework.Notes.for.Professionals.-.Compiled.from.StackOverflow.Documentation.pdf"
+  "file": "books/languages/ASP.NET/NET.Framework.Notes.for.Professionals.-.Compiled.from.StackOverflow.Documentation.pdf"
  },
  {
   "list": "By Programming Language",
