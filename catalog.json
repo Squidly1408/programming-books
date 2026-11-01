@@ -6147,8 +6147,8 @@
   ],
   "title": "Web Audio API",
   "author": "Boris Smus",
-  "url": "http://chimera.labs.oreilly.com/books/1234000001552",
-  "notes": "- Boris Smus"
+  "url": "https://webaudioapi.com",
+  "notes": "- Boris Smus (HTML, PDF, EPUB, MOBI) (CC BY-NC-ND)"
  },
  {
   "list": "By Programming Language",
@@ -21561,6 +21561,18 @@
   "parts": [
    "Artificial Intelligence"
   ],
+  "title": "PyLLM: Build your own GPT from scratch in Python",
+  "author": "Rob Cox",
+  "url": "https://robcox2910.github.io/pyllm/",
+  "notes": "- Rob Cox (HTML)"
+ },
+ {
+  "list": "By Subject",
+  "section": "Artificial Intelligence",
+  "tag": "artificial-intelligence",
+  "parts": [
+   "Artificial Intelligence"
+  ],
   "title": "RAG + Knowledge Graph Master Course",
   "author": "Addy",
   "url": "https://www.thequery.in/books/rag-kg-master-course",
@@ -22298,6 +22310,18 @@
   "url": "https://www.stack.nl/~marcov/compiler.pdf",
   "notes": "- Jack W. Crenshaw (PDF)",
   "file": "books/subjects/Compiler Design/Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf"
+ },
+ {
+  "list": "By Subject",
+  "section": "Compiler Design",
+  "tag": "compiler-design",
+  "parts": [
+   "Compiler Design"
+  ],
+  "title": "Pebble: Build your own programming language and compiler in Python",
+  "author": "Rob Cox",
+  "url": "https://robcox2910.github.io/pebble-lang/",
+  "notes": "- Rob Cox (HTML)"
  },
  {
   "list": "By Subject",
@@ -23054,6 +23078,18 @@
   "author": "",
   "url": "http://webdam.inria.fr/Alice/",
   "notes": ""
+ },
+ {
+  "list": "By Subject",
+  "section": "Database",
+  "tag": "database",
+  "parts": [
+   "Database"
+  ],
+  "title": "PyDB: Build your own SQL database in Python",
+  "author": "Rob Cox",
+  "url": "https://robcox2910.github.io/pydb/",
+  "notes": "- Rob Cox (HTML)"
  },
  {
   "list": "By Subject",
@@ -27599,6 +27635,18 @@
   "parts": [
    "Networking"
   ],
+  "title": "PyNet: Build your own networking library in Python",
+  "author": "Rob Cox",
+  "url": "https://robcox2910.github.io/pynet/",
+  "notes": "- Rob Cox (HTML)"
+ },
+ {
+  "list": "By Subject",
+  "section": "Networking",
+  "tag": "networking",
+  "parts": [
+   "Networking"
+  ],
   "title": "Securing Wireless Networks for the Home User Guide",
   "author": "Mohamed Adel",
   "url": "https://mohamedation.com/securing-wifi/en/",
@@ -28091,6 +28139,18 @@
   "author": "Niklaus Wirth, J\u00fcrg Gutknecht",
   "url": "https://people.inf.ethz.ch/wirth/ProjectOberon/index.html",
   "notes": "- Niklaus Wirth, J\u00fcrg Gutknecht (PDF)"
+ },
+ {
+  "list": "By Subject",
+  "section": "Operating Systems",
+  "tag": "operating-systems",
+  "parts": [
+   "Operating Systems"
+  ],
+  "title": "PyOS: Build your own operating system in Python",
+  "author": "Rob Cox",
+  "url": "https://robcox2910.github.io/py-os/",
+  "notes": "- Rob Cox (HTML)"
  },
  {
   "list": "By Subject",
