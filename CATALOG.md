@@ -1,6 +1,6 @@
 # Catalog
 
-2496 English books listed, **377 saved as files** in [`books/`](books). Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
+2501 English books listed, **380 saved as files** in [`books/`](books). Everything else is an online/HTML book or a link that could not be downloaded, so the original link is kept.
 
 
 ## By Programming Language
@@ -254,7 +254,7 @@
 | C Programming Tutorial | Tutorials Point |  | [link](https://www.tutorialspoint.com/cprogramming/) |
 | Coursebook | B. Venkatesh, L. Angrave, et al. |  | [link](https://github.com/illinois-cs241/coursebook) |
 | Deep C |  |  | [link](https://www.slideshare.net/olvemaudal/deep-c) |
-| Essential C | Nick Parlante |  | [link](https://cs.stanford.edu/people/nick/compdocs/Essential_C.pdf) |
+| Essential C | Nick Parlante | [PDF](books/languages/C/Essential.C.-.Nick.Parlante.pdf) | [link](https://cs.stanford.edu/people/nick/compdocs/Essential_C.pdf) |
 | Essential C | Krzysztof Kowalczyk, StackOverflow Contributors |  | [link](https://www.programming-books.io/essential/c/) |
 | Everything you need to know about pointers in C | Peter Hosey |  | [link](https://boredzo.org/pointers/) |
 | Functional C (1997) | Pieter H. Hartel, Henk Muller |  | [link](https://research.utwente.nl/files/5128727/book.pdf) |
@@ -832,7 +832,7 @@
 | Understanding Flexbox: Everything you need to know | Ohans Emmanuel |  | [link](https://ohansemmanuel.github.io/uf_download.html) |
 | Upgrade Your HTML |  |  | [link](https://github.com/frontenddogma/upgrade-your-html) |
 | W3.CSS Succinctly | Joseph D. Booth |  | [link](https://www.syncfusion.com/ebooks/w3_css_succinctly) |
-| Web Audio API | Boris Smus |  | [link](http://chimera.labs.oreilly.com/books/1234000001552) |
+| Web Audio API | Boris Smus |  | [link](https://webaudioapi.com) |
 | Web Development Essentials | by Linux Professional Institute |  | [link](https://learning.lpi.org/en/learning-materials/030-100/) |
 | Web Visual Effects with CSS3 | Thomas Mak |  | [link](https://leanpub.com/web-visual-effects-with-css3/read) |
 
@@ -1960,7 +1960,7 @@
 | Introduction to Python | Kracekumar |  | [link](http://kracekumar.com/post/71171551647/introduction-to-python) |
 | Introduction to Python | OpenStax |  | [link](https://openstax.org/details/books/introduction-python-programming) |
 | Introduction to Python for Econometrics, Statistics and Numerical Analysis | Kevin Sheppard | [PDF](books/languages/Python/Introduction.to.Python.for.Econometrics.Statistics.and.Numerical.Analysis.-.Kevin.Sheppard.pdf) | [link](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) |
-| Introduction to Scientific Programming with Python | Joakim Sundnes |  | [link](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) |
+| Introduction to Scientific Programming with Python | Joakim Sundnes | [PDF](books/languages/Python/Introduction.to.Scientific.Programming.with.Python.-.Joakim.Sundnes.pdf) | [link](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) |
 | Invent Your Own Computer Games With Python | Al Sweigart |  | [link](https://inventwithpython.com/invent4thed/) |
 | Learn Programming Logic with Games - Python & Pygame | Wilson Kawano |  | [link](https://github.com/kwdeveloper/learn-programming-logic-with-pygame) |
 | Learn Python 3 | Ankit Mahato |  | [link](https://github.com/animator/learn-python) |
@@ -2658,7 +2658,7 @@
 | Unix as IDE | Tom Ryder |  | [link](https://github.com/mrzool/unix-as-ide) |
 | UNIX Commands and Concepts | (PDF) | [PDF](books/languages/Unix/UNIX.Commands.and.Concepts.-.PDF.pdf) | [link](https://www.uwyo.edu/data-science/_files/docs/unix.pdf) |
 | Unix for Poets | Kenneth Ward Church | [PDF](books/languages/Unix/Unix.for.Poets.-.Kenneth.Ward.Church.pdf) | [link](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) |
-| Unix Programming Tools | Parlante, Zelenski |  | [link](https://web.archive.org/web/20260510194803/http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf) |
+| Unix Programming Tools | Parlante, Zelenski | [PDF](books/languages/Unix/Unix.Programming.Tools.-.Parlante.Zelenski.pdf) | [link](https://web.archive.org/web/20260510194803/http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf) |
 | Unix Toolbox | Colin Barschel |  | [link](https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml) |
 | UNIX Tutorial for Beginners |  |  | [link](http://www.ee.surrey.ac.uk/Teaching/Unix/) |
 
@@ -2875,6 +2875,7 @@
 | On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age | Thomas D. Grant, Damon J. Wischik |  | [link](https://link.springer.com/book/10.1007/978-3-030-43582-0) |
 | Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp | Peter Norvig |  | [link](https://github.com/norvig/paip-lisp) |
 | Probabilistic Programming & Bayesian Methods for Hackers | Cam Davidson-Pilon |  | [link](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) |
+| PyLLM: Build your own GPT from scratch in Python | Rob Cox |  | [link](https://robcox2910.github.io/pyllm/) |
 | RAG + Knowledge Graph Master Course | Addy |  | [link](https://www.thequery.in/books/rag-kg-master-course) |
 | Research, Rewritten | Hallie Ren |  | [link](https://hallieren.github.io/research-rewritten/) |
 | Spec-Driven Development: The Definitive Guide to Building Software with AI Agents | Felipe Fontoura |  | [link](https://github.com/felipefontoura/spec-driven-development-book) |
@@ -2961,6 +2962,7 @@
 | Implementing Functional Languages: A Tutorial | Simon Peyton Jones, David Lester |  | [link](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) |
 | Introduction to Compilers and Language Design | Douglas Thain |  | [link](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) |
 | Let's Build a Compiler | Jack W. Crenshaw | [PDF](books/subjects/Compiler%20Design/Let.s.Build.a.Compiler.-.Jack.W..Crenshaw.pdf) | [link](https://www.stack.nl/~marcov/compiler.pdf) |
+| Pebble: Build your own programming language and compiler in Python | Rob Cox |  | [link](https://robcox2910.github.io/pebble-lang/) |
 | Practical and Theoretical Aspects of Compiler Construction |  |  | [link](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) |
 | The ANTLR Mega Tutorial |  |  | [link](https://tomassetti.me/antlr-mega-tutorial/) |
 
@@ -3053,6 +3055,7 @@
 | Database Management Systems Solutions Manual Third Edition | Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu | [PDF](books/subjects/Database/Database.Management.Systems.Solutions.Manual.Third.Edition.-.Raghu.Ramakrishnan.Johannes.Gehrke.Jeff.Derstadt.Scott.Seli.pdf) | [link](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) |
 | Databases, Types, and The Relational Model: The Third Manifesto | C.J. Date, Hugh Darwen | [PDF](books/subjects/Database/Databases.Types.and.The.Relational.Model.The.Third.Manifesto.-.C.J..Date.Hugh.Darwen.pdf) | [link](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) |
 | Foundations of Databases |  |  | [link](http://webdam.inria.fr/Alice/) |
+| PyDB: Build your own SQL database in Python | Rob Cox |  | [link](https://robcox2910.github.io/pydb/) |
 | Readings in Database Systems, 5th Ed. |  |  | [link](http://www.redbook.io) |
 | Temporal Database Management | Christian S. Jensen |  | [link](https://people.cs.aau.dk/~csj/Thesis/) |
 | The Theory of Relational Databases |  |  | [link](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) |
@@ -3491,6 +3494,7 @@
 | Mininet Walkthrough |  |  | [link](https://mininet.org/walkthrough/) |
 | Network Science | Albert-Laszló Barabási |  | [link](http://networksciencebook.com) |
 | Networking! ACK! | Julia Evans |  | [link](https://wizardzines.com/zines/networking/) |
+| PyNet: Build your own networking library in Python | Rob Cox |  | [link](https://robcox2910.github.io/pynet/) |
 | Securing Wireless Networks for the Home User Guide | Mohamed Adel |  | [link](https://mohamedation.com/securing-wifi/en/) |
 | The TCP/IP Guide |  |  | [link](http://www.tcpipguide.com/free/t_toc.htm) |
 | Understanding IP Addressing: Everything you ever wanted to know |  | [PDF](books/subjects/Networking/Understanding.IP.Addressing.Everything.you.ever.wanted.to.know.pdf) | [link](http://pages.di.unipi.it/ricci/501302.pdf) |
@@ -3547,6 +3551,7 @@
 | Operating Systems: Three Easy Pieces | Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau |  | [link](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
 | Practical File System Design: The Be File System | Dominic Giampaolo | [PDF](books/subjects/Operating%20Systems/Practical.File.System.Design.The.Be.File.System.-.Dominic.Giampaolo.pdf) | [link](https://www.nobius.org/~dbg/practical-file-system-design.pdf) |
 | Project Oberon: The Design of an Operating System, a Compiler, and a Computer | Niklaus Wirth, Jürg Gutknecht |  | [link](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) |
+| PyOS: Build your own operating system in Python | Rob Cox |  | [link](https://robcox2910.github.io/py-os/) |
 | The Art of Unix Programming | Eric S. Raymond |  | [link](http://catb.org/esr/writings/taoup/html/) |
 | The Little Book About OS Development | Erik Helin, Adam Renberg - |  | [link](https://littleosbook.github.io) |
 | The Little Book of Semaphores | Allen B. Downey |  | [link](https://greenteapress.com/semaphores/) |
